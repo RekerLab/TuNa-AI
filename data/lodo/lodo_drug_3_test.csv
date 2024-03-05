@@ -1,0 +1,76 @@
+drug_name,excp_name,excp_drug_ratio,class
+Camptothecin,Glycyrrhizin,4.0,0
+Camptothecin,Glycyrrhizin,2.0,0
+Camptothecin,Glycyrrhizin,1.0,0
+Camptothecin,Glycyrrhizin,0.5,0
+Camptothecin,Glycyrrhizin,0.25,0
+Camptothecin,congo_red,4.0,0
+Camptothecin,congo_red,2.0,0
+Camptothecin,congo_red,1.0,0
+Camptothecin,congo_red,0.5,0
+Camptothecin,congo_red,0.25,0
+Camptothecin,cholic_acid,4.0,0
+Camptothecin,cholic_acid,2.0,0
+Camptothecin,cholic_acid,1.0,0
+Camptothecin,cholic_acid,0.5,0
+Camptothecin,cholic_acid,0.25,0
+Camptothecin,glycocholic_acid,4.0,0
+Camptothecin,glycocholic_acid,2.0,0
+Camptothecin,glycocholic_acid,1.0,0
+Camptothecin,glycocholic_acid,0.5,0
+Camptothecin,glycocholic_acid,0.25,0
+Camptothecin,taurocholic acid,4.0,0
+Camptothecin,taurocholic acid,2.0,0
+Camptothecin,taurocholic acid,1.0,0
+Camptothecin,taurocholic acid,0.5,0
+Camptothecin,taurocholic acid,0.25,0
+Camptothecin,prednisone,4.0,0
+Camptothecin,prednisone,2.0,0
+Camptothecin,prednisone,1.0,0
+Camptothecin,prednisone,0.5,0
+Camptothecin,prednisone,0.25,0
+Camptothecin,budesonide,4.0,0
+Camptothecin,budesonide,2.0,0
+Camptothecin,budesonide,1.0,0
+Camptothecin,budesonide,0.5,0
+Camptothecin,budesonide,0.25,0
+Camptothecin,ursodiol,4.0,0
+Camptothecin,ursodiol,2.0,0
+Camptothecin,ursodiol,1.0,0
+Camptothecin,ursodiol,0.5,0
+Camptothecin,ursodiol,0.25,0
+Camptothecin,EvansBlue,4.0,0
+Camptothecin,EvansBlue,2.0,0
+Camptothecin,EvansBlue,1.0,0
+Camptothecin,EvansBlue,0.5,0
+Camptothecin,EvansBlue,0.25,0
+Camptothecin,tannic_acid,4.0,0
+Camptothecin,tannic_acid,2.0,0
+Camptothecin,tannic_acid,1.0,0
+Camptothecin,tannic_acid,0.5,0
+Camptothecin,tannic_acid,0.25,0
+Camptothecin,candesartan_cilexetil,4.0,0
+Camptothecin,candesartan_cilexetil,2.0,0
+Camptothecin,candesartan_cilexetil,1.0,0
+Camptothecin,candesartan_cilexetil,0.5,0
+Camptothecin,candesartan_cilexetil,0.25,0
+Camptothecin,indomethacin,4.0,0
+Camptothecin,indomethacin,2.0,0
+Camptothecin,indomethacin,1.0,0
+Camptothecin,indomethacin,0.5,0
+Camptothecin,indomethacin,0.25,0
+Camptothecin,folic acid,4.0,0
+Camptothecin,folic acid,2.0,0
+Camptothecin,folic acid,1.0,0
+Camptothecin,folic acid,0.5,0
+Camptothecin,folic acid,0.25,0
+Camptothecin,neotame,4.0,0
+Camptothecin,neotame,2.0,0
+Camptothecin,neotame,1.0,0
+Camptothecin,neotame,0.5,0
+Camptothecin,neotame,0.25,0
+Camptothecin,octyl_gallate,4.0,0
+Camptothecin,octyl_gallate,2.0,0
+Camptothecin,octyl_gallate,1.0,0
+Camptothecin,octyl_gallate,0.5,0
+Camptothecin,octyl_gallate,0.25,0

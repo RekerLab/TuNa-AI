@@ -1,0 +1,76 @@
+drug_name,excp_name,excp_drug_ratio,class
+Lapatinib,Glycyrrhizin,4.0,1
+Lapatinib,Glycyrrhizin,2.0,0
+Lapatinib,Glycyrrhizin,1.0,0
+Lapatinib,Glycyrrhizin,0.5,0
+Lapatinib,Glycyrrhizin,0.25,0
+Lapatinib,congo_red,4.0,0
+Lapatinib,congo_red,2.0,1
+Lapatinib,congo_red,1.0,1
+Lapatinib,congo_red,0.5,1
+Lapatinib,congo_red,0.25,1
+Lapatinib,cholic_acid,4.0,0
+Lapatinib,cholic_acid,2.0,0
+Lapatinib,cholic_acid,1.0,0
+Lapatinib,cholic_acid,0.5,0
+Lapatinib,cholic_acid,0.25,0
+Lapatinib,glycocholic_acid,4.0,0
+Lapatinib,glycocholic_acid,2.0,0
+Lapatinib,glycocholic_acid,1.0,0
+Lapatinib,glycocholic_acid,0.5,0
+Lapatinib,glycocholic_acid,0.25,0
+Lapatinib,taurocholic acid,4.0,0
+Lapatinib,taurocholic acid,2.0,0
+Lapatinib,taurocholic acid,1.0,0
+Lapatinib,taurocholic acid,0.5,0
+Lapatinib,taurocholic acid,0.25,0
+Lapatinib,prednisone,4.0,0
+Lapatinib,prednisone,2.0,0
+Lapatinib,prednisone,1.0,0
+Lapatinib,prednisone,0.5,0
+Lapatinib,prednisone,0.25,0
+Lapatinib,budesonide,4.0,0
+Lapatinib,budesonide,2.0,0
+Lapatinib,budesonide,1.0,0
+Lapatinib,budesonide,0.5,0
+Lapatinib,budesonide,0.25,0
+Lapatinib,ursodiol,4.0,0
+Lapatinib,ursodiol,2.0,0
+Lapatinib,ursodiol,1.0,0
+Lapatinib,ursodiol,0.5,0
+Lapatinib,ursodiol,0.25,0
+Lapatinib,EvansBlue,4.0,0
+Lapatinib,EvansBlue,2.0,0
+Lapatinib,EvansBlue,1.0,0
+Lapatinib,EvansBlue,0.5,0
+Lapatinib,EvansBlue,0.25,0
+Lapatinib,tannic_acid,4.0,0
+Lapatinib,tannic_acid,2.0,0
+Lapatinib,tannic_acid,1.0,0
+Lapatinib,tannic_acid,0.5,0
+Lapatinib,tannic_acid,0.25,0
+Lapatinib,candesartan_cilexetil,4.0,0
+Lapatinib,candesartan_cilexetil,2.0,0
+Lapatinib,candesartan_cilexetil,1.0,0
+Lapatinib,candesartan_cilexetil,0.5,0
+Lapatinib,candesartan_cilexetil,0.25,0
+Lapatinib,indomethacin,4.0,0
+Lapatinib,indomethacin,2.0,0
+Lapatinib,indomethacin,1.0,0
+Lapatinib,indomethacin,0.5,0
+Lapatinib,indomethacin,0.25,0
+Lapatinib,folic acid,4.0,0
+Lapatinib,folic acid,2.0,0
+Lapatinib,folic acid,1.0,0
+Lapatinib,folic acid,0.5,0
+Lapatinib,folic acid,0.25,0
+Lapatinib,neotame,4.0,0
+Lapatinib,neotame,2.0,0
+Lapatinib,neotame,1.0,0
+Lapatinib,neotame,0.5,0
+Lapatinib,neotame,0.25,0
+Lapatinib,octyl_gallate,4.0,0
+Lapatinib,octyl_gallate,2.0,0
+Lapatinib,octyl_gallate,1.0,0
+Lapatinib,octyl_gallate,0.5,0
+Lapatinib,octyl_gallate,0.25,0

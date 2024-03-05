@@ -1,0 +1,76 @@
+drug_name,excp_name,excp_drug_ratio,class
+bleomycin,Glycyrrhizin,4.0,0
+bleomycin,Glycyrrhizin,2.0,0
+bleomycin,Glycyrrhizin,1.0,0
+bleomycin,Glycyrrhizin,0.5,0
+bleomycin,Glycyrrhizin,0.25,0
+bleomycin,congo_red,4.0,0
+bleomycin,congo_red,2.0,0
+bleomycin,congo_red,1.0,0
+bleomycin,congo_red,0.5,0
+bleomycin,congo_red,0.25,0
+bleomycin,cholic_acid,4.0,0
+bleomycin,cholic_acid,2.0,0
+bleomycin,cholic_acid,1.0,0
+bleomycin,cholic_acid,0.5,0
+bleomycin,cholic_acid,0.25,0
+bleomycin,glycocholic_acid,4.0,0
+bleomycin,glycocholic_acid,2.0,0
+bleomycin,glycocholic_acid,1.0,0
+bleomycin,glycocholic_acid,0.5,0
+bleomycin,glycocholic_acid,0.25,0
+bleomycin,taurocholic acid,4.0,0
+bleomycin,taurocholic acid,2.0,0
+bleomycin,taurocholic acid,1.0,0
+bleomycin,taurocholic acid,0.5,0
+bleomycin,taurocholic acid,0.25,0
+bleomycin,prednisone,4.0,0
+bleomycin,prednisone,2.0,0
+bleomycin,prednisone,1.0,0
+bleomycin,prednisone,0.5,0
+bleomycin,prednisone,0.25,0
+bleomycin,budesonide,4.0,0
+bleomycin,budesonide,2.0,0
+bleomycin,budesonide,1.0,0
+bleomycin,budesonide,0.5,0
+bleomycin,budesonide,0.25,0
+bleomycin,ursodiol,4.0,0
+bleomycin,ursodiol,2.0,0
+bleomycin,ursodiol,1.0,0
+bleomycin,ursodiol,0.5,0
+bleomycin,ursodiol,0.25,0
+bleomycin,EvansBlue,4.0,0
+bleomycin,EvansBlue,2.0,0
+bleomycin,EvansBlue,1.0,0
+bleomycin,EvansBlue,0.5,0
+bleomycin,EvansBlue,0.25,0
+bleomycin,tannic_acid,4.0,0
+bleomycin,tannic_acid,2.0,0
+bleomycin,tannic_acid,1.0,0
+bleomycin,tannic_acid,0.5,0
+bleomycin,tannic_acid,0.25,0
+bleomycin,candesartan_cilexetil,4.0,1
+bleomycin,candesartan_cilexetil,2.0,1
+bleomycin,candesartan_cilexetil,1.0,0
+bleomycin,candesartan_cilexetil,0.5,0
+bleomycin,candesartan_cilexetil,0.25,0
+bleomycin,indomethacin,4.0,0
+bleomycin,indomethacin,2.0,0
+bleomycin,indomethacin,1.0,0
+bleomycin,indomethacin,0.5,0
+bleomycin,indomethacin,0.25,0
+bleomycin,folic acid,4.0,0
+bleomycin,folic acid,2.0,0
+bleomycin,folic acid,1.0,0
+bleomycin,folic acid,0.5,0
+bleomycin,folic acid,0.25,0
+bleomycin,neotame,4.0,0
+bleomycin,neotame,2.0,0
+bleomycin,neotame,1.0,0
+bleomycin,neotame,0.5,0
+bleomycin,neotame,0.25,0
+bleomycin,octyl_gallate,4.0,0
+bleomycin,octyl_gallate,2.0,0
+bleomycin,octyl_gallate,1.0,0
+bleomycin,octyl_gallate,0.5,0
+bleomycin,octyl_gallate,0.25,0
