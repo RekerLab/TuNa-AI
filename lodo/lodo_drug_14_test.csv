@@ -1,0 +1,76 @@
+drug_name,excp_name,excp_drug_ratio,class
+Gefitinib,Glycyrrhizin,4.0,0
+Gefitinib,Glycyrrhizin,2.0,0
+Gefitinib,Glycyrrhizin,1.0,0
+Gefitinib,Glycyrrhizin,0.5,0
+Gefitinib,Glycyrrhizin,0.25,0
+Gefitinib,congo_red,4.0,0
+Gefitinib,congo_red,2.0,0
+Gefitinib,congo_red,1.0,0
+Gefitinib,congo_red,0.5,0
+Gefitinib,congo_red,0.25,0
+Gefitinib,cholic_acid,4.0,0
+Gefitinib,cholic_acid,2.0,0
+Gefitinib,cholic_acid,1.0,0
+Gefitinib,cholic_acid,0.5,0
+Gefitinib,cholic_acid,0.25,0
+Gefitinib,glycocholic_acid,4.0,0
+Gefitinib,glycocholic_acid,2.0,0
+Gefitinib,glycocholic_acid,1.0,0
+Gefitinib,glycocholic_acid,0.5,0
+Gefitinib,glycocholic_acid,0.25,0
+Gefitinib,taurocholic acid,4.0,0
+Gefitinib,taurocholic acid,2.0,0
+Gefitinib,taurocholic acid,1.0,0
+Gefitinib,taurocholic acid,0.5,0
+Gefitinib,taurocholic acid,0.25,0
+Gefitinib,prednisone,4.0,0
+Gefitinib,prednisone,2.0,0
+Gefitinib,prednisone,1.0,0
+Gefitinib,prednisone,0.5,0
+Gefitinib,prednisone,0.25,0
+Gefitinib,budesonide,4.0,0
+Gefitinib,budesonide,2.0,0
+Gefitinib,budesonide,1.0,0
+Gefitinib,budesonide,0.5,0
+Gefitinib,budesonide,0.25,0
+Gefitinib,ursodiol,4.0,0
+Gefitinib,ursodiol,2.0,0
+Gefitinib,ursodiol,1.0,0
+Gefitinib,ursodiol,0.5,0
+Gefitinib,ursodiol,0.25,0
+Gefitinib,EvansBlue,4.0,1
+Gefitinib,EvansBlue,2.0,0
+Gefitinib,EvansBlue,1.0,0
+Gefitinib,EvansBlue,0.5,0
+Gefitinib,EvansBlue,0.25,0
+Gefitinib,tannic_acid,4.0,0
+Gefitinib,tannic_acid,2.0,0
+Gefitinib,tannic_acid,1.0,0
+Gefitinib,tannic_acid,0.5,0
+Gefitinib,tannic_acid,0.25,0
+Gefitinib,candesartan_cilexetil,4.0,0
+Gefitinib,candesartan_cilexetil,2.0,0
+Gefitinib,candesartan_cilexetil,1.0,0
+Gefitinib,candesartan_cilexetil,0.5,0
+Gefitinib,candesartan_cilexetil,0.25,0
+Gefitinib,indomethacin,4.0,0
+Gefitinib,indomethacin,2.0,0
+Gefitinib,indomethacin,1.0,0
+Gefitinib,indomethacin,0.5,0
+Gefitinib,indomethacin,0.25,0
+Gefitinib,folic acid,4.0,0
+Gefitinib,folic acid,2.0,0
+Gefitinib,folic acid,1.0,0
+Gefitinib,folic acid,0.5,0
+Gefitinib,folic acid,0.25,0
+Gefitinib,neotame,4.0,0
+Gefitinib,neotame,2.0,0
+Gefitinib,neotame,1.0,0
+Gefitinib,neotame,0.5,0
+Gefitinib,neotame,0.25,0
+Gefitinib,octyl_gallate,4.0,0
+Gefitinib,octyl_gallate,2.0,0
+Gefitinib,octyl_gallate,1.0,0
+Gefitinib,octyl_gallate,0.5,0
+Gefitinib,octyl_gallate,0.25,0

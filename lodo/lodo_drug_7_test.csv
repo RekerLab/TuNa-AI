@@ -1,0 +1,76 @@
+drug_name,excp_name,excp_drug_ratio,class
+Nelfinavir,Glycyrrhizin,4.0,1
+Nelfinavir,Glycyrrhizin,2.0,0
+Nelfinavir,Glycyrrhizin,1.0,0
+Nelfinavir,Glycyrrhizin,0.5,0
+Nelfinavir,Glycyrrhizin,0.25,0
+Nelfinavir,congo_red,4.0,1
+Nelfinavir,congo_red,2.0,1
+Nelfinavir,congo_red,1.0,1
+Nelfinavir,congo_red,0.5,1
+Nelfinavir,congo_red,0.25,1
+Nelfinavir,cholic_acid,4.0,0
+Nelfinavir,cholic_acid,2.0,0
+Nelfinavir,cholic_acid,1.0,0
+Nelfinavir,cholic_acid,0.5,0
+Nelfinavir,cholic_acid,0.25,0
+Nelfinavir,glycocholic_acid,4.0,1
+Nelfinavir,glycocholic_acid,2.0,1
+Nelfinavir,glycocholic_acid,1.0,0
+Nelfinavir,glycocholic_acid,0.5,0
+Nelfinavir,glycocholic_acid,0.25,0
+Nelfinavir,taurocholic acid,4.0,1
+Nelfinavir,taurocholic acid,2.0,1
+Nelfinavir,taurocholic acid,1.0,0
+Nelfinavir,taurocholic acid,0.5,0
+Nelfinavir,taurocholic acid,0.25,0
+Nelfinavir,prednisone,4.0,0
+Nelfinavir,prednisone,2.0,0
+Nelfinavir,prednisone,1.0,0
+Nelfinavir,prednisone,0.5,0
+Nelfinavir,prednisone,0.25,0
+Nelfinavir,budesonide,4.0,0
+Nelfinavir,budesonide,2.0,0
+Nelfinavir,budesonide,1.0,0
+Nelfinavir,budesonide,0.5,0
+Nelfinavir,budesonide,0.25,0
+Nelfinavir,ursodiol,4.0,0
+Nelfinavir,ursodiol,2.0,0
+Nelfinavir,ursodiol,1.0,0
+Nelfinavir,ursodiol,0.5,0
+Nelfinavir,ursodiol,0.25,0
+Nelfinavir,EvansBlue,4.0,1
+Nelfinavir,EvansBlue,2.0,1
+Nelfinavir,EvansBlue,1.0,1
+Nelfinavir,EvansBlue,0.5,1
+Nelfinavir,EvansBlue,0.25,1
+Nelfinavir,tannic_acid,4.0,0
+Nelfinavir,tannic_acid,2.0,0
+Nelfinavir,tannic_acid,1.0,0
+Nelfinavir,tannic_acid,0.5,0
+Nelfinavir,tannic_acid,0.25,0
+Nelfinavir,candesartan_cilexetil,4.0,1
+Nelfinavir,candesartan_cilexetil,2.0,1
+Nelfinavir,candesartan_cilexetil,1.0,1
+Nelfinavir,candesartan_cilexetil,0.5,1
+Nelfinavir,candesartan_cilexetil,0.25,0
+Nelfinavir,indomethacin,4.0,0
+Nelfinavir,indomethacin,2.0,0
+Nelfinavir,indomethacin,1.0,0
+Nelfinavir,indomethacin,0.5,0
+Nelfinavir,indomethacin,0.25,0
+Nelfinavir,folic acid,4.0,0
+Nelfinavir,folic acid,2.0,0
+Nelfinavir,folic acid,1.0,0
+Nelfinavir,folic acid,0.5,0
+Nelfinavir,folic acid,0.25,0
+Nelfinavir,neotame,4.0,0
+Nelfinavir,neotame,2.0,0
+Nelfinavir,neotame,1.0,0
+Nelfinavir,neotame,0.5,0
+Nelfinavir,neotame,0.25,0
+Nelfinavir,octyl_gallate,4.0,0
+Nelfinavir,octyl_gallate,2.0,0
+Nelfinavir,octyl_gallate,1.0,0
+Nelfinavir,octyl_gallate,0.5,0
+Nelfinavir,octyl_gallate,0.25,0
