@@ -11,3 +11,5 @@ This study combines *kernel machine design*, *lab automation*, and *experimental
 ![image](https://github.com/user-attachments/assets/99b0d86e-e8f9-4780-94b1-715728c855e3)
 
 This work was presented at The 22nd International Nanomedicine and Drug Delivery Symposium ([NanoDDS2024](https://pharmacy.ufl.edu/2024/09/16/emerging-field-of-nanomedicine-takes-center-stage-as-uf-hosts-nanodds-symposium/)), and received a Trainee Travel Award.
+
+## Dependency
