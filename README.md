@@ -28,7 +28,6 @@ Alternatively, users could implement the analysis on cloud-based platforms with 
 ```
 !pip install xgboost
 !pip install e3fp
-
 ```
 
 
