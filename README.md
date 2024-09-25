@@ -28,3 +28,15 @@ Alternatively, users could implement the analysis on cloud-based platforms with 
 ```
 !pip install xgboost
 !pip install e3fp
+
+```
+
+
+## Descriptions of folders and files
+### data
+The available data sources include:
+* Experimental data of DLS measurement
+* Pre-calculated molecule features
+
+### code
+* This folder includes core functions that underlie the analysis pipeline and executable examples for users to run.
