@@ -13,7 +13,7 @@ This study combines *kernel machine design*, *lab automation*, and *experimental
 This work was presented at The 22nd International Nanomedicine and Drug Delivery Symposium ([NanoDDS2024](https://pharmacy.ufl.edu/2024/09/16/emerging-field-of-nanomedicine-takes-center-stage-as-uf-hosts-nanodds-symposium/)), and received a Trainee Travel Award.
 
 ## Dependency
-Supervised machine learning runs in Python 3.9 using algorithms from [scikit-learn](https://scikit-learn.org/stable/) and [XGBoost](https://xgboost.readthedocs.io/en/stable/). [tqdm](https://github.com/tqdm/tqdm) is a useful tool to visually track your job progress. A fresh conda environment can be set up using
+Supervised machine learning runs in Python 3.9 using algorithms from [scikit-learn](https://scikit-learn.org/stable/) and [XGBoost](https://xgboost.readthedocs.io/en/stable/). [e3fp](https://github.com/keiserlab/e3fp) enables efficient calculation of tanimoto similarity. [tqdm](https://github.com/tqdm/tqdm) is a useful tool to visually track your job progress. A fresh conda environment can be set up using
 
 ```
 conda create -n tuna python=3.9 pandas
