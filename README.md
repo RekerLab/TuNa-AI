@@ -20,11 +20,11 @@ conda create -n tuna python=3.9 pandas
 conda activate tuna
 conda install scikit-learn
 conda install -c conda-forge py-xgboost
-conda install -c conda-forge shap
+conda install -c conda-forge e3fp
 conda install tqdm
 ```
 Alternatively, users could implement the analysis on cloud-based platforms with pre-configured Python environment, e.g. Google Colab, and required packages can be installed using
 
 ```
 !pip install xgboost
-!pip install shap
+!pip install e3fp
