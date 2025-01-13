@@ -1,5 +1,5 @@
 # TuNa-AI: a hybrid kernel machine to design tunable nanoparticles for drug delivery
-This study combines *kernel machine design*, *lab automation*, and *experimental characterization techniques* to develop an **Tu**nable **Na**noparticle platform guided by **AI** (**TuNaAI**).
+This study combines *kernel machine design*, *lab automation*, and *experimental characterization techniques* to develop an **Tu**nable **Na**noparticle platform guided by **AI** (**TuNa-AI**).
 
 - Introduced the concept of **tuning drug-excipient nanoparticles by adjusting stoichiometry** during synthesis.
 - Developed **an automated, high-throughput data generation workflow**.
