@@ -7,8 +7,7 @@ This study combines *kernel machine design*, *lab automation*, and *experimental
 - Enabled **encapsulation of previously inaccessible drugs** by rational increase of excipient.
 - Computationally guided the reduction of excipient to **prepare potent and safer nanoparticles**.
 
-  
-![image](https://github.com/user-attachments/assets/99b0d86e-e8f9-4780-94b1-715728c855e3)
+![kernel](https://github.com/user-attachments/assets/3124451e-cb61-4c2f-8c56-ad99a9fc8741)
 
 This work was presented at The 22nd International Nanomedicine and Drug Delivery Symposium ([NanoDDS2024](https://pharmacy.ufl.edu/2024/09/16/emerging-field-of-nanomedicine-takes-center-stage-as-uf-hosts-nanodds-symposium/)).
 
