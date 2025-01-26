@@ -11,10 +11,7 @@ This study combines *kernel machine design*, *lab automation*, and *experimental
 
 
 ## Dependency
-Supervised machine learning runs in Python 3.9 using algorithms from [scikit-learn](https://scikit-learn.org/stable/) and [XGBoost](https://xgboost.readthedocs.io/en/stable/). The [e3fp](https://github.com/keiserlab/e3fp) package facilitates the efficient calculation of Tanimoto similarity. [RDKit](https://www.rdkit.org/) and [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) are chemoinformatics libraries designed for molecular featurization. Additionally, [tqdm](https://github.com/tqdm/tqdm) provides a convenient way to visually monitor job progress.
-
-Note: The message passing neural network ([Chemprop](https://github.com/chemprop/chemprop)) runs on Linux for compatibility with our computational pipeline.
-
+Supervised machine learning runs using algorithms from [scikit-learn](https://scikit-learn.org/stable/), [XGBoost](https://xgboost.readthedocs.io/en/stable/) and [Chemprop](https://github.com/chemprop/chemprop). The [e3fp](https://github.com/keiserlab/e3fp) package facilitates the efficient calculation of Tanimoto similarity. [RDKit](https://www.rdkit.org/) and [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) are chemoinformatics libraries designed for molecular featurization. Additionally, [tqdm](https://github.com/tqdm/tqdm) provides a convenient way to visually monitor job progress.
 
 ## Descriptions of folders and files
 ### data
