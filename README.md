@@ -11,7 +11,7 @@ This study combines *kernel machine design*, *lab automation*, and *experimental
 
 
 ## Dependency
-Supervised machine learning runs in Python 3.9 using algorithms from [scikit-learn](https://scikit-learn.org/stable/), [XGBoost](https://xgboost.readthedocs.io/en/stable/) and [Chemprop](https://github.com/chemprop/chemprop). [e3fp](https://github.com/keiserlab/e3fp) enables efficient calculation of tanimoto similarity. [RDKit](https://www.rdkit.org/) and [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) are chemoinformatics packages used for molecular featurization. [tqdm](https://github.com/tqdm/tqdm) is a useful tool to visually track your job progress. 
+Supervised machine learning runs in Python 3.9 using algorithms from [scikit-learn](https://scikit-learn.org/stable/), [XGBoost](https://xgboost.readthedocs.io/en/stable/) and [Chemprop](https://github.com/chemprop/chemprop). The [e3fp](https://github.com/keiserlab/e3fp) package facilitates the efficient calculation of Tanimoto similarity. [RDKit](https://www.rdkit.org/) and [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) are chemoinformatics libraries designed for molecular featurization. Additionally, [tqdm](https://github.com/tqdm/tqdm) provides a convenient way to visually monitor job progress. 
 
 A fresh conda environment can be set up using
 
