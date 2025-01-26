@@ -13,23 +13,6 @@ This study combines *kernel machine design*, *lab automation*, and *experimental
 ## Dependency
 Supervised machine learning runs in Python 3.9 using algorithms from [scikit-learn](https://scikit-learn.org/stable/), [XGBoost](https://xgboost.readthedocs.io/en/stable/) and [Chemprop](https://github.com/chemprop/chemprop). The [e3fp](https://github.com/keiserlab/e3fp) package facilitates the efficient calculation of Tanimoto similarity. [RDKit](https://www.rdkit.org/) and [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) are chemoinformatics libraries designed for molecular featurization. Additionally, [tqdm](https://github.com/tqdm/tqdm) provides a convenient way to visually monitor job progress. 
 
-A fresh conda environment can be set up using
-
-```
-conda create -c conda-forge -n tuna python=3.9 pandas scikit-learn py-xgboost e3fp rdkit tqdm
-conda activate tuna
-pip install git+https://github.com/bp-kelley/descriptastorus
-```
-Alternatively, users could implement the analysis on cloud-based platforms with pre-configured Python environment, e.g. Google Colab, and required packages can be installed using
-
-```
-!pip install xgboost
-!pip install e3fp
-!pip install rdkit-pypi
-!pip install git+https://github.com/bp-kelley/descriptastorus
-```
-
-
 ## Descriptions of folders and files
 ### data
 The available data sources include:
