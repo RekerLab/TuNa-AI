@@ -71,7 +71,7 @@ def retro_eval(mode, model_type, eval_df=eval_df):
     unique_mol = list(set(eval_df[col_name]))
     for mol in tqdm(unique_mol, desc=mode):
       train_df = pd.concat([prior_df, eval_df])
-      # remove pairs that include the tested molecule
+      # Remove pairs that include the tested molecule
       train_df = train_df[train_df[col_name] != mol].copy()
       test_df = eval_df[eval_df[col_name] == mol].copy()
       print(len(train_df), len(test_df))
@@ -85,7 +85,7 @@ def retro_eval(mode, model_type, eval_df=eval_df):
     unique_pair = list(set([tuple((eval_df['drug_name'][i], eval_df['excp_name'][i])) for i in range(len(eval_df))]))
     for pair in tqdm(unique_pair, desc=mode):
       train_df = pd.concat([prior_df, eval_df])
-      # remove pairs that include the tested molecule
+      # Remove pairs that include the tested molecule
       train_df = train_df[(train_df['drug_name'] != pair[0]) & (train_df['excp_name'] != pair[1])].copy()
       test_df = eval_df[(eval_df['drug_name'] == pair[0]) & (eval_df['excp_name'] == pair[1])].copy()
       print(len(train_df), len(test_df))
