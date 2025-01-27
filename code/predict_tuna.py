@@ -10,7 +10,6 @@ from tqdm import tqdm
 from sklearn.svm import SVC
 from utils import describe_mol, name2feat, matrices_operation, kernel_pair_feat, model_build, export_to_csv
 
-
 # Constants
 DATA_DIR = '../data'
 RESULTS_DIR = 'predict_tuna'
@@ -28,7 +27,6 @@ train_df.reset_index(drop=True, inplace=True)
 with open(f'{DATA_DIR}/eval_chemical_feat.pkl', 'rb') as input_file:
     train_mol_feat = pickle.load(input_file)
 
-
 # Define the core function
 def predict_new(test_df, test_mol_dict, train_df=train_df, train_mol_dict=train_mol_dict, train_mol_feat=train_mol_feat):
     # Molecule featurization
@@ -43,7 +41,7 @@ def predict_new(test_df, test_mol_dict, train_df=train_df, train_mol_dict=train_
     output = model_build(model, 'kernel', X_train, y_train, X_test)
     time_tracking = [output[0], feat_duration, output[2], output[3], len(y_train), len(test_df)]
 
-    ## summarize and export results
+    # Summarize and export results
     test_df['probability'] = output[1]
     time_tracking_df = pd.DataFrame(data=np.column_stack(time_tracking), columns=['model_name', 'feat_duration_s', 'train_duration_s', 'predict_duration_s', 'train_count', 'predict_count'])
     export_to_csv(test_df, RESULTS_DIR, f'{RESULTS_DIR}_result.csv')
