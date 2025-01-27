@@ -16,8 +16,11 @@ Supervised machine learning runs using algorithms from [scikit-learn](https://sc
 ## Descriptions of folders and files
 ### data
 The available data sources include:
-* Experimental data of DLS measurement
-* Pre-calculated molecule features
+* Historical drug-excipient nanoparticle data
+* High-throughput screening data with various drug/excipient molar ratios
+* Structure information of investigated chemicals
 
 ### code
-* This folder includes core functions that underlie the analysis pipeline and executable examples for users to run.
+This folder includes core functions that underlie the analysis pipeline and executable examples for users to run:
+* Retrospective evaluation of machine learning and deep learning
+* Prospective prediction of new compounds and pairs
