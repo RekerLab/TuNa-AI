@@ -49,7 +49,7 @@ def name2feat(df, mol_dict, mol_feat, label=True):
 def matrices_operation(matrix_list, option='multiplication'):
   if not matrix_list:
     raise ValueError("The input list of matrices is empty.")
-  # initialize the result matrix with the identity matrix of the same shape as the first matrix in the list
+  # Initialize the result matrix with the identity matrix of the same shape as the first matrix in the list
   if option == 'multiplication':
     result = np.ones(matrix_list[0].shape[1], dtype=int)
   elif option == 'addition':
@@ -57,7 +57,7 @@ def matrices_operation(matrix_list, option='multiplication'):
   else:
     raise KeyError("Please select from 'multiplication' and 'addition'. Double check your spelling.")
 
-  # multiply each matrix element-wise with the result, or element-wise addition
+  # Multiply each matrix element-wise with the result, or element-wise addition
   for matrix in matrix_list:
     if option == 'multiplication':
       result = np.multiply(result, matrix)
@@ -116,9 +116,8 @@ def kernel_pair_feat(train_df, test_df, mol_dict, mol_feat, count_fp=2048, count
   else: # prospective prediction
     return train_matrix, y_train, test_matrix    
 
-# Convert similarity to distane matrix
+# Convert similarity to distance matrix
 def sim2dis(similarity_matrix, reference_point):
-  # convert similarity matrix to distance/dissimilarity matrix
   distance_matrix = reference_point - similarity_matrix
   return distance_matrix
 
@@ -141,8 +140,7 @@ def model_build(model, model_type, X_train, y_train, X_test):
 
 # Export results
 def export_to_csv(df, folder, filename):
-  # create the folder if it doesn't exist
-  if not os.path.exists(folder):
-    os.makedirs(folder)
-  # export the dataFrame to a CSV file
+  # Ensure the results directory exists
+  os.makedirs(folder, exist_ok=True)
+  # Export the dataFrame to a CSV file
   df.to_csv(os.path.join(folder, filename), index=False)
