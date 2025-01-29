@@ -94,7 +94,7 @@ def eval_pipeline(mode, prior_df=prior_df, eval_df=eval_df, mol_dict=mol_dict):
             evaluate_model(wd)
 
     elif mode == 'lopo':
-        unique_pair = list(set([tuple((eval_df['drug_name'][i], eval_df['excp_name'][i])) for i in range(len(eval_df))]))
+        unique_pair = list(set(zip(eval_df['drug_name'], eval_df['excp_name'])))
         for pair in tqdm(unique_pair, desc=mode):
             # Set working directory for the current molecule
             wd = f'{RESULTS_DIR}/{mode}_{pair}'     
