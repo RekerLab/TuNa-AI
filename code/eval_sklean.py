@@ -82,7 +82,7 @@ def retro_eval(mode, model_type, eval_df=eval_df):
       time_tracking_dfs.append(time_trackings)
 
   elif mode == 'lopo':
-    unique_pair = list(set([tuple((eval_df['drug_name'][i], eval_df['excp_name'][i])) for i in range(len(eval_df))]))
+    unique_pair = list(set(zip(eval_df['drug_name'], eval_df['excp_name'])))
     for pair in tqdm(unique_pair, desc=mode):
       train_df = pd.concat([prior_df, eval_df])
       # Remove pairs that include the tested molecule
