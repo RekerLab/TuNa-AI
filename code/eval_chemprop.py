@@ -109,6 +109,8 @@ def eval_pipeline(mode, prior_df=prior_df, eval_df=eval_df, mol_dict=mol_dict):
             # Train and evaluate the model
             train_model(wd)
             evaluate_model(wd)
+    else:
+        raise KeyError("Please select from 'lodo', 'loeo' and 'lopo'. Double check your spelling.")
 
 for mode in ['lodo', 'loeo', 'lopo']:
     eval_pipeline(mode)
