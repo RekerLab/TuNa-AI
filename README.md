@@ -24,3 +24,9 @@ The available data sources include:
 This folder includes core functions that underlie the analysis pipeline and executable examples for users to run:
 * Retrospective evaluation of machine learning and deep learning
 * Prospective prediction of new compounds and pairs
+
+## License
+The copyrights of the software are owned by Duke University. As such, two licenses for this software are offered:
+
+An open-source license under the GPLv2 license for non-commercial academic use.
+A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions.
