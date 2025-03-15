@@ -27,6 +27,5 @@ This folder includes core functions that underlie the analysis pipeline and exec
 
 ## License
 The copyrights of the software are owned by Duke University. As such, two licenses for this software are offered:
-
-An open-source license under the GPLv2 license for non-commercial academic use.
-A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions.
+1. An open-source license under the GPLv2 license for non-commercial academic use.
+2. A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions. 
