@@ -17,10 +17,9 @@ os.makedirs(RESULTS_DIR, exist_ok=True)
 prior_df = pd.read_csv(f'{DATA_DIR}/prior_data.csv')
 eval_df = pd.read_csv(f'{DATA_DIR}/screening_data.csv')
 mol_dict_df = pd.read_csv(f'{DATA_DIR}/eval_chemical_dict.csv')
-
-# Define core functions
 mol_dict = dict(zip(mol_dict_df['name'], mol_dict_df['smiles']))
 
+# Define core functions
 def prepare_data(train_df, test_df, mol_dict):
     """
     Adds SMILES columns to train and test dataframes based on molecule names.
