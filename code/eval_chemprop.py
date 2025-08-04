@@ -33,12 +33,8 @@ def save_dataframes_and_ratios(wd, train_df, test_df):
     Saves train/test data and ratios to the specified directory.
     """
     os.makedirs(wd, exist_ok=True)
-
-    # Save train data and ratio
     train_df.to_csv(f'{wd}/train.csv', index=False)
     train_df[['excp_drug_ratio']].to_csv(f'{wd}/train_ratio.csv', index=False)
-
-    # Save test data and ratio
     test_df.to_csv(f'{wd}/test.csv', index=False)
     test_df[['excp_drug_ratio']].to_csv(f'{wd}/test_ratio.csv', index=False)
 
@@ -56,7 +52,7 @@ def train_model(wd):
         '--features_path', f'{wd}/train_ratio.csv'
     ]
     args = chemprop.args.TrainArgs().parse_args(arguments)
-    chemprop.train.cross_validate(args=args, train_func=chemprop.train.run_training)
+    chemprop.train.run_training(args=args)
 
 def evaluate_model(wd):
     """
@@ -77,40 +73,48 @@ def eval_pipeline(mode, prior_df=prior_df, eval_df=eval_df, mol_dict=mol_dict):
     if mode in ['lodo', 'loeo']:
         col_name = 'drug_name' if mode == 'lodo' else 'excp_name'
         unique_mol = eval_df[col_name].unique()
+
         for mol in tqdm(unique_mol, desc=f"Processing {mode}"):
-            # Set working directory for the current molecule
             wd = f'{RESULTS_DIR}/{mode}_{mol}'
-            # Split data into train and test
-            train_df = pd.concat([prior_df, eval_df])
-            train_df = train_df[train_df[col_name] != mol].copy()
+            if os.path.exists(f'{wd}/output.csv'):
+                continue
+
+            train_df = pd.concat([prior_df, eval_df[eval_df[col_name] != mol]], ignore_index=True)
             test_df = eval_df[eval_df[col_name] == mol].copy()
-            # Prepare data with SMILES columns
+
+            if test_df.empty:
+                continue
+
             prepare_data(train_df, test_df, mol_dict)
-            # Save dataframes and ratios
             save_dataframes_and_ratios(wd, train_df, test_df)
-            # Train and evaluate the model
             train_model(wd)
             evaluate_model(wd)
 
     elif mode == 'lopo':
-        unique_pair = list(set(zip(eval_df['drug_name'], eval_df['excp_name'])))
-        for pair in tqdm(unique_pair, desc=mode):
-            # Set working directory for the current molecule
-            wd = f'{RESULTS_DIR}/{mode}_{pair}'     
-            # Split data into train and test
-            train_df = pd.concat([prior_df, eval_df])
-            train_df = train_df[(train_df['drug_name'] != pair[0]) & (train_df['excp_name'] != pair[1])].copy()
-            test_df = eval_df[(eval_df['drug_name'] == pair[0]) & (eval_df['excp_name'] == pair[1])].copy()
-            # Prepare data with SMILES columns
+        unique_pairs = list(set(zip(eval_df['drug_name'], eval_df['excp_name'])))
+
+        for drug, excp in tqdm(unique_pairs, desc="Processing lopo"):
+            wd = f'{RESULTS_DIR}/{mode}_{drug}_{excp}'
+            if os.path.exists(f'{wd}/output.csv'):
+                continue
+
+            test_df = eval_df[(eval_df['drug_name'] == drug) & (eval_df['excp_name'] == excp)].copy()
+            if test_df.empty:
+                continue
+
+            train_df = pd.concat([
+                prior_df,
+                eval_df[~((eval_df['drug_name'] == drug) & (eval_df['excp_name'] == excp))]
+            ], ignore_index=True)
+
             prepare_data(train_df, test_df, mol_dict)
-            # Save dataframes and ratios
             save_dataframes_and_ratios(wd, train_df, test_df)
-            # Train and evaluate the model
             train_model(wd)
             evaluate_model(wd)
-    else:
-        raise KeyError("Please select from 'lodo', 'loeo' and 'lopo'. Double check your spelling.")
 
+    else:
+        raise KeyError("Please select from 'lodo', 'loeo' or 'lopo'. Double check your spelling.")
+
+# Run evaluation
 for mode in ['lodo', 'loeo', 'lopo']:
     eval_pipeline(mode)
-
