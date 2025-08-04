@@ -1,1276 +1,1276 @@
-drug_name,excp_name,excp_drug_ratio,class
-Sorafenib,Glycyrrhizin,4.0,1
-Sorafenib,Glycyrrhizin,2.0,1
-Sorafenib,Glycyrrhizin,1.0,1
-Sorafenib,Glycyrrhizin,0.5,1
-Sorafenib,Glycyrrhizin,0.25,1
-Sorafenib,congo_red,4.0,0
-Sorafenib,congo_red,2.0,1
-Sorafenib,congo_red,1.0,1
-Sorafenib,congo_red,0.5,1
-Sorafenib,congo_red,0.25,1
-Sorafenib,cholic_acid,4.0,1
-Sorafenib,cholic_acid,2.0,1
-Sorafenib,cholic_acid,1.0,1
-Sorafenib,cholic_acid,0.5,1
-Sorafenib,cholic_acid,0.25,0
-Sorafenib,glycocholic_acid,4.0,0
-Sorafenib,glycocholic_acid,2.0,0
-Sorafenib,glycocholic_acid,1.0,0
-Sorafenib,glycocholic_acid,0.5,0
-Sorafenib,glycocholic_acid,0.25,0
-Sorafenib,taurocholic acid,4.0,1
-Sorafenib,taurocholic acid,2.0,1
-Sorafenib,taurocholic acid,1.0,1
-Sorafenib,taurocholic acid,0.5,1
-Sorafenib,taurocholic acid,0.25,1
-Sorafenib,prednisone,4.0,0
-Sorafenib,prednisone,2.0,0
-Sorafenib,prednisone,1.0,0
-Sorafenib,prednisone,0.5,0
-Sorafenib,prednisone,0.25,0
-Sorafenib,budesonide,4.0,0
-Sorafenib,budesonide,2.0,0
-Sorafenib,budesonide,1.0,0
-Sorafenib,budesonide,0.5,0
-Sorafenib,budesonide,0.25,0
-Sorafenib,ursodiol,4.0,1
-Sorafenib,ursodiol,2.0,1
-Sorafenib,ursodiol,1.0,1
-Sorafenib,ursodiol,0.5,1
-Sorafenib,ursodiol,0.25,0
-Sorafenib,EvansBlue,4.0,1
-Sorafenib,EvansBlue,2.0,1
-Sorafenib,EvansBlue,1.0,1
-Sorafenib,EvansBlue,0.5,1
-Sorafenib,EvansBlue,0.25,1
-Sorafenib,tannic_acid,4.0,0
-Sorafenib,tannic_acid,2.0,1
-Sorafenib,tannic_acid,1.0,1
-Sorafenib,tannic_acid,0.5,1
-Sorafenib,tannic_acid,0.25,1
-Sorafenib,candesartan_cilexetil,4.0,1
-Sorafenib,candesartan_cilexetil,2.0,1
-Sorafenib,candesartan_cilexetil,1.0,1
-Sorafenib,candesartan_cilexetil,0.5,1
-Sorafenib,candesartan_cilexetil,0.25,1
-Sorafenib,indomethacin,4.0,1
-Sorafenib,indomethacin,2.0,1
-Sorafenib,indomethacin,1.0,1
-Sorafenib,indomethacin,0.5,1
-Sorafenib,indomethacin,0.25,0
-Sorafenib,folic acid,4.0,0
-Sorafenib,folic acid,2.0,0
-Sorafenib,folic acid,1.0,0
-Sorafenib,folic acid,0.5,0
-Sorafenib,folic acid,0.25,0
-Sorafenib,neotame,4.0,0
-Sorafenib,neotame,2.0,0
-Sorafenib,neotame,1.0,0
-Sorafenib,neotame,0.5,0
-Sorafenib,neotame,0.25,0
-Sorafenib,octyl_gallate,4.0,0
-Sorafenib,octyl_gallate,2.0,0
-Sorafenib,octyl_gallate,1.0,0
-Sorafenib,octyl_gallate,0.5,0
-Sorafenib,octyl_gallate,0.25,0
-Fulvestrant,Glycyrrhizin,4.0,1
-Fulvestrant,Glycyrrhizin,2.0,1
-Fulvestrant,Glycyrrhizin,1.0,1
-Fulvestrant,Glycyrrhizin,0.5,1
-Fulvestrant,Glycyrrhizin,0.25,1
-Fulvestrant,congo_red,4.0,1
-Fulvestrant,congo_red,2.0,1
-Fulvestrant,congo_red,1.0,1
-Fulvestrant,congo_red,0.5,1
-Fulvestrant,congo_red,0.25,1
-Fulvestrant,cholic_acid,4.0,0
-Fulvestrant,cholic_acid,2.0,1
-Fulvestrant,cholic_acid,1.0,1
-Fulvestrant,cholic_acid,0.5,1
-Fulvestrant,cholic_acid,0.25,0
-Fulvestrant,glycocholic_acid,4.0,0
-Fulvestrant,glycocholic_acid,2.0,0
-Fulvestrant,glycocholic_acid,1.0,0
-Fulvestrant,glycocholic_acid,0.5,0
-Fulvestrant,glycocholic_acid,0.25,0
-Fulvestrant,taurocholic acid,4.0,1
-Fulvestrant,taurocholic acid,2.0,1
-Fulvestrant,taurocholic acid,1.0,1
-Fulvestrant,taurocholic acid,0.5,1
-Fulvestrant,taurocholic acid,0.25,1
-Fulvestrant,prednisone,4.0,0
-Fulvestrant,prednisone,2.0,0
-Fulvestrant,prednisone,1.0,0
-Fulvestrant,prednisone,0.5,0
-Fulvestrant,prednisone,0.25,0
-Fulvestrant,budesonide,4.0,0
-Fulvestrant,budesonide,2.0,0
-Fulvestrant,budesonide,1.0,0
-Fulvestrant,budesonide,0.5,0
-Fulvestrant,budesonide,0.25,0
-Fulvestrant,ursodiol,4.0,1
-Fulvestrant,ursodiol,2.0,1
-Fulvestrant,ursodiol,1.0,0
-Fulvestrant,ursodiol,0.5,0
-Fulvestrant,ursodiol,0.25,0
-Fulvestrant,EvansBlue,4.0,1
-Fulvestrant,EvansBlue,2.0,1
-Fulvestrant,EvansBlue,1.0,1
-Fulvestrant,EvansBlue,0.5,1
-Fulvestrant,EvansBlue,0.25,1
-Fulvestrant,tannic_acid,4.0,0
-Fulvestrant,tannic_acid,2.0,1
-Fulvestrant,tannic_acid,1.0,1
-Fulvestrant,tannic_acid,0.5,1
-Fulvestrant,tannic_acid,0.25,1
-Fulvestrant,candesartan_cilexetil,4.0,1
-Fulvestrant,candesartan_cilexetil,2.0,1
-Fulvestrant,candesartan_cilexetil,1.0,1
-Fulvestrant,candesartan_cilexetil,0.5,1
-Fulvestrant,candesartan_cilexetil,0.25,1
-Fulvestrant,indomethacin,4.0,1
-Fulvestrant,indomethacin,2.0,1
-Fulvestrant,indomethacin,1.0,1
-Fulvestrant,indomethacin,0.5,0
-Fulvestrant,indomethacin,0.25,0
-Fulvestrant,folic acid,4.0,0
-Fulvestrant,folic acid,2.0,0
-Fulvestrant,folic acid,1.0,0
-Fulvestrant,folic acid,0.5,0
-Fulvestrant,folic acid,0.25,0
-Fulvestrant,neotame,4.0,0
-Fulvestrant,neotame,2.0,0
-Fulvestrant,neotame,1.0,0
-Fulvestrant,neotame,0.5,0
-Fulvestrant,neotame,0.25,0
-Fulvestrant,octyl_gallate,4.0,0
-Fulvestrant,octyl_gallate,2.0,0
-Fulvestrant,octyl_gallate,1.0,0
-Fulvestrant,octyl_gallate,0.5,0
-Fulvestrant,octyl_gallate,0.25,0
-Lapatinib,Glycyrrhizin,4.0,1
-Lapatinib,Glycyrrhizin,2.0,0
-Lapatinib,Glycyrrhizin,1.0,0
-Lapatinib,Glycyrrhizin,0.5,0
-Lapatinib,Glycyrrhizin,0.25,0
-Lapatinib,congo_red,4.0,0
-Lapatinib,congo_red,2.0,1
-Lapatinib,congo_red,1.0,1
-Lapatinib,congo_red,0.5,1
-Lapatinib,congo_red,0.25,1
-Lapatinib,cholic_acid,4.0,0
-Lapatinib,cholic_acid,2.0,0
-Lapatinib,cholic_acid,1.0,0
-Lapatinib,cholic_acid,0.5,0
-Lapatinib,cholic_acid,0.25,0
-Lapatinib,glycocholic_acid,4.0,0
-Lapatinib,glycocholic_acid,2.0,0
-Lapatinib,glycocholic_acid,1.0,0
-Lapatinib,glycocholic_acid,0.5,0
-Lapatinib,glycocholic_acid,0.25,0
-Lapatinib,taurocholic acid,4.0,0
-Lapatinib,taurocholic acid,2.0,0
-Lapatinib,taurocholic acid,1.0,0
-Lapatinib,taurocholic acid,0.5,0
-Lapatinib,taurocholic acid,0.25,0
-Lapatinib,prednisone,4.0,0
-Lapatinib,prednisone,2.0,0
-Lapatinib,prednisone,1.0,0
-Lapatinib,prednisone,0.5,0
-Lapatinib,prednisone,0.25,0
-Lapatinib,budesonide,4.0,0
-Lapatinib,budesonide,2.0,0
-Lapatinib,budesonide,1.0,0
-Lapatinib,budesonide,0.5,0
-Lapatinib,budesonide,0.25,0
-Lapatinib,ursodiol,4.0,0
-Lapatinib,ursodiol,2.0,0
-Lapatinib,ursodiol,1.0,0
-Lapatinib,ursodiol,0.5,0
-Lapatinib,ursodiol,0.25,0
-Lapatinib,EvansBlue,4.0,0
-Lapatinib,EvansBlue,2.0,0
-Lapatinib,EvansBlue,1.0,0
-Lapatinib,EvansBlue,0.5,0
-Lapatinib,EvansBlue,0.25,0
-Lapatinib,tannic_acid,4.0,0
-Lapatinib,tannic_acid,2.0,0
-Lapatinib,tannic_acid,1.0,0
-Lapatinib,tannic_acid,0.5,0
-Lapatinib,tannic_acid,0.25,0
-Lapatinib,candesartan_cilexetil,4.0,0
-Lapatinib,candesartan_cilexetil,2.0,0
-Lapatinib,candesartan_cilexetil,1.0,0
-Lapatinib,candesartan_cilexetil,0.5,0
-Lapatinib,candesartan_cilexetil,0.25,0
-Lapatinib,indomethacin,4.0,0
-Lapatinib,indomethacin,2.0,0
-Lapatinib,indomethacin,1.0,0
-Lapatinib,indomethacin,0.5,0
-Lapatinib,indomethacin,0.25,0
-Lapatinib,folic acid,4.0,0
-Lapatinib,folic acid,2.0,0
-Lapatinib,folic acid,1.0,0
-Lapatinib,folic acid,0.5,0
-Lapatinib,folic acid,0.25,0
-Lapatinib,neotame,4.0,0
-Lapatinib,neotame,2.0,0
-Lapatinib,neotame,1.0,0
-Lapatinib,neotame,0.5,0
-Lapatinib,neotame,0.25,0
-Lapatinib,octyl_gallate,4.0,0
-Lapatinib,octyl_gallate,2.0,0
-Lapatinib,octyl_gallate,1.0,0
-Lapatinib,octyl_gallate,0.5,0
-Lapatinib,octyl_gallate,0.25,0
-Docetaxel,Glycyrrhizin,4.0,0
-Docetaxel,Glycyrrhizin,2.0,0
-Docetaxel,Glycyrrhizin,1.0,0
-Docetaxel,Glycyrrhizin,0.5,0
-Docetaxel,Glycyrrhizin,0.25,0
-Docetaxel,congo_red,4.0,0
-Docetaxel,congo_red,2.0,0
-Docetaxel,congo_red,1.0,0
-Docetaxel,congo_red,0.5,0
-Docetaxel,congo_red,0.25,0
-Docetaxel,cholic_acid,4.0,0
-Docetaxel,cholic_acid,2.0,0
-Docetaxel,cholic_acid,1.0,0
-Docetaxel,cholic_acid,0.5,0
-Docetaxel,cholic_acid,0.25,0
-Docetaxel,glycocholic_acid,4.0,0
-Docetaxel,glycocholic_acid,2.0,0
-Docetaxel,glycocholic_acid,1.0,0
-Docetaxel,glycocholic_acid,0.5,0
-Docetaxel,glycocholic_acid,0.25,0
-Docetaxel,taurocholic acid,4.0,0
-Docetaxel,taurocholic acid,2.0,0
-Docetaxel,taurocholic acid,1.0,0
-Docetaxel,taurocholic acid,0.5,0
-Docetaxel,taurocholic acid,0.25,0
-Docetaxel,prednisone,4.0,0
-Docetaxel,prednisone,2.0,0
-Docetaxel,prednisone,1.0,0
-Docetaxel,prednisone,0.5,0
-Docetaxel,prednisone,0.25,0
-Docetaxel,budesonide,4.0,0
-Docetaxel,budesonide,2.0,0
-Docetaxel,budesonide,1.0,0
-Docetaxel,budesonide,0.5,0
-Docetaxel,budesonide,0.25,0
-Docetaxel,ursodiol,4.0,0
-Docetaxel,ursodiol,2.0,0
-Docetaxel,ursodiol,1.0,0
-Docetaxel,ursodiol,0.5,0
-Docetaxel,ursodiol,0.25,0
-Docetaxel,EvansBlue,4.0,0
-Docetaxel,EvansBlue,2.0,0
-Docetaxel,EvansBlue,1.0,0
-Docetaxel,EvansBlue,0.5,0
-Docetaxel,EvansBlue,0.25,0
-Docetaxel,tannic_acid,4.0,0
-Docetaxel,tannic_acid,2.0,0
-Docetaxel,tannic_acid,1.0,0
-Docetaxel,tannic_acid,0.5,0
-Docetaxel,tannic_acid,0.25,0
-Docetaxel,candesartan_cilexetil,4.0,1
-Docetaxel,candesartan_cilexetil,2.0,1
-Docetaxel,candesartan_cilexetil,1.0,1
-Docetaxel,candesartan_cilexetil,0.5,1
-Docetaxel,candesartan_cilexetil,0.25,1
-Docetaxel,indomethacin,4.0,0
-Docetaxel,indomethacin,2.0,0
-Docetaxel,indomethacin,1.0,0
-Docetaxel,indomethacin,0.5,0
-Docetaxel,indomethacin,0.25,0
-Docetaxel,folic acid,4.0,0
-Docetaxel,folic acid,2.0,0
-Docetaxel,folic acid,1.0,0
-Docetaxel,folic acid,0.5,0
-Docetaxel,folic acid,0.25,0
-Docetaxel,neotame,4.0,0
-Docetaxel,neotame,2.0,0
-Docetaxel,neotame,1.0,0
-Docetaxel,neotame,0.5,0
-Docetaxel,neotame,0.25,0
-Docetaxel,octyl_gallate,4.0,0
-Docetaxel,octyl_gallate,2.0,0
-Docetaxel,octyl_gallate,1.0,0
-Docetaxel,octyl_gallate,0.5,0
-Docetaxel,octyl_gallate,0.25,0
-Taxol,Glycyrrhizin,4.0,0
-Taxol,Glycyrrhizin,2.0,0
-Taxol,Glycyrrhizin,1.0,0
-Taxol,Glycyrrhizin,0.5,0
-Taxol,Glycyrrhizin,0.25,0
-Taxol,congo_red,4.0,0
-Taxol,congo_red,2.0,1
-Taxol,congo_red,1.0,1
-Taxol,congo_red,0.5,1
-Taxol,congo_red,0.25,1
-Taxol,cholic_acid,4.0,0
-Taxol,cholic_acid,2.0,0
-Taxol,cholic_acid,1.0,0
-Taxol,cholic_acid,0.5,0
-Taxol,cholic_acid,0.25,0
-Taxol,glycocholic_acid,4.0,0
-Taxol,glycocholic_acid,2.0,0
-Taxol,glycocholic_acid,1.0,0
-Taxol,glycocholic_acid,0.5,0
-Taxol,glycocholic_acid,0.25,0
-Taxol,taurocholic acid,4.0,0
-Taxol,taurocholic acid,2.0,0
-Taxol,taurocholic acid,1.0,0
-Taxol,taurocholic acid,0.5,0
-Taxol,taurocholic acid,0.25,0
-Taxol,prednisone,4.0,0
-Taxol,prednisone,2.0,0
-Taxol,prednisone,1.0,0
-Taxol,prednisone,0.5,0
-Taxol,prednisone,0.25,0
-Taxol,budesonide,4.0,0
-Taxol,budesonide,2.0,0
-Taxol,budesonide,1.0,0
-Taxol,budesonide,0.5,0
-Taxol,budesonide,0.25,0
-Taxol,ursodiol,4.0,0
-Taxol,ursodiol,2.0,0
-Taxol,ursodiol,1.0,0
-Taxol,ursodiol,0.5,0
-Taxol,ursodiol,0.25,0
-Taxol,EvansBlue,4.0,0
-Taxol,EvansBlue,2.0,1
-Taxol,EvansBlue,1.0,1
-Taxol,EvansBlue,0.5,1
-Taxol,EvansBlue,0.25,1
-Taxol,tannic_acid,4.0,0
-Taxol,tannic_acid,2.0,0
-Taxol,tannic_acid,1.0,0
-Taxol,tannic_acid,0.5,0
-Taxol,tannic_acid,0.25,0
-Taxol,candesartan_cilexetil,4.0,1
-Taxol,candesartan_cilexetil,2.0,1
-Taxol,candesartan_cilexetil,1.0,1
-Taxol,candesartan_cilexetil,0.5,0
-Taxol,candesartan_cilexetil,0.25,0
-Taxol,indomethacin,4.0,0
-Taxol,indomethacin,2.0,0
-Taxol,indomethacin,1.0,0
-Taxol,indomethacin,0.5,0
-Taxol,indomethacin,0.25,0
-Taxol,folic acid,4.0,0
-Taxol,folic acid,2.0,0
-Taxol,folic acid,1.0,0
-Taxol,folic acid,0.5,0
-Taxol,folic acid,0.25,0
-Taxol,neotame,4.0,0
-Taxol,neotame,2.0,0
-Taxol,neotame,1.0,0
-Taxol,neotame,0.5,0
-Taxol,neotame,0.25,0
-Taxol,octyl_gallate,4.0,0
-Taxol,octyl_gallate,2.0,0
-Taxol,octyl_gallate,1.0,0
-Taxol,octyl_gallate,0.5,0
-Taxol,octyl_gallate,0.25,0
-bleomycin,Glycyrrhizin,4.0,0
-bleomycin,Glycyrrhizin,2.0,0
-bleomycin,Glycyrrhizin,1.0,0
-bleomycin,Glycyrrhizin,0.5,0
-bleomycin,Glycyrrhizin,0.25,0
-bleomycin,congo_red,4.0,0
-bleomycin,congo_red,2.0,0
-bleomycin,congo_red,1.0,0
-bleomycin,congo_red,0.5,0
-bleomycin,congo_red,0.25,0
-bleomycin,cholic_acid,4.0,0
-bleomycin,cholic_acid,2.0,0
-bleomycin,cholic_acid,1.0,0
-bleomycin,cholic_acid,0.5,0
-bleomycin,cholic_acid,0.25,0
-bleomycin,glycocholic_acid,4.0,0
-bleomycin,glycocholic_acid,2.0,0
-bleomycin,glycocholic_acid,1.0,0
-bleomycin,glycocholic_acid,0.5,0
-bleomycin,glycocholic_acid,0.25,0
-bleomycin,taurocholic acid,4.0,0
-bleomycin,taurocholic acid,2.0,0
-bleomycin,taurocholic acid,1.0,0
-bleomycin,taurocholic acid,0.5,0
-bleomycin,taurocholic acid,0.25,0
-bleomycin,prednisone,4.0,0
-bleomycin,prednisone,2.0,0
-bleomycin,prednisone,1.0,0
-bleomycin,prednisone,0.5,0
-bleomycin,prednisone,0.25,0
-bleomycin,budesonide,4.0,0
-bleomycin,budesonide,2.0,0
-bleomycin,budesonide,1.0,0
-bleomycin,budesonide,0.5,0
-bleomycin,budesonide,0.25,0
-bleomycin,ursodiol,4.0,0
-bleomycin,ursodiol,2.0,0
-bleomycin,ursodiol,1.0,0
-bleomycin,ursodiol,0.5,0
-bleomycin,ursodiol,0.25,0
-bleomycin,EvansBlue,4.0,0
-bleomycin,EvansBlue,2.0,0
-bleomycin,EvansBlue,1.0,0
-bleomycin,EvansBlue,0.5,0
-bleomycin,EvansBlue,0.25,0
-bleomycin,tannic_acid,4.0,0
-bleomycin,tannic_acid,2.0,0
-bleomycin,tannic_acid,1.0,0
-bleomycin,tannic_acid,0.5,0
-bleomycin,tannic_acid,0.25,0
-bleomycin,candesartan_cilexetil,4.0,1
-bleomycin,candesartan_cilexetil,2.0,1
-bleomycin,candesartan_cilexetil,1.0,0
-bleomycin,candesartan_cilexetil,0.5,0
-bleomycin,candesartan_cilexetil,0.25,0
-bleomycin,indomethacin,4.0,0
-bleomycin,indomethacin,2.0,0
-bleomycin,indomethacin,1.0,0
-bleomycin,indomethacin,0.5,0
-bleomycin,indomethacin,0.25,0
-bleomycin,folic acid,4.0,0
-bleomycin,folic acid,2.0,0
-bleomycin,folic acid,1.0,0
-bleomycin,folic acid,0.5,0
-bleomycin,folic acid,0.25,0
-bleomycin,neotame,4.0,0
-bleomycin,neotame,2.0,0
-bleomycin,neotame,1.0,0
-bleomycin,neotame,0.5,0
-bleomycin,neotame,0.25,0
-bleomycin,octyl_gallate,4.0,0
-bleomycin,octyl_gallate,2.0,0
-bleomycin,octyl_gallate,1.0,0
-bleomycin,octyl_gallate,0.5,0
-bleomycin,octyl_gallate,0.25,0
-(S)-10-Hydroxycamptothecin,Glycyrrhizin,4.0,0
-(S)-10-Hydroxycamptothecin,Glycyrrhizin,2.0,0
-(S)-10-Hydroxycamptothecin,Glycyrrhizin,1.0,0
-(S)-10-Hydroxycamptothecin,Glycyrrhizin,0.5,0
-(S)-10-Hydroxycamptothecin,Glycyrrhizin,0.25,0
-(S)-10-Hydroxycamptothecin,congo_red,4.0,0
-(S)-10-Hydroxycamptothecin,congo_red,2.0,0
-(S)-10-Hydroxycamptothecin,congo_red,1.0,0
-(S)-10-Hydroxycamptothecin,congo_red,0.5,0
-(S)-10-Hydroxycamptothecin,congo_red,0.25,0
-(S)-10-Hydroxycamptothecin,cholic_acid,4.0,0
-(S)-10-Hydroxycamptothecin,cholic_acid,2.0,0
-(S)-10-Hydroxycamptothecin,cholic_acid,1.0,0
-(S)-10-Hydroxycamptothecin,cholic_acid,0.5,0
-(S)-10-Hydroxycamptothecin,cholic_acid,0.25,0
-(S)-10-Hydroxycamptothecin,glycocholic_acid,4.0,0
-(S)-10-Hydroxycamptothecin,glycocholic_acid,2.0,0
-(S)-10-Hydroxycamptothecin,glycocholic_acid,1.0,0
-(S)-10-Hydroxycamptothecin,glycocholic_acid,0.5,0
-(S)-10-Hydroxycamptothecin,glycocholic_acid,0.25,0
-(S)-10-Hydroxycamptothecin,taurocholic acid,4.0,0
-(S)-10-Hydroxycamptothecin,taurocholic acid,2.0,0
-(S)-10-Hydroxycamptothecin,taurocholic acid,1.0,0
-(S)-10-Hydroxycamptothecin,taurocholic acid,0.5,0
-(S)-10-Hydroxycamptothecin,taurocholic acid,0.25,0
-(S)-10-Hydroxycamptothecin,prednisone,4.0,0
-(S)-10-Hydroxycamptothecin,prednisone,2.0,0
-(S)-10-Hydroxycamptothecin,prednisone,1.0,0
-(S)-10-Hydroxycamptothecin,prednisone,0.5,0
-(S)-10-Hydroxycamptothecin,prednisone,0.25,0
-(S)-10-Hydroxycamptothecin,budesonide,4.0,0
-(S)-10-Hydroxycamptothecin,budesonide,2.0,0
-(S)-10-Hydroxycamptothecin,budesonide,1.0,0
-(S)-10-Hydroxycamptothecin,budesonide,0.5,0
-(S)-10-Hydroxycamptothecin,budesonide,0.25,0
-(S)-10-Hydroxycamptothecin,ursodiol,4.0,0
-(S)-10-Hydroxycamptothecin,ursodiol,2.0,0
-(S)-10-Hydroxycamptothecin,ursodiol,1.0,0
-(S)-10-Hydroxycamptothecin,ursodiol,0.5,0
-(S)-10-Hydroxycamptothecin,ursodiol,0.25,0
-(S)-10-Hydroxycamptothecin,EvansBlue,4.0,0
-(S)-10-Hydroxycamptothecin,EvansBlue,2.0,0
-(S)-10-Hydroxycamptothecin,EvansBlue,1.0,0
-(S)-10-Hydroxycamptothecin,EvansBlue,0.5,0
-(S)-10-Hydroxycamptothecin,EvansBlue,0.25,0
-(S)-10-Hydroxycamptothecin,tannic_acid,4.0,0
-(S)-10-Hydroxycamptothecin,tannic_acid,2.0,0
-(S)-10-Hydroxycamptothecin,tannic_acid,1.0,0
-(S)-10-Hydroxycamptothecin,tannic_acid,0.5,0
-(S)-10-Hydroxycamptothecin,tannic_acid,0.25,0
-(S)-10-Hydroxycamptothecin,candesartan_cilexetil,4.0,0
-(S)-10-Hydroxycamptothecin,candesartan_cilexetil,2.0,0
-(S)-10-Hydroxycamptothecin,candesartan_cilexetil,1.0,0
-(S)-10-Hydroxycamptothecin,candesartan_cilexetil,0.5,0
-(S)-10-Hydroxycamptothecin,candesartan_cilexetil,0.25,0
-(S)-10-Hydroxycamptothecin,indomethacin,4.0,0
-(S)-10-Hydroxycamptothecin,indomethacin,2.0,0
-(S)-10-Hydroxycamptothecin,indomethacin,1.0,0
-(S)-10-Hydroxycamptothecin,indomethacin,0.5,0
-(S)-10-Hydroxycamptothecin,indomethacin,0.25,0
-(S)-10-Hydroxycamptothecin,folic acid,4.0,0
-(S)-10-Hydroxycamptothecin,folic acid,2.0,0
-(S)-10-Hydroxycamptothecin,folic acid,1.0,0
-(S)-10-Hydroxycamptothecin,folic acid,0.5,0
-(S)-10-Hydroxycamptothecin,folic acid,0.25,0
-(S)-10-Hydroxycamptothecin,neotame,4.0,0
-(S)-10-Hydroxycamptothecin,neotame,2.0,0
-(S)-10-Hydroxycamptothecin,neotame,1.0,0
-(S)-10-Hydroxycamptothecin,neotame,0.5,0
-(S)-10-Hydroxycamptothecin,neotame,0.25,0
-(S)-10-Hydroxycamptothecin,octyl_gallate,4.0,0
-(S)-10-Hydroxycamptothecin,octyl_gallate,2.0,0
-(S)-10-Hydroxycamptothecin,octyl_gallate,1.0,0
-(S)-10-Hydroxycamptothecin,octyl_gallate,0.5,0
-(S)-10-Hydroxycamptothecin,octyl_gallate,0.25,0
-Erlotinib,Glycyrrhizin,4.0,0
-Erlotinib,Glycyrrhizin,2.0,0
-Erlotinib,Glycyrrhizin,1.0,0
-Erlotinib,Glycyrrhizin,0.5,0
-Erlotinib,Glycyrrhizin,0.25,0
-Erlotinib,congo_red,4.0,0
-Erlotinib,congo_red,2.0,0
-Erlotinib,congo_red,1.0,0
-Erlotinib,congo_red,0.5,1
-Erlotinib,congo_red,0.25,1
-Erlotinib,cholic_acid,4.0,0
-Erlotinib,cholic_acid,2.0,0
-Erlotinib,cholic_acid,1.0,0
-Erlotinib,cholic_acid,0.5,0
-Erlotinib,cholic_acid,0.25,0
-Erlotinib,glycocholic_acid,4.0,0
-Erlotinib,glycocholic_acid,2.0,0
-Erlotinib,glycocholic_acid,1.0,0
-Erlotinib,glycocholic_acid,0.5,0
-Erlotinib,glycocholic_acid,0.25,0
-Erlotinib,taurocholic acid,4.0,0
-Erlotinib,taurocholic acid,2.0,0
-Erlotinib,taurocholic acid,1.0,0
-Erlotinib,taurocholic acid,0.5,0
-Erlotinib,taurocholic acid,0.25,0
-Erlotinib,prednisone,4.0,0
-Erlotinib,prednisone,2.0,0
-Erlotinib,prednisone,1.0,0
-Erlotinib,prednisone,0.5,0
-Erlotinib,prednisone,0.25,0
-Erlotinib,budesonide,4.0,0
-Erlotinib,budesonide,2.0,0
-Erlotinib,budesonide,1.0,0
-Erlotinib,budesonide,0.5,0
-Erlotinib,budesonide,0.25,0
-Erlotinib,ursodiol,4.0,0
-Erlotinib,ursodiol,2.0,0
-Erlotinib,ursodiol,1.0,0
-Erlotinib,ursodiol,0.5,0
-Erlotinib,ursodiol,0.25,0
-Erlotinib,EvansBlue,4.0,0
-Erlotinib,EvansBlue,2.0,0
-Erlotinib,EvansBlue,1.0,0
-Erlotinib,EvansBlue,0.5,0
-Erlotinib,EvansBlue,0.25,0
-Erlotinib,tannic_acid,4.0,0
-Erlotinib,tannic_acid,2.0,0
-Erlotinib,tannic_acid,1.0,0
-Erlotinib,tannic_acid,0.5,0
-Erlotinib,tannic_acid,0.25,0
-Erlotinib,candesartan_cilexetil,4.0,0
-Erlotinib,candesartan_cilexetil,2.0,1
-Erlotinib,candesartan_cilexetil,1.0,0
-Erlotinib,candesartan_cilexetil,0.5,0
-Erlotinib,candesartan_cilexetil,0.25,0
-Erlotinib,indomethacin,4.0,0
-Erlotinib,indomethacin,2.0,0
-Erlotinib,indomethacin,1.0,0
-Erlotinib,indomethacin,0.5,0
-Erlotinib,indomethacin,0.25,0
-Erlotinib,folic acid,4.0,0
-Erlotinib,folic acid,2.0,0
-Erlotinib,folic acid,1.0,0
-Erlotinib,folic acid,0.5,0
-Erlotinib,folic acid,0.25,0
-Erlotinib,neotame,4.0,0
-Erlotinib,neotame,2.0,0
-Erlotinib,neotame,1.0,0
-Erlotinib,neotame,0.5,0
-Erlotinib,neotame,0.25,0
-Erlotinib,octyl_gallate,4.0,0
-Erlotinib,octyl_gallate,2.0,0
-Erlotinib,octyl_gallate,1.0,0
-Erlotinib,octyl_gallate,0.5,0
-Erlotinib,octyl_gallate,0.25,0
-Camptothecin,Glycyrrhizin,4.0,0
-Camptothecin,Glycyrrhizin,2.0,0
-Camptothecin,Glycyrrhizin,1.0,0
-Camptothecin,Glycyrrhizin,0.5,0
-Camptothecin,Glycyrrhizin,0.25,0
-Camptothecin,congo_red,4.0,0
-Camptothecin,congo_red,2.0,0
-Camptothecin,congo_red,1.0,0
-Camptothecin,congo_red,0.5,0
-Camptothecin,congo_red,0.25,0
-Camptothecin,cholic_acid,4.0,0
-Camptothecin,cholic_acid,2.0,0
-Camptothecin,cholic_acid,1.0,0
-Camptothecin,cholic_acid,0.5,0
-Camptothecin,cholic_acid,0.25,0
-Camptothecin,glycocholic_acid,4.0,0
-Camptothecin,glycocholic_acid,2.0,0
-Camptothecin,glycocholic_acid,1.0,0
-Camptothecin,glycocholic_acid,0.5,0
-Camptothecin,glycocholic_acid,0.25,0
-Camptothecin,taurocholic acid,4.0,0
-Camptothecin,taurocholic acid,2.0,0
-Camptothecin,taurocholic acid,1.0,0
-Camptothecin,taurocholic acid,0.5,0
-Camptothecin,taurocholic acid,0.25,0
-Camptothecin,prednisone,4.0,0
-Camptothecin,prednisone,2.0,0
-Camptothecin,prednisone,1.0,0
-Camptothecin,prednisone,0.5,0
-Camptothecin,prednisone,0.25,0
-Camptothecin,budesonide,4.0,0
-Camptothecin,budesonide,2.0,0
-Camptothecin,budesonide,1.0,0
-Camptothecin,budesonide,0.5,0
-Camptothecin,budesonide,0.25,0
-Camptothecin,ursodiol,4.0,0
-Camptothecin,ursodiol,2.0,0
-Camptothecin,ursodiol,1.0,0
-Camptothecin,ursodiol,0.5,0
-Camptothecin,ursodiol,0.25,0
-Camptothecin,EvansBlue,4.0,0
-Camptothecin,EvansBlue,2.0,0
-Camptothecin,EvansBlue,1.0,0
-Camptothecin,EvansBlue,0.5,0
-Camptothecin,EvansBlue,0.25,0
-Camptothecin,tannic_acid,4.0,0
-Camptothecin,tannic_acid,2.0,0
-Camptothecin,tannic_acid,1.0,0
-Camptothecin,tannic_acid,0.5,0
-Camptothecin,tannic_acid,0.25,0
-Camptothecin,candesartan_cilexetil,4.0,0
-Camptothecin,candesartan_cilexetil,2.0,0
-Camptothecin,candesartan_cilexetil,1.0,0
-Camptothecin,candesartan_cilexetil,0.5,0
-Camptothecin,candesartan_cilexetil,0.25,0
-Camptothecin,indomethacin,4.0,0
-Camptothecin,indomethacin,2.0,0
-Camptothecin,indomethacin,1.0,0
-Camptothecin,indomethacin,0.5,0
-Camptothecin,indomethacin,0.25,0
-Camptothecin,folic acid,4.0,0
-Camptothecin,folic acid,2.0,0
-Camptothecin,folic acid,1.0,0
-Camptothecin,folic acid,0.5,0
-Camptothecin,folic acid,0.25,0
-Camptothecin,neotame,4.0,0
-Camptothecin,neotame,2.0,0
-Camptothecin,neotame,1.0,0
-Camptothecin,neotame,0.5,0
-Camptothecin,neotame,0.25,0
-Camptothecin,octyl_gallate,4.0,0
-Camptothecin,octyl_gallate,2.0,0
-Camptothecin,octyl_gallate,1.0,0
-Camptothecin,octyl_gallate,0.5,0
-Camptothecin,octyl_gallate,0.25,0
-Sunitinib,Glycyrrhizin,4.0,0
-Sunitinib,Glycyrrhizin,2.0,0
-Sunitinib,Glycyrrhizin,1.0,0
-Sunitinib,Glycyrrhizin,0.5,0
-Sunitinib,Glycyrrhizin,0.25,0
-Sunitinib,congo_red,4.0,0
-Sunitinib,congo_red,2.0,0
-Sunitinib,congo_red,1.0,0
-Sunitinib,congo_red,0.5,0
-Sunitinib,congo_red,0.25,0
-Sunitinib,cholic_acid,4.0,0
-Sunitinib,cholic_acid,2.0,0
-Sunitinib,cholic_acid,1.0,0
-Sunitinib,cholic_acid,0.5,0
-Sunitinib,cholic_acid,0.25,0
-Sunitinib,glycocholic_acid,4.0,0
-Sunitinib,glycocholic_acid,2.0,0
-Sunitinib,glycocholic_acid,1.0,0
-Sunitinib,glycocholic_acid,0.5,0
-Sunitinib,glycocholic_acid,0.25,0
-Sunitinib,taurocholic acid,4.0,0
-Sunitinib,taurocholic acid,2.0,0
-Sunitinib,taurocholic acid,1.0,0
-Sunitinib,taurocholic acid,0.5,0
-Sunitinib,taurocholic acid,0.25,0
-Sunitinib,prednisone,4.0,0
-Sunitinib,prednisone,2.0,0
-Sunitinib,prednisone,1.0,0
-Sunitinib,prednisone,0.5,0
-Sunitinib,prednisone,0.25,0
-Sunitinib,budesonide,4.0,0
-Sunitinib,budesonide,2.0,0
-Sunitinib,budesonide,1.0,0
-Sunitinib,budesonide,0.5,0
-Sunitinib,budesonide,0.25,0
-Sunitinib,ursodiol,4.0,0
-Sunitinib,ursodiol,2.0,0
-Sunitinib,ursodiol,1.0,0
-Sunitinib,ursodiol,0.5,0
-Sunitinib,ursodiol,0.25,0
-Sunitinib,EvansBlue,4.0,0
-Sunitinib,EvansBlue,2.0,0
-Sunitinib,EvansBlue,1.0,1
-Sunitinib,EvansBlue,0.5,1
-Sunitinib,EvansBlue,0.25,0
-Sunitinib,tannic_acid,4.0,0
-Sunitinib,tannic_acid,2.0,0
-Sunitinib,tannic_acid,1.0,0
-Sunitinib,tannic_acid,0.5,0
-Sunitinib,tannic_acid,0.25,0
-Sunitinib,candesartan_cilexetil,4.0,0
-Sunitinib,candesartan_cilexetil,2.0,0
-Sunitinib,candesartan_cilexetil,1.0,0
-Sunitinib,candesartan_cilexetil,0.5,0
-Sunitinib,candesartan_cilexetil,0.25,0
-Sunitinib,indomethacin,4.0,0
-Sunitinib,indomethacin,2.0,0
-Sunitinib,indomethacin,1.0,0
-Sunitinib,indomethacin,0.5,0
-Sunitinib,indomethacin,0.25,0
-Sunitinib,folic acid,4.0,0
-Sunitinib,folic acid,2.0,0
-Sunitinib,folic acid,1.0,0
-Sunitinib,folic acid,0.5,0
-Sunitinib,folic acid,0.25,0
-Sunitinib,neotame,4.0,0
-Sunitinib,neotame,2.0,0
-Sunitinib,neotame,1.0,0
-Sunitinib,neotame,0.5,0
-Sunitinib,neotame,0.25,0
-Sunitinib,octyl_gallate,4.0,0
-Sunitinib,octyl_gallate,2.0,0
-Sunitinib,octyl_gallate,1.0,0
-Sunitinib,octyl_gallate,0.5,0
-Sunitinib,octyl_gallate,0.25,0
-Selumetinib,Glycyrrhizin,4.0,0
-Selumetinib,Glycyrrhizin,2.0,0
-Selumetinib,Glycyrrhizin,1.0,0
-Selumetinib,Glycyrrhizin,0.5,0
-Selumetinib,Glycyrrhizin,0.25,0
-Selumetinib,congo_red,4.0,0
-Selumetinib,congo_red,2.0,0
-Selumetinib,congo_red,1.0,0
-Selumetinib,congo_red,0.5,0
-Selumetinib,congo_red,0.25,0
-Selumetinib,cholic_acid,4.0,0
-Selumetinib,cholic_acid,2.0,0
-Selumetinib,cholic_acid,1.0,0
-Selumetinib,cholic_acid,0.5,0
-Selumetinib,cholic_acid,0.25,0
-Selumetinib,glycocholic_acid,4.0,0
-Selumetinib,glycocholic_acid,2.0,0
-Selumetinib,glycocholic_acid,1.0,0
-Selumetinib,glycocholic_acid,0.5,0
-Selumetinib,glycocholic_acid,0.25,0
-Selumetinib,taurocholic acid,4.0,0
-Selumetinib,taurocholic acid,2.0,0
-Selumetinib,taurocholic acid,1.0,0
-Selumetinib,taurocholic acid,0.5,0
-Selumetinib,taurocholic acid,0.25,0
-Selumetinib,prednisone,4.0,0
-Selumetinib,prednisone,2.0,0
-Selumetinib,prednisone,1.0,0
-Selumetinib,prednisone,0.5,0
-Selumetinib,prednisone,0.25,0
-Selumetinib,budesonide,4.0,0
-Selumetinib,budesonide,2.0,0
-Selumetinib,budesonide,1.0,0
-Selumetinib,budesonide,0.5,0
-Selumetinib,budesonide,0.25,0
-Selumetinib,ursodiol,4.0,0
-Selumetinib,ursodiol,2.0,0
-Selumetinib,ursodiol,1.0,0
-Selumetinib,ursodiol,0.5,0
-Selumetinib,ursodiol,0.25,0
-Selumetinib,EvansBlue,4.0,0
-Selumetinib,EvansBlue,2.0,0
-Selumetinib,EvansBlue,1.0,0
-Selumetinib,EvansBlue,0.5,0
-Selumetinib,EvansBlue,0.25,0
-Selumetinib,tannic_acid,4.0,0
-Selumetinib,tannic_acid,2.0,0
-Selumetinib,tannic_acid,1.0,0
-Selumetinib,tannic_acid,0.5,0
-Selumetinib,tannic_acid,0.25,1
-Selumetinib,candesartan_cilexetil,4.0,0
-Selumetinib,candesartan_cilexetil,2.0,0
-Selumetinib,candesartan_cilexetil,1.0,0
-Selumetinib,candesartan_cilexetil,0.5,1
-Selumetinib,candesartan_cilexetil,0.25,1
-Selumetinib,indomethacin,4.0,0
-Selumetinib,indomethacin,2.0,0
-Selumetinib,indomethacin,1.0,0
-Selumetinib,indomethacin,0.5,0
-Selumetinib,indomethacin,0.25,0
-Selumetinib,folic acid,4.0,0
-Selumetinib,folic acid,2.0,0
-Selumetinib,folic acid,1.0,0
-Selumetinib,folic acid,0.5,0
-Selumetinib,folic acid,0.25,0
-Selumetinib,neotame,4.0,0
-Selumetinib,neotame,2.0,0
-Selumetinib,neotame,1.0,0
-Selumetinib,neotame,0.5,0
-Selumetinib,neotame,0.25,0
-Selumetinib,octyl_gallate,4.0,0
-Selumetinib,octyl_gallate,2.0,0
-Selumetinib,octyl_gallate,1.0,0
-Selumetinib,octyl_gallate,0.5,0
-Selumetinib,octyl_gallate,0.25,0
-Gefitinib,Glycyrrhizin,4.0,0
-Gefitinib,Glycyrrhizin,2.0,0
-Gefitinib,Glycyrrhizin,1.0,0
-Gefitinib,Glycyrrhizin,0.5,0
-Gefitinib,Glycyrrhizin,0.25,0
-Gefitinib,congo_red,4.0,0
-Gefitinib,congo_red,2.0,0
-Gefitinib,congo_red,1.0,0
-Gefitinib,congo_red,0.5,0
-Gefitinib,congo_red,0.25,0
-Gefitinib,cholic_acid,4.0,0
-Gefitinib,cholic_acid,2.0,0
-Gefitinib,cholic_acid,1.0,0
-Gefitinib,cholic_acid,0.5,0
-Gefitinib,cholic_acid,0.25,0
-Gefitinib,glycocholic_acid,4.0,0
-Gefitinib,glycocholic_acid,2.0,0
-Gefitinib,glycocholic_acid,1.0,0
-Gefitinib,glycocholic_acid,0.5,0
-Gefitinib,glycocholic_acid,0.25,0
-Gefitinib,taurocholic acid,4.0,0
-Gefitinib,taurocholic acid,2.0,0
-Gefitinib,taurocholic acid,1.0,0
-Gefitinib,taurocholic acid,0.5,0
-Gefitinib,taurocholic acid,0.25,0
-Gefitinib,prednisone,4.0,0
-Gefitinib,prednisone,2.0,0
-Gefitinib,prednisone,1.0,0
-Gefitinib,prednisone,0.5,0
-Gefitinib,prednisone,0.25,0
-Gefitinib,budesonide,4.0,0
-Gefitinib,budesonide,2.0,0
-Gefitinib,budesonide,1.0,0
-Gefitinib,budesonide,0.5,0
-Gefitinib,budesonide,0.25,0
-Gefitinib,ursodiol,4.0,0
-Gefitinib,ursodiol,2.0,0
-Gefitinib,ursodiol,1.0,0
-Gefitinib,ursodiol,0.5,0
-Gefitinib,ursodiol,0.25,0
-Gefitinib,EvansBlue,4.0,1
-Gefitinib,EvansBlue,2.0,0
-Gefitinib,EvansBlue,1.0,0
-Gefitinib,EvansBlue,0.5,0
-Gefitinib,EvansBlue,0.25,0
-Gefitinib,tannic_acid,4.0,0
-Gefitinib,tannic_acid,2.0,0
-Gefitinib,tannic_acid,1.0,0
-Gefitinib,tannic_acid,0.5,0
-Gefitinib,tannic_acid,0.25,0
-Gefitinib,candesartan_cilexetil,4.0,0
-Gefitinib,candesartan_cilexetil,2.0,0
-Gefitinib,candesartan_cilexetil,1.0,0
-Gefitinib,candesartan_cilexetil,0.5,0
-Gefitinib,candesartan_cilexetil,0.25,0
-Gefitinib,indomethacin,4.0,0
-Gefitinib,indomethacin,2.0,0
-Gefitinib,indomethacin,1.0,0
-Gefitinib,indomethacin,0.5,0
-Gefitinib,indomethacin,0.25,0
-Gefitinib,folic acid,4.0,0
-Gefitinib,folic acid,2.0,0
-Gefitinib,folic acid,1.0,0
-Gefitinib,folic acid,0.5,0
-Gefitinib,folic acid,0.25,0
-Gefitinib,neotame,4.0,0
-Gefitinib,neotame,2.0,0
-Gefitinib,neotame,1.0,0
-Gefitinib,neotame,0.5,0
-Gefitinib,neotame,0.25,0
-Gefitinib,octyl_gallate,4.0,0
-Gefitinib,octyl_gallate,2.0,0
-Gefitinib,octyl_gallate,1.0,0
-Gefitinib,octyl_gallate,0.5,0
-Gefitinib,octyl_gallate,0.25,0
-Nilotinib,Glycyrrhizin,4.0,0
-Nilotinib,Glycyrrhizin,2.0,0
-Nilotinib,Glycyrrhizin,1.0,0
-Nilotinib,Glycyrrhizin,0.5,0
-Nilotinib,Glycyrrhizin,0.25,0
-Nilotinib,congo_red,4.0,0
-Nilotinib,congo_red,2.0,0
-Nilotinib,congo_red,1.0,0
-Nilotinib,congo_red,0.5,0
-Nilotinib,congo_red,0.25,0
-Nilotinib,cholic_acid,4.0,0
-Nilotinib,cholic_acid,2.0,0
-Nilotinib,cholic_acid,1.0,0
-Nilotinib,cholic_acid,0.5,0
-Nilotinib,cholic_acid,0.25,0
-Nilotinib,glycocholic_acid,4.0,0
-Nilotinib,glycocholic_acid,2.0,0
-Nilotinib,glycocholic_acid,1.0,0
-Nilotinib,glycocholic_acid,0.5,0
-Nilotinib,glycocholic_acid,0.25,0
-Nilotinib,taurocholic acid,4.0,0
-Nilotinib,taurocholic acid,2.0,0
-Nilotinib,taurocholic acid,1.0,0
-Nilotinib,taurocholic acid,0.5,0
-Nilotinib,taurocholic acid,0.25,0
-Nilotinib,prednisone,4.0,0
-Nilotinib,prednisone,2.0,0
-Nilotinib,prednisone,1.0,0
-Nilotinib,prednisone,0.5,0
-Nilotinib,prednisone,0.25,0
-Nilotinib,budesonide,4.0,0
-Nilotinib,budesonide,2.0,0
-Nilotinib,budesonide,1.0,0
-Nilotinib,budesonide,0.5,0
-Nilotinib,budesonide,0.25,0
-Nilotinib,ursodiol,4.0,0
-Nilotinib,ursodiol,2.0,0
-Nilotinib,ursodiol,1.0,0
-Nilotinib,ursodiol,0.5,0
-Nilotinib,ursodiol,0.25,0
-Nilotinib,EvansBlue,4.0,0
-Nilotinib,EvansBlue,2.0,0
-Nilotinib,EvansBlue,1.0,0
-Nilotinib,EvansBlue,0.5,0
-Nilotinib,EvansBlue,0.25,0
-Nilotinib,tannic_acid,4.0,0
-Nilotinib,tannic_acid,2.0,0
-Nilotinib,tannic_acid,1.0,0
-Nilotinib,tannic_acid,0.5,0
-Nilotinib,tannic_acid,0.25,0
-Nilotinib,candesartan_cilexetil,4.0,1
-Nilotinib,candesartan_cilexetil,2.0,1
-Nilotinib,candesartan_cilexetil,1.0,1
-Nilotinib,candesartan_cilexetil,0.5,1
-Nilotinib,candesartan_cilexetil,0.25,1
-Nilotinib,indomethacin,4.0,0
-Nilotinib,indomethacin,2.0,0
-Nilotinib,indomethacin,1.0,0
-Nilotinib,indomethacin,0.5,0
-Nilotinib,indomethacin,0.25,0
-Nilotinib,folic acid,4.0,0
-Nilotinib,folic acid,2.0,0
-Nilotinib,folic acid,1.0,0
-Nilotinib,folic acid,0.5,0
-Nilotinib,folic acid,0.25,0
-Nilotinib,neotame,4.0,0
-Nilotinib,neotame,2.0,0
-Nilotinib,neotame,1.0,0
-Nilotinib,neotame,0.5,0
-Nilotinib,neotame,0.25,0
-Nilotinib,octyl_gallate,4.0,0
-Nilotinib,octyl_gallate,2.0,0
-Nilotinib,octyl_gallate,1.0,0
-Nilotinib,octyl_gallate,0.5,0
-Nilotinib,octyl_gallate,0.25,0
-Nelfinavir,Glycyrrhizin,4.0,1
-Nelfinavir,Glycyrrhizin,2.0,0
-Nelfinavir,Glycyrrhizin,1.0,0
-Nelfinavir,Glycyrrhizin,0.5,0
-Nelfinavir,Glycyrrhizin,0.25,0
-Nelfinavir,congo_red,4.0,1
-Nelfinavir,congo_red,2.0,1
-Nelfinavir,congo_red,1.0,1
-Nelfinavir,congo_red,0.5,1
-Nelfinavir,congo_red,0.25,1
-Nelfinavir,cholic_acid,4.0,0
-Nelfinavir,cholic_acid,2.0,0
-Nelfinavir,cholic_acid,1.0,0
-Nelfinavir,cholic_acid,0.5,0
-Nelfinavir,cholic_acid,0.25,0
-Nelfinavir,glycocholic_acid,4.0,1
-Nelfinavir,glycocholic_acid,2.0,1
-Nelfinavir,glycocholic_acid,1.0,0
-Nelfinavir,glycocholic_acid,0.5,0
-Nelfinavir,glycocholic_acid,0.25,0
-Nelfinavir,taurocholic acid,4.0,1
-Nelfinavir,taurocholic acid,2.0,1
-Nelfinavir,taurocholic acid,1.0,0
-Nelfinavir,taurocholic acid,0.5,0
-Nelfinavir,taurocholic acid,0.25,0
-Nelfinavir,prednisone,4.0,0
-Nelfinavir,prednisone,2.0,0
-Nelfinavir,prednisone,1.0,0
-Nelfinavir,prednisone,0.5,0
-Nelfinavir,prednisone,0.25,0
-Nelfinavir,budesonide,4.0,0
-Nelfinavir,budesonide,2.0,0
-Nelfinavir,budesonide,1.0,0
-Nelfinavir,budesonide,0.5,0
-Nelfinavir,budesonide,0.25,0
-Nelfinavir,ursodiol,4.0,0
-Nelfinavir,ursodiol,2.0,0
-Nelfinavir,ursodiol,1.0,0
-Nelfinavir,ursodiol,0.5,0
-Nelfinavir,ursodiol,0.25,0
-Nelfinavir,EvansBlue,4.0,1
-Nelfinavir,EvansBlue,2.0,1
-Nelfinavir,EvansBlue,1.0,1
-Nelfinavir,EvansBlue,0.5,1
-Nelfinavir,EvansBlue,0.25,1
-Nelfinavir,tannic_acid,4.0,0
-Nelfinavir,tannic_acid,2.0,0
-Nelfinavir,tannic_acid,1.0,0
-Nelfinavir,tannic_acid,0.5,0
-Nelfinavir,tannic_acid,0.25,0
-Nelfinavir,candesartan_cilexetil,4.0,1
-Nelfinavir,candesartan_cilexetil,2.0,1
-Nelfinavir,candesartan_cilexetil,1.0,1
-Nelfinavir,candesartan_cilexetil,0.5,1
-Nelfinavir,candesartan_cilexetil,0.25,0
-Nelfinavir,indomethacin,4.0,0
-Nelfinavir,indomethacin,2.0,0
-Nelfinavir,indomethacin,1.0,0
-Nelfinavir,indomethacin,0.5,0
-Nelfinavir,indomethacin,0.25,0
-Nelfinavir,folic acid,4.0,0
-Nelfinavir,folic acid,2.0,0
-Nelfinavir,folic acid,1.0,0
-Nelfinavir,folic acid,0.5,0
-Nelfinavir,folic acid,0.25,0
-Nelfinavir,neotame,4.0,0
-Nelfinavir,neotame,2.0,0
-Nelfinavir,neotame,1.0,0
-Nelfinavir,neotame,0.5,0
-Nelfinavir,neotame,0.25,0
-Nelfinavir,octyl_gallate,4.0,0
-Nelfinavir,octyl_gallate,2.0,0
-Nelfinavir,octyl_gallate,1.0,0
-Nelfinavir,octyl_gallate,0.5,0
-Nelfinavir,octyl_gallate,0.25,0
-Glimepiride,Glycyrrhizin,4.0,0
-Glimepiride,Glycyrrhizin,2.0,0
-Glimepiride,Glycyrrhizin,1.0,0
-Glimepiride,Glycyrrhizin,0.5,0
-Glimepiride,Glycyrrhizin,0.25,0
-Glimepiride,congo_red,4.0,0
-Glimepiride,congo_red,2.0,0
-Glimepiride,congo_red,1.0,0
-Glimepiride,congo_red,0.5,0
-Glimepiride,congo_red,0.25,0
-Glimepiride,cholic_acid,4.0,0
-Glimepiride,cholic_acid,2.0,0
-Glimepiride,cholic_acid,1.0,0
-Glimepiride,cholic_acid,0.5,0
-Glimepiride,cholic_acid,0.25,0
-Glimepiride,glycocholic_acid,4.0,0
-Glimepiride,glycocholic_acid,2.0,0
-Glimepiride,glycocholic_acid,1.0,0
-Glimepiride,glycocholic_acid,0.5,0
-Glimepiride,glycocholic_acid,0.25,0
-Glimepiride,taurocholic acid,4.0,0
-Glimepiride,taurocholic acid,2.0,0
-Glimepiride,taurocholic acid,1.0,0
-Glimepiride,taurocholic acid,0.5,0
-Glimepiride,taurocholic acid,0.25,0
-Glimepiride,prednisone,4.0,0
-Glimepiride,prednisone,2.0,0
-Glimepiride,prednisone,1.0,0
-Glimepiride,prednisone,0.5,0
-Glimepiride,prednisone,0.25,0
-Glimepiride,budesonide,4.0,0
-Glimepiride,budesonide,2.0,0
-Glimepiride,budesonide,1.0,0
-Glimepiride,budesonide,0.5,0
-Glimepiride,budesonide,0.25,0
-Glimepiride,ursodiol,4.0,0
-Glimepiride,ursodiol,2.0,0
-Glimepiride,ursodiol,1.0,0
-Glimepiride,ursodiol,0.5,0
-Glimepiride,ursodiol,0.25,0
-Glimepiride,EvansBlue,4.0,0
-Glimepiride,EvansBlue,2.0,0
-Glimepiride,EvansBlue,1.0,0
-Glimepiride,EvansBlue,0.5,0
-Glimepiride,EvansBlue,0.25,0
-Glimepiride,tannic_acid,4.0,0
-Glimepiride,tannic_acid,2.0,0
-Glimepiride,tannic_acid,1.0,0
-Glimepiride,tannic_acid,0.5,0
-Glimepiride,tannic_acid,0.25,0
-Glimepiride,candesartan_cilexetil,4.0,0
-Glimepiride,candesartan_cilexetil,2.0,0
-Glimepiride,candesartan_cilexetil,1.0,0
-Glimepiride,candesartan_cilexetil,0.5,0
-Glimepiride,candesartan_cilexetil,0.25,0
-Glimepiride,indomethacin,4.0,0
-Glimepiride,indomethacin,2.0,0
-Glimepiride,indomethacin,1.0,0
-Glimepiride,indomethacin,0.5,0
-Glimepiride,indomethacin,0.25,0
-Glimepiride,folic acid,4.0,0
-Glimepiride,folic acid,2.0,0
-Glimepiride,folic acid,1.0,0
-Glimepiride,folic acid,0.5,0
-Glimepiride,folic acid,0.25,0
-Glimepiride,neotame,4.0,0
-Glimepiride,neotame,2.0,0
-Glimepiride,neotame,1.0,0
-Glimepiride,neotame,0.5,0
-Glimepiride,neotame,0.25,0
-Glimepiride,octyl_gallate,4.0,0
-Glimepiride,octyl_gallate,2.0,0
-Glimepiride,octyl_gallate,1.0,0
-Glimepiride,octyl_gallate,0.5,0
-Glimepiride,octyl_gallate,0.25,0
-ceritinib,Glycyrrhizin,4.0,0
-ceritinib,Glycyrrhizin,2.0,0
-ceritinib,Glycyrrhizin,1.0,0
-ceritinib,Glycyrrhizin,0.5,0
-ceritinib,Glycyrrhizin,0.25,0
-ceritinib,congo_red,4.0,1
-ceritinib,congo_red,2.0,1
-ceritinib,congo_red,1.0,0
-ceritinib,congo_red,0.5,0
-ceritinib,congo_red,0.25,0
-ceritinib,cholic_acid,4.0,0
-ceritinib,cholic_acid,2.0,0
-ceritinib,cholic_acid,1.0,0
-ceritinib,cholic_acid,0.5,0
-ceritinib,cholic_acid,0.25,0
-ceritinib,glycocholic_acid,4.0,0
-ceritinib,glycocholic_acid,2.0,0
-ceritinib,glycocholic_acid,1.0,0
-ceritinib,glycocholic_acid,0.5,0
-ceritinib,glycocholic_acid,0.25,0
-ceritinib,taurocholic acid,4.0,0
-ceritinib,taurocholic acid,2.0,0
-ceritinib,taurocholic acid,1.0,0
-ceritinib,taurocholic acid,0.5,0
-ceritinib,taurocholic acid,0.25,0
-ceritinib,prednisone,4.0,0
-ceritinib,prednisone,2.0,0
-ceritinib,prednisone,1.0,0
-ceritinib,prednisone,0.5,0
-ceritinib,prednisone,0.25,0
-ceritinib,budesonide,4.0,0
-ceritinib,budesonide,2.0,0
-ceritinib,budesonide,1.0,0
-ceritinib,budesonide,0.5,0
-ceritinib,budesonide,0.25,0
-ceritinib,ursodiol,4.0,0
-ceritinib,ursodiol,2.0,0
-ceritinib,ursodiol,1.0,0
-ceritinib,ursodiol,0.5,0
-ceritinib,ursodiol,0.25,0
-ceritinib,EvansBlue,4.0,0
-ceritinib,EvansBlue,2.0,0
-ceritinib,EvansBlue,1.0,0
-ceritinib,EvansBlue,0.5,0
-ceritinib,EvansBlue,0.25,0
-ceritinib,tannic_acid,4.0,0
-ceritinib,tannic_acid,2.0,0
-ceritinib,tannic_acid,1.0,0
-ceritinib,tannic_acid,0.5,0
-ceritinib,tannic_acid,0.25,0
-ceritinib,candesartan_cilexetil,4.0,0
-ceritinib,candesartan_cilexetil,2.0,0
-ceritinib,candesartan_cilexetil,1.0,0
-ceritinib,candesartan_cilexetil,0.5,0
-ceritinib,candesartan_cilexetil,0.25,0
-ceritinib,indomethacin,4.0,0
-ceritinib,indomethacin,2.0,0
-ceritinib,indomethacin,1.0,0
-ceritinib,indomethacin,0.5,0
-ceritinib,indomethacin,0.25,0
-ceritinib,folic acid,4.0,0
-ceritinib,folic acid,2.0,0
-ceritinib,folic acid,1.0,0
-ceritinib,folic acid,0.5,0
-ceritinib,folic acid,0.25,0
-ceritinib,neotame,4.0,0
-ceritinib,neotame,2.0,0
-ceritinib,neotame,1.0,0
-ceritinib,neotame,0.5,0
-ceritinib,neotame,0.25,0
-ceritinib,octyl_gallate,4.0,0
-ceritinib,octyl_gallate,2.0,0
-ceritinib,octyl_gallate,1.0,0
-ceritinib,octyl_gallate,0.5,0
-ceritinib,octyl_gallate,0.25,0
-entrectinib,Glycyrrhizin,4.0,0
-entrectinib,Glycyrrhizin,2.0,0
-entrectinib,Glycyrrhizin,1.0,0
-entrectinib,Glycyrrhizin,0.5,0
-entrectinib,Glycyrrhizin,0.25,0
-entrectinib,congo_red,4.0,1
-entrectinib,congo_red,2.0,1
-entrectinib,congo_red,1.0,1
-entrectinib,congo_red,0.5,1
-entrectinib,congo_red,0.25,0
-entrectinib,cholic_acid,4.0,0
-entrectinib,cholic_acid,2.0,0
-entrectinib,cholic_acid,1.0,0
-entrectinib,cholic_acid,0.5,0
-entrectinib,cholic_acid,0.25,0
-entrectinib,glycocholic_acid,4.0,0
-entrectinib,glycocholic_acid,2.0,0
-entrectinib,glycocholic_acid,1.0,0
-entrectinib,glycocholic_acid,0.5,0
-entrectinib,glycocholic_acid,0.25,0
-entrectinib,taurocholic acid,4.0,0
-entrectinib,taurocholic acid,2.0,0
-entrectinib,taurocholic acid,1.0,0
-entrectinib,taurocholic acid,0.5,0
-entrectinib,taurocholic acid,0.25,0
-entrectinib,prednisone,4.0,0
-entrectinib,prednisone,2.0,0
-entrectinib,prednisone,1.0,0
-entrectinib,prednisone,0.5,0
-entrectinib,prednisone,0.25,0
-entrectinib,budesonide,4.0,0
-entrectinib,budesonide,2.0,0
-entrectinib,budesonide,1.0,0
-entrectinib,budesonide,0.5,0
-entrectinib,budesonide,0.25,0
-entrectinib,ursodiol,4.0,0
-entrectinib,ursodiol,2.0,0
-entrectinib,ursodiol,1.0,0
-entrectinib,ursodiol,0.5,0
-entrectinib,ursodiol,0.25,0
-entrectinib,EvansBlue,4.0,0
-entrectinib,EvansBlue,2.0,0
-entrectinib,EvansBlue,1.0,0
-entrectinib,EvansBlue,0.5,0
-entrectinib,EvansBlue,0.25,0
-entrectinib,tannic_acid,4.0,0
-entrectinib,tannic_acid,2.0,0
-entrectinib,tannic_acid,1.0,0
-entrectinib,tannic_acid,0.5,0
-entrectinib,tannic_acid,0.25,0
-entrectinib,candesartan_cilexetil,4.0,0
-entrectinib,candesartan_cilexetil,2.0,0
-entrectinib,candesartan_cilexetil,1.0,0
-entrectinib,candesartan_cilexetil,0.5,0
-entrectinib,candesartan_cilexetil,0.25,0
-entrectinib,indomethacin,4.0,0
-entrectinib,indomethacin,2.0,0
-entrectinib,indomethacin,1.0,0
-entrectinib,indomethacin,0.5,0
-entrectinib,indomethacin,0.25,0
-entrectinib,folic acid,4.0,0
-entrectinib,folic acid,2.0,0
-entrectinib,folic acid,1.0,0
-entrectinib,folic acid,0.5,0
-entrectinib,folic acid,0.25,0
-entrectinib,neotame,4.0,0
-entrectinib,neotame,2.0,0
-entrectinib,neotame,1.0,0
-entrectinib,neotame,0.5,0
-entrectinib,neotame,0.25,0
-entrectinib,octyl_gallate,4.0,0
-entrectinib,octyl_gallate,2.0,0
-entrectinib,octyl_gallate,1.0,0
-entrectinib,octyl_gallate,0.5,0
-entrectinib,octyl_gallate,0.25,0
+drug_name,excp_name,excp_drug_ratio,class,size_avg,pdi_avg,int_ratio_avg
+Sorafenib,Glycyrrhizin,4,1,13.75,8.35,27.77777568
+Sorafenib,Glycyrrhizin,2,1,20.5,5,56.11670472
+Sorafenib,Glycyrrhizin,1,1,23.8,5.8,75.75755302
+Sorafenib,Glycyrrhizin,0.5,1,29.2,7.25,160.2565059
+Sorafenib,Glycyrrhizin,0.25,1,40.2,8.3,275.2976075
+Sorafenib,EvansBlue,4,1,21.55,21.15,83.33333066
+Sorafenib,EvansBlue,2,1,28.95,12.75,129.1665993
+Sorafenib,EvansBlue,1,1,29.9,15.6,208.3332956
+Sorafenib,EvansBlue,0.5,1,28.9,14.75,162.4999663
+Sorafenib,EvansBlue,0.25,1,28.2,9.15,112.4999777
+Sorafenib,tannic_acid,4,0,625.7,measurement failed,1096.67892
+Sorafenib,tannic_acid,2,1,110.45,39.05,1000.000804
+Sorafenib,tannic_acid,1,1,75.5,16.3,1250.003873
+Sorafenib,tannic_acid,0.5,1,67.25,19.65,972.2253082
+Sorafenib,tannic_acid,0.25,1,60.4,14.75,527.7779466
+Sorafenib,candesartan_cilexetil,4,1,73.1,15.2,5833.408048
+Sorafenib,candesartan_cilexetil,2,1,64.7,14.3,3750.047349
+Sorafenib,candesartan_cilexetil,1,1,57,16.1,2500.0313
+Sorafenib,candesartan_cilexetil,0.5,1,49.25,15.05,1250.003554
+Sorafenib,candesartan_cilexetil,0.25,1,45.45,15.95,833.3357406
+Sorafenib,indomethacin,4,1,70.5,10.9,3750.047899
+Sorafenib,indomethacin,2,1,61.75,7.6,2500.031928
+Sorafenib,indomethacin,1,1,59.4,8.3,1250.003727
+Sorafenib,indomethacin,0.5,1,106.25,26.05,1666.667739
+Sorafenib,indomethacin,0.25,0,976.45,measurement failed,1291.666181
+Sorafenib,folic acid,4,0,1695.25,measurement failed,1742.781218
+Sorafenib,folic acid,2,0,1651.15,measurement failed,897.4399498
+Sorafenib,folic acid,1,0,1820.4,measurement failed,1074.556651
+Sorafenib,folic acid,0.5,0,1575.2,measurement failed,1256.119349
+Sorafenib,folic acid,0.25,0,1352.15,measurement failed,1200.283643
+Sorafenib,neotame,4,0,1342.6,measurement failed,4814.922063
+Sorafenib,neotame,2,0,1701.5,measurement failed,2186.774572
+Sorafenib,neotame,1,0,2121.55,measurement failed,2386.376097
+Sorafenib,neotame,0.5,0,1998.05,measurement failed,937.4989409
+Sorafenib,neotame,0.25,0,1880.2,measurement failed,1005.110856
+Sorafenib,octyl_gallate,4,0,757.9,9.35,388.8890942
+Sorafenib,octyl_gallate,2,0,678.7,measurement failed,925.9256447
+Sorafenib,octyl_gallate,1,0,1598.55,measurement failed,4398.2671
+Sorafenib,octyl_gallate,0.5,0,1138.65,measurement failed,5566.730692
+Sorafenib,octyl_gallate,0.25,0,1471.2,measurement failed,2386.376062
+Sorafenib,congo_red,4,0,24.05,measurement failed,62.49999986
+Sorafenib,congo_red,2,1,22.7,25.95,65.23473639
+Sorafenib,congo_red,1,1,32.15,14.95,231.3649011
+Sorafenib,congo_red,0.5,1,32.6,16.5,250.0002648
+Sorafenib,congo_red,0.25,1,41.1,14.3,416.6670171
+Sorafenib,cholic_acid,4,1,102.75,17.25,574.075644
+Sorafenib,cholic_acid,2,1,84.65,12,1111.112334
+Sorafenib,cholic_acid,1,1,82.05,15,1666.671948
+Sorafenib,cholic_acid,0.5,1,78.8,6.8,1388.893
+Sorafenib,cholic_acid,0.25,0,208.55,measurement failed,1666.671344
+Sorafenib,glycocholic_acid,4,0,1587.25,measurement failed,152.7778097
+Sorafenib,glycocholic_acid,2,0,1744.05,measurement failed,317.8541585
+Sorafenib,glycocholic_acid,1,0,1574.2,measurement failed,598.2560577
+Sorafenib,glycocholic_acid,0.5,0,1531.5,measurement failed,990.7551066
+Sorafenib,glycocholic_acid,0.25,0,1711.35,measurement failed,669.6407821
+Sorafenib,taurocholic acid,4,1,51.4,6.7,925.9255443
+Sorafenib,taurocholic acid,2,1,64.75,9.9,1269.837923
+Sorafenib,taurocholic acid,1,1,72.25,4.55,1833.332691
+Sorafenib,taurocholic acid,0.5,1,77.9,3.65,2499.994388
+Sorafenib,taurocholic acid,0.25,1,78,7.95,2083.328714
+Sorafenib,prednisone,4,0,1701.25,measurement failed,735.9280182
+Sorafenib,prednisone,2,0,1756.5,measurement failed,633.8252761
+Sorafenib,prednisone,1,0,1862.4,measurement failed,603.1971245
+Sorafenib,prednisone,0.5,0,2070.65,measurement failed,1033.495527
+Sorafenib,prednisone,0.25,0,1705.65,measurement failed,628.0644408
+Sorafenib,budesonide,4,0,1300.9,measurement failed,161.5750176
+Sorafenib,budesonide,2,0,1150.85,measurement failed,247.5489686
+Sorafenib,budesonide,1,0,1372.4,measurement failed,631.3119878
+Sorafenib,budesonide,0.5,0,1538.6,32.35,712.9628911
+Sorafenib,budesonide,0.25,0,1469.1,measurement failed,590.2771384
+Sorafenib,ursodiol,4,1,81.05,26.3,1000.00074
+Sorafenib,ursodiol,2,1,79.6,13.9,2083.343508
+Sorafenib,ursodiol,1,1,71.25,16.05,1249.995746
+Sorafenib,ursodiol,0.5,1,137.1,28,1666.671378
+Sorafenib,ursodiol,0.25,0,716.05,measurement failed,1180.555811
+Fulvestrant,Glycyrrhizin,4,1,41.75,3.8,250.0002339
+Fulvestrant,Glycyrrhizin,2,1,51.5,8.65,500.0003032
+Fulvestrant,Glycyrrhizin,1,1,50.5,11.5,500.0005277
+Fulvestrant,Glycyrrhizin,0.5,1,60.05,7.3,916.6665571
+Fulvestrant,Glycyrrhizin,0.25,1,87.1,10.45,1833.336545
+Fulvestrant,EvansBlue,4,1,64,9.7,1458.32613
+Fulvestrant,EvansBlue,2,1,60.1,1.15,1666.655343
+Fulvestrant,EvansBlue,1,1,63.05,6.35,1071.424456
+Fulvestrant,EvansBlue,0.5,1,68.8,8.35,1428.565509
+Fulvestrant,EvansBlue,0.25,1,67.05,11.2,1101.187436
+Fulvestrant,tannic_acid,4,0,442.95,measurement failed,583.3338792
+Fulvestrant,tannic_acid,2,1,150.05,38.25,1000.000933
+Fulvestrant,tannic_acid,1,1,104.35,30.9,1291.666189
+Fulvestrant,tannic_acid,0.5,1,88.5,29.4,916.6684991
+Fulvestrant,tannic_acid,0.25,1,94.55,20.95,2000.002253
+Fulvestrant,candesartan_cilexetil,4,1,78.55,13.75,5000.064551
+Fulvestrant,candesartan_cilexetil,2,1,68.5,16,4166.719113
+Fulvestrant,candesartan_cilexetil,1,1,60.8,10.7,3750.048245
+Fulvestrant,candesartan_cilexetil,0.5,1,64.5,8.25,3750.04678
+Fulvestrant,candesartan_cilexetil,0.25,1,65.1,8.1,1458.326116
+Fulvestrant,indomethacin,4,1,72.9,6.2,1458.326231
+Fulvestrant,indomethacin,2,1,72.15,6.4,1250.003476
+Fulvestrant,indomethacin,1,1,98.1,9.55,1666.671638
+Fulvestrant,indomethacin,0.5,0,1192.1,measurement failed,1166.321532
+Fulvestrant,indomethacin,0.25,0,2588.65,measurement failed,1429.73129
+Fulvestrant,folic acid,4,0,241.55,measurement failed,7.762526306
+Fulvestrant,folic acid,2,0,2092.4,measurement failed,877.4642749
+Fulvestrant,folic acid,1,0,2173.35,measurement failed,691.2859727
+Fulvestrant,folic acid,0.5,0,1562.75,measurement failed,397.1470682
+Fulvestrant,folic acid,0.25,0,1829.05,measurement failed,1461.533775
+Fulvestrant,neotame,4,0,3011.75,measurement failed,3552.534372
+Fulvestrant,neotame,2,0,2246.25,measurement failed,952.3817861
+Fulvestrant,neotame,1,0,3004.95,measurement failed,1370.621903
+Fulvestrant,neotame,0.5,0,2216.55,measurement failed,312.7380565
+Fulvestrant,neotame,0.25,0,2075.3,measurement failed,517.9709493
+Fulvestrant,octyl_gallate,4,0,775.65,measurement failed,116.6666753
+Fulvestrant,octyl_gallate,2,0,798.95,6.65,204.1667074
+Fulvestrant,octyl_gallate,1,0,472.7,36.35,555.5553645
+Fulvestrant,octyl_gallate,0.5,0,290.4,43.55,1111.110502
+Fulvestrant,octyl_gallate,0.25,0,1024.9,measurement failed,316.0312733
+Fulvestrant,congo_red,4,1,66.45,11.1,2499.981634
+Fulvestrant,congo_red,2,1,56.65,9,1145.827059
+Fulvestrant,congo_red,1,1,55,10.65,729.1648731
+Fulvestrant,congo_red,0.5,1,59.95,10.9,937.4978294
+Fulvestrant,congo_red,0.25,1,59.4,7.5,833.3316271
+Fulvestrant,cholic_acid,4,0,1169.65,measurement failed,1562.502382
+Fulvestrant,cholic_acid,2,1,88.95,21.05,2500.03278
+Fulvestrant,cholic_acid,1,1,79.85,11.75,1875.014956
+Fulvestrant,cholic_acid,0.5,1,113.25,16.6,1666.655304
+Fulvestrant,cholic_acid,0.25,0,2082.9,measurement failed,2097.892948
+Fulvestrant,glycocholic_acid,4,0,2491.4,measurement failed,331.196325
+Fulvestrant,glycocholic_acid,2,0,3210.75,measurement failed,935.8272067
+Fulvestrant,glycocholic_acid,1,0,2137.4,measurement failed,1636.36027
+Fulvestrant,glycocholic_acid,0.5,0,1957.65,measurement failed,962.963304
+Fulvestrant,glycocholic_acid,0.25,0,2346.15,measurement failed,696.5942617
+Fulvestrant,taurocholic acid,4,1,58.9,6,1111.110925
+Fulvestrant,taurocholic acid,2,1,54,4.05,727.5115253
+Fulvestrant,taurocholic acid,1,1,62.85,5,1500.000878
+Fulvestrant,taurocholic acid,0.5,1,67.55,7.25,1166.667533
+Fulvestrant,taurocholic acid,0.25,1,137.65,19.6,2000.001814
+Fulvestrant,prednisone,4,0,1795.65,measurement failed,656.5643793
+Fulvestrant,prednisone,2,0,1922.35,measurement failed,576.6183273
+Fulvestrant,prednisone,1,0,1496.45,measurement failed,715.1238321
+Fulvestrant,prednisone,0.5,0,1976.05,measurement failed,1508.035813
+Fulvestrant,prednisone,0.25,0,1751.3,measurement failed,1157.89986
+Fulvestrant,budesonide,4,0,1894.3,measurement failed,545.7995185
+Fulvestrant,budesonide,2,0,2149.4,measurement failed,389.4937489
+Fulvestrant,budesonide,1,0,2062.55,measurement failed,499.0130297
+Fulvestrant,budesonide,0.5,0,2361.9,measurement failed,743.5331437
+Fulvestrant,budesonide,0.25,0,2320.6,measurement failed,728.4644679
+Fulvestrant,ursodiol,4,1,102.8,19.8,1666.655006
+Fulvestrant,ursodiol,2,1,95.75,13.6,3333.310814
+Fulvestrant,ursodiol,1,0,1584.75,measurement failed,1354.158103
+Fulvestrant,ursodiol,0.5,0,1835.3,measurement failed,1674.106602
+Fulvestrant,ursodiol,0.25,0,2381.7,measurement failed,1776.962877
+Lapatinib,Glycyrrhizin,4,1,75.95,23.1,1253.826502
+Lapatinib,Glycyrrhizin,2,0,367.45,33.55,1249.997373
+Lapatinib,Glycyrrhizin,1,0,511.1,36.2,982.1402905
+Lapatinib,Glycyrrhizin,0.5,0,573.8,measurement failed,788.1752113
+Lapatinib,Glycyrrhizin,0.25,0,503.9,measurement failed,1100.294301
+Lapatinib,EvansBlue,4,0,8.75,measurement failed,17.14677351
+Lapatinib,EvansBlue,2,0,3050.3,measurement failed,1193.178641
+Lapatinib,EvansBlue,1,0,177.6,45.2,555.5553961
+Lapatinib,EvansBlue,0.5,0,326.75,measurement failed,624.9988449
+Lapatinib,EvansBlue,0.25,0,296,47.35,777.7778366
+Lapatinib,tannic_acid,4,0,2190.7,measurement failed,1256.619391
+Lapatinib,tannic_acid,2,0,1862.35,measurement failed,857.1418934
+Lapatinib,tannic_acid,1,0,1799.3,measurement failed,1395.365263
+Lapatinib,tannic_acid,0.5,0,1632.15,measurement failed,737.8476712
+Lapatinib,tannic_acid,0.25,0,1549.8,measurement failed,996.260699
+Lapatinib,candesartan_cilexetil,4,0,195,measurement failed,5624.977375
+Lapatinib,candesartan_cilexetil,2,0,112.5,49.5,7500.094011
+Lapatinib,candesartan_cilexetil,1,0,649.8,measurement failed,5000.064442
+Lapatinib,candesartan_cilexetil,0.5,0,2440.25,measurement failed,2786.793855
+Lapatinib,candesartan_cilexetil,0.25,0,2123.25,18.05,2152.778124
+Lapatinib,indomethacin,4,0,654.85,12.4,735.2945352
+Lapatinib,indomethacin,2,0,569.15,2.95,505.9522266
+Lapatinib,indomethacin,1,0,694.55,6.6,590.276939
+Lapatinib,indomethacin,0.5,0,728.85,measurement failed,565.6578392
+Lapatinib,indomethacin,0.25,0,759.1,12.55,1193.178401
+Lapatinib,folic acid,4,0,585.3,measurement failed,535.7126147
+Lapatinib,folic acid,2,0,666.45,measurement failed,209.4678873
+Lapatinib,folic acid,1,0,747.9,42.1,442.5537563
+Lapatinib,folic acid,0.5,0,805.45,15.7,759.9806552
+Lapatinib,folic acid,0.25,0,753.25,38.15,1279.761444
+Lapatinib,neotame,4,0,710.55,measurement failed,1319.44295
+Lapatinib,neotame,2,0,739.1,13.75,1406.250229
+Lapatinib,neotame,1,0,814,7.45,1619.422201
+Lapatinib,neotame,0.5,0,781.7,measurement failed,1223.95296
+Lapatinib,neotame,0.25,0,813.65,3.7,1078.704095
+Lapatinib,octyl_gallate,4,0,796.1,measurement failed,500.0007023
+Lapatinib,octyl_gallate,2,0,829.3,20.9,555.5552803
+Lapatinib,octyl_gallate,1,0,829.85,6.85,837.8391798
+Lapatinib,octyl_gallate,0.5,0,825.25,17.1,1038.792986
+Lapatinib,octyl_gallate,0.25,0,761.55,11.1,665.265484
+Lapatinib,congo_red,4,0,36.65,measurement failed,21.07624963
+Lapatinib,congo_red,2,1,28.35,21.05,316.4556324
+Lapatinib,congo_red,1,1,42,16.95,537.3561199
+Lapatinib,congo_red,0.5,1,50.1,14.15,1000.001195
+Lapatinib,congo_red,0.25,1,115.35,30,1428.565634
+Lapatinib,cholic_acid,4,0,761.65,25.25,1019.668
+Lapatinib,cholic_acid,2,0,809.85,9.8,1491.215881
+Lapatinib,cholic_acid,1,0,694.05,23.05,1544.108567
+Lapatinib,cholic_acid,0.5,0,631.35,28.25,1666.673151
+Lapatinib,cholic_acid,0.25,0,746.35,3.3,2142.858548
+Lapatinib,glycocholic_acid,4,0,1119.9,measurement failed,402.7778236
+Lapatinib,glycocholic_acid,2,0,756.7,measurement failed,547.6185436
+Lapatinib,glycocholic_acid,1,0,728.6,measurement failed,2638.904064
+Lapatinib,glycocholic_acid,0.5,0,546.9,measurement failed,2812.536451
+Lapatinib,glycocholic_acid,0.25,0,458.9,13.7,measurement failed
+Lapatinib,taurocholic acid,4,0,687.7,1.9,1726.188134
+Lapatinib,taurocholic acid,2,0,683.5,10.65,1124.999461
+Lapatinib,taurocholic acid,1,0,741.05,11.05,1666.655077
+Lapatinib,taurocholic acid,0.5,0,702.3,17.5,1595.241185
+Lapatinib,taurocholic acid,0.25,0,732.65,7.15,1376.807108
+Lapatinib,prednisone,4,0,675.05,6.05,686.0883154
+Lapatinib,prednisone,2,0,701.8,4,891.8842488
+Lapatinib,prednisone,1,0,722,measurement failed,1087.961337
+Lapatinib,prednisone,0.5,0,763.05,1.3,1282.89788
+Lapatinib,prednisone,0.25,0,757.6,7.2,1897.325114
+Lapatinib,budesonide,4,0,2031.1,measurement failed,402.7777755
+Lapatinib,budesonide,2,0,590.8,measurement failed,171.1309667
+Lapatinib,budesonide,1,0,615.8,20.2,370.1923676
+Lapatinib,budesonide,0.5,0,743.35,1.8,745.6148228
+Lapatinib,budesonide,0.25,0,735.3,1.95,1458.32619
+Lapatinib,ursodiol,4,0,507.15,measurement failed,527.778348
+Lapatinib,ursodiol,2,0,486.5,measurement failed,636.1995785
+Lapatinib,ursodiol,1,0,442.75,32.55,792.0442471
+Lapatinib,ursodiol,0.5,0,536.45,measurement failed,1696.446435
+Lapatinib,ursodiol,0.25,0,634.2,18.4,1220.239441
+Docetaxel,Glycyrrhizin,4,0,measurement failed,47.45,1
+Docetaxel,Glycyrrhizin,2,0,13.7,measurement failed,1
+Docetaxel,Glycyrrhizin,1,0,48.5,measurement failed,1
+Docetaxel,Glycyrrhizin,0.5,0,119.05,measurement failed,1.031915078
+Docetaxel,Glycyrrhizin,0.25,0,measurement failed,measurement failed,1.124999914
+Docetaxel,EvansBlue,4,0,448.9,measurement failed,7.499998506
+Docetaxel,EvansBlue,2,0,275.3,measurement failed,1.424405404
+Docetaxel,EvansBlue,1,0,measurement failed,measurement failed,1.520977017
+Docetaxel,EvansBlue,0.5,0,1159.8,measurement failed,1.049450147
+Docetaxel,EvansBlue,0.25,0,431.45,measurement failed,1.055555853
+Docetaxel,tannic_acid,4,0,measurement failed,measurement failed,1.372295442
+Docetaxel,tannic_acid,2,0,measurement failed,measurement failed,1.180555128
+Docetaxel,tannic_acid,1,0,13.95,measurement failed,1
+Docetaxel,tannic_acid,0.5,0,89.2,measurement failed,25.49999491
+Docetaxel,tannic_acid,0.25,0,48.45,measurement failed,1.159158002
+Docetaxel,candesartan_cilexetil,4,1,147.45,25.1,1666.655345
+Docetaxel,candesartan_cilexetil,2,1,120,23.55,1071.424001
+Docetaxel,candesartan_cilexetil,1,1,88.25,21,1428.565229
+Docetaxel,candesartan_cilexetil,0.5,1,79,27.45,833.3297217
+Docetaxel,candesartan_cilexetil,0.25,1,84.35,33.2,199.9999749
+Docetaxel,indomethacin,4,0,68.6,measurement failed,1.769230397
+Docetaxel,indomethacin,2,0,175.3,measurement failed,1.552719715
+Docetaxel,indomethacin,1,0,111.3,measurement failed,1.483515921
+Docetaxel,indomethacin,0.5,0,103.3,measurement failed,1.602564562
+Docetaxel,indomethacin,0.25,0,121.65,measurement failed,1.428572238
+Docetaxel,folic acid,4,0,90.05,measurement failed,3.031913993
+Docetaxel,folic acid,2,0,296.65,measurement failed,1.317168048
+Docetaxel,folic acid,1,0,134.8,measurement failed,1.121108583
+Docetaxel,folic acid,0.5,0,85.9,measurement failed,1.08823527
+Docetaxel,folic acid,0.25,0,154.75,measurement failed,1.497326364
+Docetaxel,neotame,4,0,386.4,measurement failed,3.316611625
+Docetaxel,neotame,2,0,203.8,measurement failed,3.116125881
+Docetaxel,neotame,1,0,188.8,measurement failed,2.424243471
+Docetaxel,neotame,0.5,0,140.5,measurement failed,2.117774716
+Docetaxel,neotame,0.25,0,129.55,measurement failed,1.3064516
+Docetaxel,octyl_gallate,4,0,878.95,3.1,140.1515307
+Docetaxel,octyl_gallate,2,0,730.25,6.7,688.4070035
+Docetaxel,octyl_gallate,1,0,844.85,measurement failed,152.7778137
+Docetaxel,octyl_gallate,0.5,0,548.55,measurement failed,114.1934005
+Docetaxel,octyl_gallate,0.25,0,419.9,measurement failed,30.17852247
+Docetaxel,congo_red,4,0,176,measurement failed,8.522412388
+Docetaxel,congo_red,2,0,217.3,measurement failed,3.684718823
+Docetaxel,congo_red,1,0,101.25,measurement failed,16.17744526
+Docetaxel,congo_red,0.5,0,360.85,measurement failed,1.441963085
+Docetaxel,congo_red,0.25,0,136.2,measurement failed,1
+Docetaxel,cholic_acid,4,0,103.55,measurement failed,1.125000312
+Docetaxel,cholic_acid,2,0,66.35,measurement failed,1.055537523
+Docetaxel,cholic_acid,1,0,115.4,measurement failed,1.125
+Docetaxel,cholic_acid,0.5,0,95.45,measurement failed,1.17647053
+Docetaxel,cholic_acid,0.25,0,79.9,measurement failed,1.324786372
+Docetaxel,glycocholic_acid,4,0,2108,measurement failed,42.32802877
+Docetaxel,glycocholic_acid,2,0,2273.3,measurement failed,24.27829076
+Docetaxel,glycocholic_acid,1,0,1284.5,measurement failed,18.85924994
+Docetaxel,glycocholic_acid,0.5,0,955.65,measurement failed,16.93485405
+Docetaxel,glycocholic_acid,0.25,0,673.8,measurement failed,11.50431398
+Docetaxel,taurocholic acid,4,0,measurement failed,18.8,1
+Docetaxel,taurocholic acid,2,0,6.45,measurement failed,1
+Docetaxel,taurocholic acid,1,0,107,measurement failed,1.12499978
+Docetaxel,taurocholic acid,0.5,0,92.05,measurement failed,1.015463774
+Docetaxel,taurocholic acid,0.25,0,83,measurement failed,1
+Docetaxel,prednisone,4,0,224.65,measurement failed,2.575757141
+Docetaxel,prednisone,2,0,241.75,measurement failed,2.395649768
+Docetaxel,prednisone,1,0,160.75,measurement failed,1.389692674
+Docetaxel,prednisone,0.5,0,145.1,measurement failed,1.115343768
+Docetaxel,prednisone,0.25,0,137.4,measurement failed,1.051488976
+Docetaxel,budesonide,4,0,2137.75,measurement failed,405.3288013
+Docetaxel,budesonide,2,0,2440.25,measurement failed,202.3921182
+Docetaxel,budesonide,1,0,1434.4,measurement failed,26.63739506
+Docetaxel,budesonide,0.5,0,629.2,measurement failed,2.366868629
+Docetaxel,budesonide,0.25,0,352.4,measurement failed,1.443334268
+Docetaxel,ursodiol,4,0,166.05,measurement failed,3.678996457
+Docetaxel,ursodiol,2,0,123.95,measurement failed,2.126209061
+Docetaxel,ursodiol,1,0,283.95,measurement failed,1.614707948
+Docetaxel,ursodiol,0.5,0,123.1,measurement failed,1.339801425
+Docetaxel,ursodiol,0.25,0,107.25,measurement failed,1.18217757
+Taxol,Glycyrrhizin,4,0,2061.2,measurement failed,275.8526592
+Taxol,Glycyrrhizin,2,0,1951,measurement failed,93.01383786
+Taxol,Glycyrrhizin,1,0,1896.9,measurement failed,104.6052422
+Taxol,Glycyrrhizin,0.5,0,1126.15,measurement failed,71.38804567
+Taxol,Glycyrrhizin,0.25,0,2709.2,measurement failed,813.412922
+Taxol,EvansBlue,4,0,574.05,measurement failed,5.626100959
+Taxol,EvansBlue,2,1,74.9,13.8,1111.110514
+Taxol,EvansBlue,1,1,85,17.45,925.9253344
+Taxol,EvansBlue,0.5,1,85.9,12.85,1111.110631
+Taxol,EvansBlue,0.25,1,142.5,37.35,727.5116417
+Taxol,tannic_acid,4,0,1727.4,measurement failed,167.541231
+Taxol,tannic_acid,2,0,1817.3,measurement failed,175.9614598
+Taxol,tannic_acid,1,0,1810.85,measurement failed,531.9208087
+Taxol,tannic_acid,0.5,0,1667.55,measurement failed,279.9033999
+Taxol,tannic_acid,0.25,0,1532.4,measurement failed,152.7778735
+Taxol,candesartan_cilexetil,4,1,66.2,18.4,1049.38216
+Taxol,candesartan_cilexetil,2,1,75.3,20.9,919.3111362
+Taxol,candesartan_cilexetil,1,1,80.85,22.35,2500.032614
+Taxol,candesartan_cilexetil,0.5,0,284.25,measurement failed,773.8093754
+Taxol,candesartan_cilexetil,0.25,0,1651.3,measurement failed,700.7597465
+Taxol,indomethacin,4,0,1567.95,measurement failed,106.8181917
+Taxol,indomethacin,2,0,2028.55,measurement failed,1308.754923
+Taxol,indomethacin,1,0,1936.5,measurement failed,59.18369077
+Taxol,indomethacin,0.5,0,1557.5,measurement failed,59.99999865
+Taxol,indomethacin,0.25,0,1149.4,measurement failed,1.092417132
+Taxol,folic acid,4,0,1129.05,measurement failed,13.18926868
+Taxol,folic acid,2,0,1852.05,measurement failed,1.025667681
+Taxol,folic acid,1,0,1639.65,measurement failed,1.789638163
+Taxol,folic acid,0.5,0,610.3,measurement failed,1
+Taxol,folic acid,0.25,0,480.15,measurement failed,16.3227893
+Taxol,neotame,4,0,1348.85,measurement failed,3.931931809
+Taxol,neotame,2,0,202.3,measurement failed,4.158168647
+Taxol,neotame,1,0,357.5,measurement failed,2.10356863
+Taxol,neotame,0.5,0,171.55,measurement failed,2.255274803
+Taxol,neotame,0.25,0,608.55,measurement failed,1.74402296
+Taxol,octyl_gallate,4,0,582.6,measurement failed,85.71424633
+Taxol,octyl_gallate,2,0,1067.25,measurement failed,93.43475619
+Taxol,octyl_gallate,1,0,1650.5,20.3,116.7033772
+Taxol,octyl_gallate,0.5,0,1667.1,measurement failed,30.03577326
+Taxol,octyl_gallate,0.25,0,1897.95,measurement failed,17.02584982
+Taxol,congo_red,4,0,59.2,measurement failed,250.5001974
+Taxol,congo_red,2,1,55.95,12.7,1000.001029
+Taxol,congo_red,1,1,62.05,13.7,1180.555955
+Taxol,congo_red,0.5,1,61.45,16.65,937.4980747
+Taxol,congo_red,0.25,1,79.6,19.3,680.5555965
+Taxol,cholic_acid,4,0,2441.3,measurement failed,234.60162
+Taxol,cholic_acid,2,0,1996.3,measurement failed,164.1397652
+Taxol,cholic_acid,1,0,2307.85,measurement failed,165.7406753
+Taxol,cholic_acid,0.5,0,1433.75,measurement failed,24.07467178
+Taxol,cholic_acid,0.25,0,2210.05,measurement failed,127.9503876
+Taxol,glycocholic_acid,4,0,2380,measurement failed,19.31276895
+Taxol,glycocholic_acid,2,0,2403.35,measurement failed,44.58202356
+Taxol,glycocholic_acid,1,0,2302.2,measurement failed,14.15896319
+Taxol,glycocholic_acid,0.5,0,2130.85,measurement failed,13.64440079
+Taxol,glycocholic_acid,0.25,0,489.3,measurement failed,10.25542193
+Taxol,taurocholic acid,4,0,1302.3,measurement failed,16.56774173
+Taxol,taurocholic acid,2,0,1573.55,measurement failed,31.48149505
+Taxol,taurocholic acid,1,0,1306.55,measurement failed,7.000075565
+Taxol,taurocholic acid,0.5,0,903.7,measurement failed,2.024177703
+Taxol,taurocholic acid,0.25,0,1748.45,measurement failed,20.21319639
+Taxol,prednisone,4,0,1959.95,measurement failed,35.4147162
+Taxol,prednisone,2,0,1484.25,measurement failed,2.100297008
+Taxol,prednisone,1,0,1419.9,measurement failed,6.734414819
+Taxol,prednisone,0.5,0,778.2,measurement failed,1
+Taxol,prednisone,0.25,0,455.85,measurement failed,1
+Taxol,budesonide,4,0,3109.55,2.05,104.3478068
+Taxol,budesonide,2,0,1908.7,measurement failed,65.44078772
+Taxol,budesonide,1,0,measurement failed,measurement failed,measurement failed
+Taxol,budesonide,0.5,0,1538.3,measurement failed,8.297037356
+Taxol,budesonide,0.25,0,969,measurement failed,1.790026937
+Taxol,ursodiol,4,0,2164.9,measurement failed,948.5865921
+Taxol,ursodiol,2,0,2250.7,measurement failed,909.3931947
+Taxol,ursodiol,1,0,2390.2,measurement failed,710.3050221
+Taxol,ursodiol,0.5,0,1314.2,measurement failed,225.3309443
+Taxol,ursodiol,0.25,0,1978.85,measurement failed,290.8870923
+bleomycin,Glycyrrhizin,4,0,92.55,measurement failed,1
+bleomycin,Glycyrrhizin,2,0,23.7,measurement failed,1
+bleomycin,Glycyrrhizin,1,0,measurement failed,measurement failed,1
+bleomycin,Glycyrrhizin,0.5,0,1478.9,measurement failed,1
+bleomycin,Glycyrrhizin,0.25,0,measurement failed,measurement failed,1
+bleomycin,EvansBlue,4,0,measurement failed,measurement failed,3.597037791
+bleomycin,EvansBlue,2,0,5.1,measurement failed,2.909090265
+bleomycin,EvansBlue,1,0,72.75,measurement failed,1.435897891
+bleomycin,EvansBlue,0.5,0,74.45,measurement failed,101.1110972
+bleomycin,EvansBlue,0.25,0,440.95,measurement failed,1.088235211
+bleomycin,tannic_acid,4,0,2798.3,measurement failed,576.8217653
+bleomycin,tannic_acid,2,0,2623.45,measurement failed,1224.409064
+bleomycin,tannic_acid,1,0,2749.5,measurement failed,172.0144237
+bleomycin,tannic_acid,0.5,0,2353.1,measurement failed,274.9357844
+bleomycin,tannic_acid,0.25,0,2057.85,measurement failed,135.5408257
+bleomycin,candesartan_cilexetil,4,1,95.75,39.7,833.333155
+bleomycin,candesartan_cilexetil,2,1,68.75,25.4,278.2776838
+bleomycin,candesartan_cilexetil,1,0,253.4,11.65,555.5553042
+bleomycin,candesartan_cilexetil,0.5,0,220.25,13.85,100.0000081
+bleomycin,candesartan_cilexetil,0.25,0,82.1,measurement failed,3.146107857
+bleomycin,indomethacin,4,0,888.95,measurement failed,1.015464036
+bleomycin,indomethacin,2,0,measurement failed,measurement failed,1
+bleomycin,indomethacin,1,0,634.15,measurement failed,1
+bleomycin,indomethacin,0.5,0,measurement failed,measurement failed,1
+bleomycin,indomethacin,0.25,0,86.6,measurement failed,1
+bleomycin,folic acid,4,0,117.4,measurement failed,1.006073036
+bleomycin,folic acid,2,0,1219.85,measurement failed,1.056636699
+bleomycin,folic acid,1,0,530.95,measurement failed,1
+bleomycin,folic acid,0.5,0,1977.1,measurement failed,1
+bleomycin,folic acid,0.25,0,23.5,measurement failed,1
+bleomycin,neotame,4,0,37.55,34.15,1.749999364
+bleomycin,neotame,2,0,188.3,measurement failed,2.020201602
+bleomycin,neotame,1,0,27.45,measurement failed,1.026315586
+bleomycin,neotame,0.5,0,337.55,measurement failed,1
+bleomycin,neotame,0.25,0,41.8,measurement failed,1.010204156
+bleomycin,octyl_gallate,4,0,873.6,8.25,249.9998091
+bleomycin,octyl_gallate,2,0,579,13,333.3336456
+bleomycin,octyl_gallate,1,0,338.45,measurement failed,102.6566459
+bleomycin,octyl_gallate,0.5,0,360,measurement failed,89.99998958
+bleomycin,octyl_gallate,0.25,0,598.8,measurement failed,7.295465796
+bleomycin,congo_red,4,0,220.15,measurement failed,9.598416889
+bleomycin,congo_red,2,0,177.8,measurement failed,2.875164812
+bleomycin,congo_red,1,0,204.05,measurement failed,2.956781785
+bleomycin,congo_red,0.5,0,258.55,measurement failed,1.530931204
+bleomycin,congo_red,0.25,0,232.55,measurement failed,1.178961275
+bleomycin,cholic_acid,4,0,1019.9,38.7,1
+bleomycin,cholic_acid,2,0,measurement failed,measurement failed,1
+bleomycin,cholic_acid,1,0,406.6,measurement failed,1
+bleomycin,cholic_acid,0.5,0,92.65,measurement failed,1
+bleomycin,cholic_acid,0.25,0,428.95,measurement failed,1
+bleomycin,glycocholic_acid,4,0,2839,measurement failed,42.86365286
+bleomycin,glycocholic_acid,2,0,2546.8,measurement failed,27.25627274
+bleomycin,glycocholic_acid,1,0,1012.1,measurement failed,16.97915329
+bleomycin,glycocholic_acid,0.5,0,804.75,measurement failed,13.86040637
+bleomycin,glycocholic_acid,0.25,0,328.7,measurement failed,9.82535059
+bleomycin,taurocholic acid,4,0,69.15,measurement failed,1
+bleomycin,taurocholic acid,2,0,658.35,measurement failed,1
+bleomycin,taurocholic acid,1,0,measurement failed,measurement failed,1
+bleomycin,taurocholic acid,0.5,0,5.15,measurement failed,1
+bleomycin,taurocholic acid,0.25,0,measurement failed,measurement failed,1
+bleomycin,prednisone,4,0,45.5,measurement failed,1.1579654
+bleomycin,prednisone,2,0,153.85,measurement failed,1.149350554
+bleomycin,prednisone,1,0,48.75,measurement failed,1.012295082
+bleomycin,prednisone,0.5,0,24.2,measurement failed,1
+bleomycin,prednisone,0.25,0,7.85,measurement failed,1
+bleomycin,budesonide,4,0,480.15,measurement failed,8.277548614
+bleomycin,budesonide,2,0,399.65,measurement failed,9.336422627
+bleomycin,budesonide,1,0,129.8,measurement failed,5.166209976
+bleomycin,budesonide,0.5,0,70.9,19.25,1.961222025
+bleomycin,budesonide,0.25,0,53.3,measurement failed,1.269230817
+bleomycin,ursodiol,4,0,32.1,measurement failed,1
+bleomycin,ursodiol,2,0,179.95,measurement failed,1.981921384
+bleomycin,ursodiol,1,0,135.25,measurement failed,1
+bleomycin,ursodiol,0.5,0,1478.3,measurement failed,1
+bleomycin,ursodiol,0.25,0,23.65,measurement failed,1
+(S)-10-Hydroxycamptothecin,Glycyrrhizin,4,0,2597.5,measurement failed,957.4874454
+(S)-10-Hydroxycamptothecin,Glycyrrhizin,2,0,2216.4,measurement failed,520.3965305
+(S)-10-Hydroxycamptothecin,Glycyrrhizin,1,0,2496.6,measurement failed,333.3339572
+(S)-10-Hydroxycamptothecin,Glycyrrhizin,0.5,0,2322.35,measurement failed,183.5999045
+(S)-10-Hydroxycamptothecin,Glycyrrhizin,0.25,0,2122.65,measurement failed,685.5252062
+(S)-10-Hydroxycamptothecin,EvansBlue,4,0,331.3,measurement failed,3.816110504
+(S)-10-Hydroxycamptothecin,EvansBlue,2,0,135.15,measurement failed,2.082687782
+(S)-10-Hydroxycamptothecin,EvansBlue,1,0,391.35,measurement failed,1.847457943
+(S)-10-Hydroxycamptothecin,EvansBlue,0.5,0,284.55,measurement failed,1.319672286
+(S)-10-Hydroxycamptothecin,EvansBlue,0.25,0,1013.7,measurement failed,63.06815184
+(S)-10-Hydroxycamptothecin,tannic_acid,4,0,1567.2,measurement failed,74.29449662
+(S)-10-Hydroxycamptothecin,tannic_acid,2,0,1250.2,measurement failed,36.1377784
+(S)-10-Hydroxycamptothecin,tannic_acid,1,0,1108.2,measurement failed,11.93738244
+(S)-10-Hydroxycamptothecin,tannic_acid,0.5,0,1666.4,measurement failed,43.1818096
+(S)-10-Hydroxycamptothecin,tannic_acid,0.25,0,913.5,measurement failed,447.6432782
+(S)-10-Hydroxycamptothecin,candesartan_cilexetil,4,0,422.35,measurement failed,2500.032687
+(S)-10-Hydroxycamptothecin,candesartan_cilexetil,2,0,3314.5,measurement failed,1709.862119
+(S)-10-Hydroxycamptothecin,candesartan_cilexetil,1,0,1489.25,measurement failed,1770.047496
+(S)-10-Hydroxycamptothecin,candesartan_cilexetil,0.5,0,350.2,measurement failed,989.9101049
+(S)-10-Hydroxycamptothecin,candesartan_cilexetil,0.25,0,730.3,measurement failed,688.1607275
+(S)-10-Hydroxycamptothecin,indomethacin,4,0,2336.3,measurement failed,61.61325123
+(S)-10-Hydroxycamptothecin,indomethacin,2,0,2494.45,measurement failed,1328.651759
+(S)-10-Hydroxycamptothecin,indomethacin,1,0,2217.65,measurement failed,1349.222595
+(S)-10-Hydroxycamptothecin,indomethacin,0.5,0,2171.95,measurement failed,674.9989245
+(S)-10-Hydroxycamptothecin,indomethacin,0.25,0,1886.45,measurement failed,300.7581523
+(S)-10-Hydroxycamptothecin,folic acid,4,0,1225.5,measurement failed,4.114219004
+(S)-10-Hydroxycamptothecin,folic acid,2,0,1384.2,measurement failed,628.3815979
+(S)-10-Hydroxycamptothecin,folic acid,1,0,1927.1,measurement failed,49.28571729
+(S)-10-Hydroxycamptothecin,folic acid,0.5,0,1964.7,measurement failed,285.3399968
+(S)-10-Hydroxycamptothecin,folic acid,0.25,0,1860.95,measurement failed,1547.068272
+(S)-10-Hydroxycamptothecin,neotame,4,0,2519.65,measurement failed,2502.53275
+(S)-10-Hydroxycamptothecin,neotame,2,0,2097.3,measurement failed,9.155587009
+(S)-10-Hydroxycamptothecin,neotame,1,0,4580.45,measurement failed,84.86370871
+(S)-10-Hydroxycamptothecin,neotame,0.5,0,2331.05,measurement failed,834.5847441
+(S)-10-Hydroxycamptothecin,neotame,0.25,0,1585,measurement failed,1137.207469
+(S)-10-Hydroxycamptothecin,octyl_gallate,4,0,1510.5,measurement failed,89.285644
+(S)-10-Hydroxycamptothecin,octyl_gallate,2,0,1117.65,measurement failed,7500.09542
+(S)-10-Hydroxycamptothecin,octyl_gallate,1,0,2228.65,measurement failed,625.0020464
+(S)-10-Hydroxycamptothecin,octyl_gallate,0.5,0,2577.5,measurement failed,427.9900937
+(S)-10-Hydroxycamptothecin,octyl_gallate,0.25,0,2370.5,measurement failed,463.4628826
+(S)-10-Hydroxycamptothecin,congo_red,4,0,232,measurement failed,9.722493124
+(S)-10-Hydroxycamptothecin,congo_red,2,0,54.5,measurement failed,8.649901923
+(S)-10-Hydroxycamptothecin,congo_red,1,0,19.1,measurement failed,13.00457683
+(S)-10-Hydroxycamptothecin,congo_red,0.5,0,1139.35,measurement failed,31.95351328
+(S)-10-Hydroxycamptothecin,congo_red,0.25,0,2528.95,measurement failed,166.6666846
+(S)-10-Hydroxycamptothecin,cholic_acid,4,0,1851.8,measurement failed,720.2409479
+(S)-10-Hydroxycamptothecin,cholic_acid,2,0,2536,measurement failed,330.2717453
+(S)-10-Hydroxycamptothecin,cholic_acid,1,0,2420.45,measurement failed,408.7657459
+(S)-10-Hydroxycamptothecin,cholic_acid,0.5,0,2563.85,measurement failed,784.0923474
+(S)-10-Hydroxycamptothecin,cholic_acid,0.25,0,2524.1,measurement failed,85.84479164
+(S)-10-Hydroxycamptothecin,glycocholic_acid,4,0,3052.15,measurement failed,91.18870687
+(S)-10-Hydroxycamptothecin,glycocholic_acid,2,0,2330.65,measurement failed,1261.741832
+(S)-10-Hydroxycamptothecin,glycocholic_acid,1,0,2606,measurement failed,1594.583436
+(S)-10-Hydroxycamptothecin,glycocholic_acid,0.5,0,2011.95,measurement failed,42.07315301
+(S)-10-Hydroxycamptothecin,glycocholic_acid,0.25,0,1802.5,measurement failed,37.35047465
+(S)-10-Hydroxycamptothecin,taurocholic acid,4,0,measurement failed,measurement failed,measurement failed
+(S)-10-Hydroxycamptothecin,taurocholic acid,2,0,1806.2,measurement failed,59.36201688
+(S)-10-Hydroxycamptothecin,taurocholic acid,1,0,1506.4,measurement failed,56.27935397
+(S)-10-Hydroxycamptothecin,taurocholic acid,0.5,0,2545.2,measurement failed,183.7731465
+(S)-10-Hydroxycamptothecin,taurocholic acid,0.25,0,2777.75,measurement failed,2544.674271
+(S)-10-Hydroxycamptothecin,prednisone,4,0,2259.5,measurement failed,24.07175756
+(S)-10-Hydroxycamptothecin,prednisone,2,0,1152.65,measurement failed,17.93671611
+(S)-10-Hydroxycamptothecin,prednisone,1,0,2460.6,measurement failed,1998.617812
+(S)-10-Hydroxycamptothecin,prednisone,0.5,0,2681.3,measurement failed,395.7214438
+(S)-10-Hydroxycamptothecin,prednisone,0.25,0,1117.75,measurement failed,1250.849383
+(S)-10-Hydroxycamptothecin,budesonide,4,0,3730.95,measurement failed,5.303384423
+(S)-10-Hydroxycamptothecin,budesonide,2,0,3086.05,measurement failed,2.914050729
+(S)-10-Hydroxycamptothecin,budesonide,1,0,2199.2,measurement failed,91.30835993
+(S)-10-Hydroxycamptothecin,budesonide,0.5,0,2173.25,measurement failed,596.0058817
+(S)-10-Hydroxycamptothecin,budesonide,0.25,0,1978.25,measurement failed,702.0200522
+(S)-10-Hydroxycamptothecin,ursodiol,4,0,1488.9,measurement failed,532.1516994
+(S)-10-Hydroxycamptothecin,ursodiol,2,0,2171.15,measurement failed,284.992108
+(S)-10-Hydroxycamptothecin,ursodiol,1,0,2426.2,measurement failed,314.9110531
+(S)-10-Hydroxycamptothecin,ursodiol,0.5,0,2085.75,measurement failed,75.77287836
+(S)-10-Hydroxycamptothecin,ursodiol,0.25,0,3025.3,measurement failed,1683.124359
+Erlotinib,Glycyrrhizin,4,0,measurement failed,measurement failed,1
+Erlotinib,Glycyrrhizin,2,0,45.65,measurement failed,1.9285716
+Erlotinib,Glycyrrhizin,1,0,1406.15,measurement failed,1.415164166
+Erlotinib,Glycyrrhizin,0.5,0,2341.8,17.45,62.22221082
+Erlotinib,Glycyrrhizin,0.25,0,3031.8,24.35,67.86126312
+Erlotinib,EvansBlue,4,0,5.75,measurement failed,4.691816434
+Erlotinib,EvansBlue,2,0,101.55,measurement failed,2.169553808
+Erlotinib,EvansBlue,1,0,measurement failed,34.3,3.430738165
+Erlotinib,EvansBlue,0.5,0,measurement failed,measurement failed,3.333332427
+Erlotinib,EvansBlue,0.25,0,measurement failed,measurement failed,2.22222195
+Erlotinib,tannic_acid,4,0,1939.85,measurement failed,359.649346
+Erlotinib,tannic_acid,2,0,2343.5,measurement failed,89.52697527
+Erlotinib,tannic_acid,1,0,1882.75,measurement failed,155.3032672
+Erlotinib,tannic_acid,0.5,0,1296.4,measurement failed,45.64612605
+Erlotinib,tannic_acid,0.25,0,1551.35,measurement failed,74.06032726
+Erlotinib,candesartan_cilexetil,4,0,128.65,52.45,7500.096719
+Erlotinib,candesartan_cilexetil,2,1,110.9,20.3,10000.13056
+Erlotinib,candesartan_cilexetil,1,0,123.55,47.9,5833.407608
+Erlotinib,candesartan_cilexetil,0.5,0,746.15,measurement failed,3953.56251
+Erlotinib,candesartan_cilexetil,0.25,0,1500.05,measurement failed,789.6689356
+Erlotinib,indomethacin,4,0,71.4,24.3,3.276130834
+Erlotinib,indomethacin,2,0,2384.8,measurement failed,20.11700029
+Erlotinib,indomethacin,1,0,1917.7,measurement failed,32.83390972
+Erlotinib,indomethacin,0.5,0,2184.15,measurement failed,45.04046861
+Erlotinib,indomethacin,0.25,0,320.6,measurement failed,10.00228559
+Erlotinib,folic acid,4,0,1946.5,measurement failed,55.52860594
+Erlotinib,folic acid,2,0,3730.05,measurement failed,30.23075147
+Erlotinib,folic acid,1,0,682.9,measurement failed,28.95832769
+Erlotinib,folic acid,0.5,0,6285.95,measurement failed,10.31423576
+Erlotinib,folic acid,0.25,0,375.05,measurement failed,4.500000647
+Erlotinib,neotame,4,0,107.9,measurement failed,4.500000409
+Erlotinib,neotame,2,0,208.9,measurement failed,5.333332242
+Erlotinib,neotame,1,0,176.75,measurement failed,11.59206628
+Erlotinib,neotame,0.5,0,84.6,measurement failed,7.839722371
+Erlotinib,neotame,0.25,0,77.55,measurement failed,5.807200702
+Erlotinib,octyl_gallate,4,0,1031.2,measurement failed,124.9999388
+Erlotinib,octyl_gallate,2,0,868.15,measurement failed,166.6666524
+Erlotinib,octyl_gallate,1,0,833.3,3.15,313.3759145
+Erlotinib,octyl_gallate,0.5,0,812.4,11.4,616.5432675
+Erlotinib,octyl_gallate,0.25,0,331.5,measurement failed,29.2451522
+Erlotinib,congo_red,4,0,402.95,measurement failed,11.80787041
+Erlotinib,congo_red,2,0,17.9,measurement failed,4.310397364
+Erlotinib,congo_red,1,0,25.45,measurement failed,5.363796846
+Erlotinib,congo_red,0.5,1,24.55,30.4,38.91115077
+Erlotinib,congo_red,0.25,1,134.75,30.4,583.3339015
+Erlotinib,cholic_acid,4,0,1465.65,measurement failed,11.21949293
+Erlotinib,cholic_acid,2,0,1466.15,measurement failed,31.77114963
+Erlotinib,cholic_acid,1,0,478.2,measurement failed,22.77315501
+Erlotinib,cholic_acid,0.5,0,1194.55,measurement failed,42.72726638
+Erlotinib,cholic_acid,0.25,0,1011.85,measurement failed,32.46336839
+Erlotinib,glycocholic_acid,4,0,2453.25,measurement failed,24.27337027
+Erlotinib,glycocholic_acid,2,0,1907.75,measurement failed,26.90099681
+Erlotinib,glycocholic_acid,1,0,1122,measurement failed,28.30990817
+Erlotinib,glycocholic_acid,0.5,0,464.95,measurement failed,20.99815398
+Erlotinib,glycocholic_acid,0.25,0,294.45,measurement failed,16.52251294
+Erlotinib,taurocholic acid,4,0,1046.85,measurement failed,4.444444105
+Erlotinib,taurocholic acid,2,0,80.4,measurement failed,3.333333752
+Erlotinib,taurocholic acid,1,0,181.45,measurement failed,4.734848374
+Erlotinib,taurocholic acid,0.5,0,1003.2,measurement failed,6.884841384
+Erlotinib,taurocholic acid,0.25,0,1167.05,measurement failed,18.11299247
+Erlotinib,prednisone,4,0,81.2,14.3,3.333333334
+Erlotinib,prednisone,2,0,540.9,measurement failed,27.44130387
+Erlotinib,prednisone,1,0,1389.05,measurement failed,29.9329525
+Erlotinib,prednisone,0.5,0,100.25,measurement failed,14.44133386
+Erlotinib,prednisone,0.25,0,75.3,measurement failed,4.902099279
+Erlotinib,budesonide,4,0,848.2,measurement failed,71.63381024
+Erlotinib,budesonide,2,0,406,32.95,67.32117077
+Erlotinib,budesonide,1,0,350.2,measurement failed,39.28570536
+Erlotinib,budesonide,0.5,0,891.65,measurement failed,26.85870267
+Erlotinib,budesonide,0.25,0,81.05,measurement failed,10.16395551
+Erlotinib,ursodiol,4,0,140.8,measurement failed,1.833332922
+Erlotinib,ursodiol,2,0,1228.25,measurement failed,64.29211013
+Erlotinib,ursodiol,1,0,1915,measurement failed,60.90822126
+Erlotinib,ursodiol,0.5,0,668.4,measurement failed,22.73666637
+Erlotinib,ursodiol,0.25,0,1145.45,measurement failed,13.7973122
+Camptothecin,Glycyrrhizin,4,0,measurement failed,measurement failed,measurement failed
+Camptothecin,Glycyrrhizin,2,0,2397.55,measurement failed,15.08133202
+Camptothecin,Glycyrrhizin,1,0,measurement failed,measurement failed,measurement failed
+Camptothecin,Glycyrrhizin,0.5,0,measurement failed,measurement failed,measurement failed
+Camptothecin,Glycyrrhizin,0.25,0,1993.35,measurement failed,1.134750747
+Camptothecin,EvansBlue,4,0,326.55,measurement failed,3.038232749
+Camptothecin,EvansBlue,2,0,269.65,measurement failed,2.002567736
+Camptothecin,EvansBlue,1,0,983.2,measurement failed,1.787240677
+Camptothecin,EvansBlue,0.5,0,541.55,measurement failed,1.319067763
+Camptothecin,EvansBlue,0.25,0,3506.3,measurement failed,1.512023087
+Camptothecin,tannic_acid,4,0,935.55,measurement failed,1.654369707
+Camptothecin,tannic_acid,2,0,307.85,measurement failed,3.407990888
+Camptothecin,tannic_acid,1,0,459.7,measurement failed,3.476344594
+Camptothecin,tannic_acid,0.5,0,805.05,measurement failed,7.084453412
+Camptothecin,tannic_acid,0.25,0,910.3,measurement failed,17.43324751
+Camptothecin,candesartan_cilexetil,4,0,3856.55,measurement failed,1875.014513
+Camptothecin,candesartan_cilexetil,2,0,3383.1,measurement failed,992.0604581
+Camptothecin,candesartan_cilexetil,1,0,4083,measurement failed,167.4602618
+Camptothecin,candesartan_cilexetil,0.5,0,1297.45,measurement failed,47.00500199
+Camptothecin,candesartan_cilexetil,0.25,0,936.55,measurement failed,9.546872355
+Camptothecin,indomethacin,4,0,2227.55,measurement failed,6.349205772
+Camptothecin,indomethacin,2,0,161.95,measurement failed,2.371406436
+Camptothecin,indomethacin,1,0,861.3,measurement failed,1.661376054
+Camptothecin,indomethacin,0.5,0,1680.9,measurement failed,3.962489461
+Camptothecin,indomethacin,0.25,0,259.6,measurement failed,1.416939969
+Camptothecin,folic acid,4,0,546,measurement failed,12.20238614
+Camptothecin,folic acid,2,0,1046.85,measurement failed,8.68707432
+Camptothecin,folic acid,1,0,333.05,measurement failed,11.52500517
+Camptothecin,folic acid,0.5,0,467.45,measurement failed,2.174609829
+Camptothecin,folic acid,0.25,0,449.25,measurement failed,7.078198327
+Camptothecin,neotame,4,0,1835.25,measurement failed,9.865109777
+Camptothecin,neotame,2,0,3033.8,measurement failed,7.664375701
+Camptothecin,neotame,1,0,691,measurement failed,2.769287602
+Camptothecin,neotame,0.5,0,510.55,measurement failed,3.316994888
+Camptothecin,neotame,0.25,0,2247.05,measurement failed,2.435934425
+Camptothecin,octyl_gallate,4,0,513.15,measurement failed,20.91906967
+Camptothecin,octyl_gallate,2,0,646.4,23.7,24.67712373
+Camptothecin,octyl_gallate,1,0,440.35,measurement failed,15.92148531
+Camptothecin,octyl_gallate,0.5,0,362.4,measurement failed,3.17533001
+Camptothecin,octyl_gallate,0.25,0,899.9,measurement failed,1.185307161
+Camptothecin,congo_red,4,0,416.4,measurement failed,14.26833238
+Camptothecin,congo_red,2,0,1503.15,measurement failed,1770.846998
+Camptothecin,congo_red,1,0,1893.4,measurement failed,899.9282309
+Camptothecin,congo_red,0.5,0,3173.6,measurement failed,494.9539568
+Camptothecin,congo_red,0.25,0,1912.7,measurement failed,271.5518843
+Camptothecin,cholic_acid,4,0,3921.55,measurement failed,2.633183875
+Camptothecin,cholic_acid,2,0,1529.5,measurement failed,1.526146568
+Camptothecin,cholic_acid,1,0,4482.7,measurement failed,54.77940128
+Camptothecin,cholic_acid,0.5,0,2755.05,measurement failed,1.974851192
+Camptothecin,cholic_acid,0.25,0,853.85,measurement failed,1.065109461
+Camptothecin,glycocholic_acid,4,0,1766.9,measurement failed,22.71557104
+Camptothecin,glycocholic_acid,2,0,1862.25,measurement failed,13.28711305
+Camptothecin,glycocholic_acid,1,0,3930.2,measurement failed,1254.3895
+Camptothecin,glycocholic_acid,0.5,0,1185.9,measurement failed,19.84126743
+Camptothecin,glycocholic_acid,0.25,0,1421.8,measurement failed,8.116883501
+Camptothecin,taurocholic acid,4,0,1991.2,measurement failed,40.48582803
+Camptothecin,taurocholic acid,2,0,829.1,measurement failed,15.93068244
+Camptothecin,taurocholic acid,1,0,1283.3,measurement failed,8.96441351
+Camptothecin,taurocholic acid,0.5,0,3501.75,measurement failed,4.821491626
+Camptothecin,taurocholic acid,0.25,0,2428.95,measurement failed,2.018234183
+Camptothecin,prednisone,4,0,3864.15,measurement failed,1
+Camptothecin,prednisone,2,0,367.65,measurement failed,1.166666667
+Camptothecin,prednisone,1,0,2121.5,measurement failed,1.5
+Camptothecin,prednisone,0.5,0,2825.1,measurement failed,3.274330404
+Camptothecin,prednisone,0.25,0,1755.1,measurement failed,1.068595423
+Camptothecin,budesonide,4,0,1743.65,measurement failed,10.32184529
+Camptothecin,budesonide,2,0,1510.55,measurement failed,1
+Camptothecin,budesonide,1,0,2290.95,measurement failed,1.056793007
+Camptothecin,budesonide,0.5,0,2344.2,measurement failed,1.025210378
+Camptothecin,budesonide,0.25,0,1594.95,measurement failed,1.015464276
+Camptothecin,ursodiol,4,0,1310,measurement failed,40.85238527
+Camptothecin,ursodiol,2,0,1697.8,measurement failed,5.942335305
+Camptothecin,ursodiol,1,0,2388.65,measurement failed,1.186813509
+Camptothecin,ursodiol,0.5,0,2681.65,measurement failed,1.286163058
+Camptothecin,ursodiol,0.25,0,1663.15,measurement failed,1.295165662
+Sunitinib,Glycyrrhizin,4,0,272,measurement failed,125.0000091
+Sunitinib,Glycyrrhizin,2,0,287.2,10.8,79.62961928
+Sunitinib,Glycyrrhizin,1,0,242.3,measurement failed,64.10256381
+Sunitinib,Glycyrrhizin,0.5,0,590.6,measurement failed,44.40502835
+Sunitinib,Glycyrrhizin,0.25,0,524.95,measurement failed,21.13688002
+Sunitinib,EvansBlue,4,0,55.1,measurement failed,11.52882239
+Sunitinib,EvansBlue,2,0,14.05,43,24.36066847
+Sunitinib,EvansBlue,1,1,18.2,36.3,19.20439333
+Sunitinib,EvansBlue,0.5,1,22.55,33.8,23.09112015
+Sunitinib,EvansBlue,0.25,0,32.95,measurement failed,8.410388696
+Sunitinib,tannic_acid,4,0,2433.6,measurement failed,32.43891429
+Sunitinib,tannic_acid,2,0,2035.9,measurement failed,444.4457475
+Sunitinib,tannic_acid,1,0,measurement failed,measurement failed,measurement failed
+Sunitinib,tannic_acid,0.5,0,1712.75,measurement failed,73.03781527
+Sunitinib,tannic_acid,0.25,0,1937.7,measurement failed,25.63567816
+Sunitinib,candesartan_cilexetil,4,0,122.7,56.55,4166.720746
+Sunitinib,candesartan_cilexetil,2,0,1686.5,measurement failed,221.1540709
+Sunitinib,candesartan_cilexetil,1,0,2755.4,measurement failed,93.42588622
+Sunitinib,candesartan_cilexetil,0.5,0,2177.45,measurement failed,139.3189452
+Sunitinib,candesartan_cilexetil,0.25,0,2539.25,measurement failed,229.166801
+Sunitinib,indomethacin,4,0,404.3,10.65,52.19424353
+Sunitinib,indomethacin,2,0,measurement failed,measurement failed,measurement failed
+Sunitinib,indomethacin,1,0,1581.45,measurement failed,3.092685709
+Sunitinib,indomethacin,0.5,0,1406.55,measurement failed,1.864413621
+Sunitinib,indomethacin,0.25,0,1447.9,measurement failed,2.018033821
+Sunitinib,folic acid,4,0,measurement failed,measurement failed,1
+Sunitinib,folic acid,2,0,595.9,measurement failed,49.04306174
+Sunitinib,folic acid,1,0,1913.35,measurement failed,1.385598892
+Sunitinib,folic acid,0.5,0,1660.6,measurement failed,1.310015145
+Sunitinib,folic acid,0.25,0,measurement failed,measurement failed,measurement failed
+Sunitinib,neotame,4,0,1661.1,measurement failed,1.298929214
+Sunitinib,neotame,2,0,1580.7,measurement failed,1.325455501
+Sunitinib,neotame,1,0,1872.8,measurement failed,1.432760772
+Sunitinib,neotame,0.5,0,1492.35,measurement failed,1.161111136
+Sunitinib,neotame,0.25,0,1663.95,measurement failed,1
+Sunitinib,octyl_gallate,4,0,903.25,measurement failed,58.33332966
+Sunitinib,octyl_gallate,2,0,1022.25,2,121.4285569
+Sunitinib,octyl_gallate,1,0,805.9,28.55,107.7898172
+Sunitinib,octyl_gallate,0.5,0,1510.25,measurement failed,93.40656044
+Sunitinib,octyl_gallate,0.25,0,1953.4,measurement failed,87.12129709
+Sunitinib,congo_red,4,0,278.25,measurement failed,9.910120409
+Sunitinib,congo_red,2,0,413.05,measurement failed,71.42856964
+Sunitinib,congo_red,1,0,2693.95,measurement failed,69.19280786
+Sunitinib,congo_red,0.5,0,2578.25,measurement failed,79.19251802
+Sunitinib,congo_red,0.25,0,2702.9,measurement failed,138.7310597
+Sunitinib,cholic_acid,4,0,850.7,measurement failed,3.790243203
+Sunitinib,cholic_acid,2,0,832.1,measurement failed,3.328467476
+Sunitinib,cholic_acid,1,0,881.05,measurement failed,2.796575522
+Sunitinib,cholic_acid,0.5,0,902.55,measurement failed,3.622833101
+Sunitinib,cholic_acid,0.25,0,866.2,measurement failed,3.697486644
+Sunitinib,glycocholic_acid,4,0,2549.25,measurement failed,21.84615687
+Sunitinib,glycocholic_acid,2,0,2758.25,measurement failed,48.67724575
+Sunitinib,glycocholic_acid,1,0,2718.9,measurement failed,32.80845546
+Sunitinib,glycocholic_acid,0.5,0,1786.7,measurement failed,26.88284285
+Sunitinib,glycocholic_acid,0.25,0,1260.75,measurement failed,16.7539827
+Sunitinib,taurocholic acid,4,0,1105.75,measurement failed,4.788178058
+Sunitinib,taurocholic acid,2,0,1052.25,measurement failed,3.526875148
+Sunitinib,taurocholic acid,1,0,1161.45,measurement failed,3.538803234
+Sunitinib,taurocholic acid,0.5,0,1272.4,measurement failed,4.490665989
+Sunitinib,taurocholic acid,0.25,0,1041.8,measurement failed,3.451816539
+Sunitinib,prednisone,4,0,1376.7,measurement failed,3.369998799
+Sunitinib,prednisone,2,0,1395.3,measurement failed,2.758031846
+Sunitinib,prednisone,1,0,1068,measurement failed,2.468324238
+Sunitinib,prednisone,0.5,0,982.95,measurement failed,3.84674175
+Sunitinib,prednisone,0.25,0,1145.4,measurement failed,4.952589862
+Sunitinib,budesonide,4,0,1534.05,measurement failed,184.3693216
+Sunitinib,budesonide,2,0,1259.45,measurement failed,11.54317989
+Sunitinib,budesonide,1,0,1003.05,measurement failed,3.446386948
+Sunitinib,budesonide,0.5,0,1461.05,measurement failed,3.145624409
+Sunitinib,budesonide,0.25,0,1424.3,measurement failed,3.078689559
+Sunitinib,ursodiol,4,0,325.7,43.9,44.01992732
+Sunitinib,ursodiol,2,0,measurement failed,measurement failed,measurement failed
+Sunitinib,ursodiol,1,0,1630.3,measurement failed,3.097027092
+Sunitinib,ursodiol,0.5,0,1226.95,measurement failed,2.454493004
+Sunitinib,ursodiol,0.25,0,1572.95,measurement failed,2.242483019
+Selumetinib,Glycyrrhizin,4,0,183.1,measurement failed,1
+Selumetinib,Glycyrrhizin,2,0,measurement failed,30.25,1
+Selumetinib,Glycyrrhizin,1,0,measurement failed,25.6,1
+Selumetinib,Glycyrrhizin,0.5,0,measurement failed,7.7,1
+Selumetinib,Glycyrrhizin,0.25,0,measurement failed,measurement failed,1
+Selumetinib,EvansBlue,4,0,6.75,measurement failed,2.149798661
+Selumetinib,EvansBlue,2,0,623.4,measurement failed,1.349727147
+Selumetinib,EvansBlue,1,0,measurement failed,measurement failed,1.091484075
+Selumetinib,EvansBlue,0.5,0,measurement failed,measurement failed,1
+Selumetinib,EvansBlue,0.25,0,measurement failed,measurement failed,1
+Selumetinib,tannic_acid,4,0,256.75,measurement failed,5.302187403
+Selumetinib,tannic_acid,2,0,120.3,measurement failed,22.8427172
+Selumetinib,tannic_acid,1,0,353.9,measurement failed,8.573387389
+Selumetinib,tannic_acid,0.5,0,98.75,measurement failed,3.880957786
+Selumetinib,tannic_acid,0.25,1,71.25,27.4,30.99999962
+Selumetinib,candesartan_cilexetil,4,0,167.4,measurement failed,2916.704624
+Selumetinib,candesartan_cilexetil,2,0,295.95,measurement failed,972.2251429
+Selumetinib,candesartan_cilexetil,1,0,116.65,measurement failed,250.0001424
+Selumetinib,candesartan_cilexetil,0.5,1,42.35,34.2,34.56790913
+Selumetinib,candesartan_cilexetil,0.25,1,29.15,31.2,4.410178498
+Selumetinib,indomethacin,4,0,71.65,measurement failed,1
+Selumetinib,indomethacin,2,0,34.45,measurement failed,1
+Selumetinib,indomethacin,1,0,256.65,measurement failed,1
+Selumetinib,indomethacin,0.5,0,129.1,measurement failed,1
+Selumetinib,indomethacin,0.25,0,289.45,measurement failed,1.010204046
+Selumetinib,folic acid,4,0,63.25,measurement failed,1.458333173
+Selumetinib,folic acid,2,0,1666.1,measurement failed,1.153846995
+Selumetinib,folic acid,1,0,285.25,measurement failed,1.015463876
+Selumetinib,folic acid,0.5,0,647.45,measurement failed,1
+Selumetinib,folic acid,0.25,0,457.8,measurement failed,1
+Selumetinib,neotame,4,0,215.05,measurement failed,3.190788393
+Selumetinib,neotame,2,0,218.15,measurement failed,1.865102991
+Selumetinib,neotame,1,0,263.55,measurement failed,1.174218382
+Selumetinib,neotame,0.5,0,300.8,measurement failed,1
+Selumetinib,neotame,0.25,0,292.95,measurement failed,1
+Selumetinib,octyl_gallate,4,0,762.15,measurement failed,89.99996713
+Selumetinib,octyl_gallate,2,0,796.8,5.45,167.4105925
+Selumetinib,octyl_gallate,1,0,535.7,10.45,124.1405346
+Selumetinib,octyl_gallate,0.5,0,352.6,48.6,67.48186802
+Selumetinib,octyl_gallate,0.25,0,1166.7,measurement failed,28.38727871
+Selumetinib,congo_red,4,0,205.4,measurement failed,7.664195707
+Selumetinib,congo_red,2,0,176.65,measurement failed,2.559215245
+Selumetinib,congo_red,1,0,156.75,measurement failed,1.842700871
+Selumetinib,congo_red,0.5,0,295.25,measurement failed,1.309930913
+Selumetinib,congo_red,0.25,0,273.9,measurement failed,1
+Selumetinib,cholic_acid,4,0,629.6,measurement failed,1
+Selumetinib,cholic_acid,2,0,measurement failed,measurement failed,1
+Selumetinib,cholic_acid,1,0,82.15,measurement failed,1.125000462
+Selumetinib,cholic_acid,0.5,0,250.5,measurement failed,1.103699941
+Selumetinib,cholic_acid,0.25,0,247.05,measurement failed,1.02425585
+Selumetinib,glycocholic_acid,4,0,2718.5,measurement failed,27.94917535
+Selumetinib,glycocholic_acid,2,0,measurement failed,measurement failed,measurement failed
+Selumetinib,glycocholic_acid,1,0,1542.75,measurement failed,20.22417708
+Selumetinib,glycocholic_acid,0.5,0,1207.6,measurement failed,13.40053982
+Selumetinib,glycocholic_acid,0.25,0,907.7,measurement failed,7.222999431
+Selumetinib,taurocholic acid,4,0,measurement failed,measurement failed,1
+Selumetinib,taurocholic acid,2,0,1236.95,23.25,1
+Selumetinib,taurocholic acid,1,0,measurement failed,measurement failed,1
+Selumetinib,taurocholic acid,0.5,0,58.55,measurement failed,1
+Selumetinib,taurocholic acid,0.25,0,266.1,measurement failed,1.010204092
+Selumetinib,prednisone,4,0,357.05,measurement failed,1.077500273
+Selumetinib,prednisone,2,0,421,measurement failed,1.166666826
+Selumetinib,prednisone,1,0,330.65,measurement failed,1.145221161
+Selumetinib,prednisone,0.5,0,388.9,measurement failed,1
+Selumetinib,prednisone,0.25,0,402.1,measurement failed,1.024672025
+Selumetinib,budesonide,4,0,2005.2,measurement failed,107.9465406
+Selumetinib,budesonide,2,0,1104.45,measurement failed,12.42992682
+Selumetinib,budesonide,1,0,731.75,measurement failed,2.485168939
+Selumetinib,budesonide,0.5,0,399.9,measurement failed,1.085754419
+Selumetinib,budesonide,0.25,0,389.5,measurement failed,1
+Selumetinib,ursodiol,4,0,measurement failed,26.1,1
+Selumetinib,ursodiol,2,0,599.15,measurement failed,1
+Selumetinib,ursodiol,1,0,202.4,measurement failed,1
+Selumetinib,ursodiol,0.5,0,294.15,24.05,1
+Selumetinib,ursodiol,0.25,0,257.75,measurement failed,1
+Nilotinib,Glycyrrhizin,4,0,2357.7,measurement failed,235.7881374
+Nilotinib,Glycyrrhizin,2,0,2436.8,measurement failed,127.7038783
+Nilotinib,Glycyrrhizin,1,0,2990.05,measurement failed,135.4557053
+Nilotinib,Glycyrrhizin,0.5,0,2779.85,measurement failed,169.444562
+Nilotinib,Glycyrrhizin,0.25,0,2279.7,measurement failed,83.33331985
+Nilotinib,EvansBlue,4,0,1536.75,measurement failed,6.647016616
+Nilotinib,EvansBlue,2,0,40.3,measurement failed,22.056569
+Nilotinib,EvansBlue,1,0,159.05,measurement failed,25.48700764
+Nilotinib,EvansBlue,0.5,0,247.2,measurement failed,24.24189607
+Nilotinib,EvansBlue,0.25,0,138.7,measurement failed,22.98927154
+Nilotinib,tannic_acid,4,0,336.4,measurement failed,34.99851785
+Nilotinib,tannic_acid,2,0,measurement failed,measurement failed,measurement failed
+Nilotinib,tannic_acid,1,0,measurement failed,measurement failed,measurement failed
+Nilotinib,tannic_acid,0.5,0,measurement failed,measurement failed,measurement failed
+Nilotinib,tannic_acid,0.25,0,1472.4,measurement failed,9.169621643
+Nilotinib,candesartan_cilexetil,4,1,79.15,19,1527.793476
+Nilotinib,candesartan_cilexetil,2,1,63.55,14.4,1111.110499
+Nilotinib,candesartan_cilexetil,1,1,54.05,15.25,555.5554398
+Nilotinib,candesartan_cilexetil,0.5,1,47.05,12.9,500.0004273
+Nilotinib,candesartan_cilexetil,0.25,1,131.85,37.5,208.3335511
+Nilotinib,indomethacin,4,0,measurement failed,measurement failed,measurement failed
+Nilotinib,indomethacin,2,0,2948.7,measurement failed,2.06250015
+Nilotinib,indomethacin,1,0,2402.25,measurement failed,1.015463635
+Nilotinib,indomethacin,0.5,0,measurement failed,measurement failed,measurement failed
+Nilotinib,indomethacin,0.25,0,2554.8,measurement failed,1.055555556
+Nilotinib,folic acid,4,0,1744.3,measurement failed,1
+Nilotinib,folic acid,2,0,1023.85,measurement failed,3.86722638
+Nilotinib,folic acid,1,0,measurement failed,measurement failed,measurement failed
+Nilotinib,folic acid,0.5,0,1429.55,measurement failed,3.351350593
+Nilotinib,folic acid,0.25,0,1372.4,measurement failed,3.924657359
+Nilotinib,neotame,4,0,measurement failed,measurement failed,measurement failed
+Nilotinib,neotame,2,0,3007.25,measurement failed,2.744360665
+Nilotinib,neotame,1,0,4297.5,measurement failed,1
+Nilotinib,neotame,0.5,0,2547.25,measurement failed,4.114805506
+Nilotinib,neotame,0.25,0,4001.15,measurement failed,10.56440985
+Nilotinib,octyl_gallate,4,0,1721,measurement failed,36.28236039
+Nilotinib,octyl_gallate,2,0,1870.6,measurement failed,177.0518339
+Nilotinib,octyl_gallate,1,0,1993.75,measurement failed,98.35599547
+Nilotinib,octyl_gallate,0.5,0,1553.65,measurement failed,21.39093215
+Nilotinib,octyl_gallate,0.25,0,2011,measurement failed,3.850836944
+Nilotinib,congo_red,4,0,469.05,measurement failed,527.7778681
+Nilotinib,congo_red,2,0,303,measurement failed,1111.11074
+Nilotinib,congo_red,1,0,829.65,measurement failed,1291.665743
+Nilotinib,congo_red,0.5,0,291.9,measurement failed,1666.667556
+Nilotinib,congo_red,0.25,0,357.9,measurement failed,1000.000914
+Nilotinib,cholic_acid,4,0,2861.35,measurement failed,142.7545765
+Nilotinib,cholic_acid,2,0,2738.4,measurement failed,110.1191056
+Nilotinib,cholic_acid,1,0,2565,measurement failed,380.9175366
+Nilotinib,cholic_acid,0.5,0,3075.8,measurement failed,82.4085895
+Nilotinib,cholic_acid,0.25,0,2410.2,measurement failed,163.2394786
+Nilotinib,glycocholic_acid,4,0,2746.15,measurement failed,30.74533711
+Nilotinib,glycocholic_acid,2,0,2783.2,measurement failed,45.77044961
+Nilotinib,glycocholic_acid,1,0,measurement failed,measurement failed,measurement failed
+Nilotinib,glycocholic_acid,0.5,0,2268.8,measurement failed,68.57141275
+Nilotinib,glycocholic_acid,0.25,0,2489.5,measurement failed,96.17500078
+Nilotinib,taurocholic acid,4,0,4091.3,measurement failed,27.65306079
+Nilotinib,taurocholic acid,2,0,measurement failed,measurement failed,measurement failed
+Nilotinib,taurocholic acid,1,0,measurement failed,measurement failed,measurement failed
+Nilotinib,taurocholic acid,0.5,0,measurement failed,measurement failed,measurement failed
+Nilotinib,taurocholic acid,0.25,0,1667.85,18.9,47.48852139
+Nilotinib,prednisone,4,0,1499.4,measurement failed,41.34696511
+Nilotinib,prednisone,2,0,803.7,measurement failed,70.71959638
+Nilotinib,prednisone,1,0,2172.65,measurement failed,29.67457363
+Nilotinib,prednisone,0.5,0,882.5,measurement failed,12.47582143
+Nilotinib,prednisone,0.25,0,2560.35,measurement failed,20.43078059
+Nilotinib,budesonide,4,0,1399.25,measurement failed,300.0002745
+Nilotinib,budesonide,2,0,1312.45,measurement failed,58.27701031
+Nilotinib,budesonide,1,0,930.35,10.75,66.66665128
+Nilotinib,budesonide,0.5,0,1932.2,measurement failed,32.23525621
+Nilotinib,budesonide,0.25,0,872.35,4.8,67.77777792
+Nilotinib,ursodiol,4,0,2177.55,measurement failed,52.92247873
+Nilotinib,ursodiol,2,0,824.35,measurement failed,19.78022473
+Nilotinib,ursodiol,1,0,1092.3,measurement failed,29.99998754
+Nilotinib,ursodiol,0.5,0,860.6,measurement failed,41.24997317
+Nilotinib,ursodiol,0.25,0,1956.75,measurement failed,27.483173
+Gefitinib,Glycyrrhizin,4,,185.52,22.47989168,5.311642418
+Gefitinib,Glycyrrhizin,2,,36.48,49.47635128,7.222198692
+Gefitinib,Glycyrrhizin,1,,61.65,14.23495378,11.7430231
+Gefitinib,Glycyrrhizin,0.5,,measurement failed,54.8583294,4.139346017
+Gefitinib,Glycyrrhizin,0.25,,70.48,14.6746007,623.4067399
+Gefitinib,congo_red,4,,55.55,46.18351473,2270.073809
+Gefitinib,congo_red,2,,133.95,21.92031501,1728.230718
+Gefitinib,congo_red,1,,33.53,6.654952178,7.021967254
+Gefitinib,congo_red,0.5,,512.75,9.815688007,13.43833208
+Gefitinib,congo_red,0.25,,829.01,40.33099302,4.379034848
+Gefitinib,cholic_acid,4,,364.12,9.855824794,2117.216041
+Gefitinib,cholic_acid,2,,900.89,32.41306981,8.964999477
+Gefitinib,cholic_acid,1,,311.78,28.52375512,11.01388139
+Gefitinib,cholic_acid,0.5,,667.76,19.09738642,10.51421007
+Gefitinib,cholic_acid,0.25,,463.02,22.09099325,7.229964278
+Gefitinib,glycocholic_acid,4,,359.29,30.20028307,5.95613428
+Gefitinib,glycocholic_acid,2,,69.1,18.46433444,1.655381599
+Gefitinib,glycocholic_acid,1,,39.86,48.22392666,9.53567109
+Gefitinib,glycocholic_acid,0.5,,measurement failed,56.94647714,136.5788067
+Gefitinib,glycocholic_acid,0.25,,61.92,14.81852611,2.479497357
+Gefitinib,taurocholic acid,4,,measurement failed,58.67241688,103.0505827
+Gefitinib,taurocholic acid,2,,101.45,24.10220839,1777.483467
+Gefitinib,taurocholic acid,1,,440.16,24.98959376,10.46278874
+Gefitinib,taurocholic acid,0.5,,924.86,10.62206747,12.8266256
+Gefitinib,taurocholic acid,0.25,,462.18,27.25593963,1173.079599
+Gefitinib,prednisone,4,,764.44,25.3352062,10.04470436
+Gefitinib,prednisone,2,,128.36,16.92750768,72.21427406
+Gefitinib,prednisone,1,,750.87,35.40732887,1663.62033
+Gefitinib,prednisone,0.5,,690.75,57.82847166,2827.818597
+Gefitinib,prednisone,0.25,,174.75,5.527597154,1.781163928
+Gefitinib,budesonide,4,,330.39,58.18547478,1342.639522
+Gefitinib,budesonide,2,,160.24,30.1347079,3.497847014
+Gefitinib,budesonide,1,,70.75,58.64259172,2388.338845
+Gefitinib,budesonide,0.5,,295.51,43.10429868,4.973797915
+Gefitinib,budesonide,0.25,,836.71,52.46335072,1.629978428
+Gefitinib,ursodiol,4,,766.7,52.98161322,9.185283567
+Gefitinib,ursodiol,2,,156.53,40.47178507,3.414116476
+Gefitinib,ursodiol,1,,26.71,42.52496687,10.43175529
+Gefitinib,ursodiol,0.5,,42.06,51.80866093,8.538629566
+Gefitinib,ursodiol,0.25,,30.5,15.38552858,1156.465685
+Gefitinib,EvansBlue,4,,180.4,34.53888284,1821.856954
+Gefitinib,EvansBlue,2,,156.2,12.71234536,11.48985553
+Gefitinib,EvansBlue,1,,849.08,23.07488432,2.944149316
+Gefitinib,EvansBlue,0.5,,266.89,57.32051852,10.96074065
+Gefitinib,EvansBlue,0.25,,734.73,38.93390914,10.87525219
+Gefitinib,tannic_acid,4,,430.13,26.7478694,2.462529323
+Gefitinib,tannic_acid,2,,541.82,6.452349107,1.609047724
+Gefitinib,tannic_acid,1,,301.05,42.56468714,9.383795922
+Gefitinib,tannic_acid,0.5,,276.74,55.55830718,2722.53381
+Gefitinib,tannic_acid,0.25,,681.93,22.34516284,1334.656086
+Gefitinib,candesartan_cilexetil,4,,696.74,25.07904445,4.451542295
+Gefitinib,candesartan_cilexetil,2,,33.56,55.78332227,2517.990432
+Gefitinib,candesartan_cilexetil,1,,552.5,39.12861284,1010.434022
+Gefitinib,candesartan_cilexetil,0.5,,98.42,41.01125169,2755.673786
+Gefitinib,candesartan_cilexetil,0.25,,414.96,54.52935365,911.3529568
+Gefitinib,indomethacin,4,,measurement failed,52.41821535,6.152954862
+Gefitinib,indomethacin,2,,481.3,26.77870687,3.162785828
+Gefitinib,indomethacin,1,,481.59,26.81846123,2275.623291
+Gefitinib,indomethacin,0.5,,167.02,39.2289962,302.8563696
+Gefitinib,indomethacin,0.25,,411.6,52.8308439,580.1916378
+Gefitinib,folic acid,4,,27.58,measurement failed,12.09818055
+Gefitinib,folic acid,2,,579.13,21.19216919,1748.726642
+Gefitinib,folic acid,1,,142.74,14.00317838,2145.893005
+Gefitinib,folic acid,0.5,,69.11,22.75677768,9.952092467
+Gefitinib,folic acid,0.25,,34.11,58.92317996,797.373466
+Gefitinib,neotame,4,,measurement failed,20.98203346,2965.350548
+Gefitinib,neotame,2,,135.93,measurement failed,13.16405545
+Gefitinib,neotame,1,,measurement failed,26.34445742,2972.395143
+Gefitinib,neotame,0.5,,59.12,33.7375032,1813.292394
+Gefitinib,neotame,0.25,,153.39,54.29247215,636.876009
+Gefitinib,octyl_gallate,4,,80.83,41.84128269,1903.619524
+Gefitinib,octyl_gallate,2,,583.12,52.64846706,2.48216838
+Gefitinib,octyl_gallate,1,,847.14,measurement failed,7.766641608
+Gefitinib,octyl_gallate,0.5,,142.96,56.35887417,1.282747897
+Gefitinib,octyl_gallate,0.25,,86.24,15.93037202,10.7312013
+Nelfinavir,Glycyrrhizin,4,,28.65,35.724148,1958.240729
+Nelfinavir,Glycyrrhizin,2,,78.37,19.21334674,5.676903764
+Nelfinavir,Glycyrrhizin,1,,370.58,17.75137012,1.05301513
+Nelfinavir,Glycyrrhizin,0.5,,137.2,13.2839408,711.5623636
+Nelfinavir,Glycyrrhizin,0.25,,570.46,9.43861429,3.200421064
+Nelfinavir,congo_red,4,,50.73,28.66587387,583.0431572
+Nelfinavir,congo_red,2,,44.93,29.40829208,759.5044466
+Nelfinavir,congo_red,1,,29.29,27.31030013,2332.020271
+Nelfinavir,congo_red,0.5,,123.73,27.03813555,527.4106367
+Nelfinavir,congo_red,0.25,,191.89,34.17760068,236.7891325
+Nelfinavir,cholic_acid,4,,measurement failed,47.74904044,2977.844264
+Nelfinavir,cholic_acid,2,,97.67,48.94259503,1682.292208
+Nelfinavir,cholic_acid,1,,188.8,14.01413174,5.362394189
+Nelfinavir,cholic_acid,0.5,,52.44,21.39869263,7.0766266
+Nelfinavir,cholic_acid,0.25,,154.01,measurement failed,2102.681159
+Nelfinavir,glycocholic_acid,4,,51.77,17.26010564,2343.362043
+Nelfinavir,glycocholic_acid,2,,195.67,21.36293725,2376.236036
+Nelfinavir,glycocholic_acid,1,,37.48,47.79796172,13.44098209
+Nelfinavir,glycocholic_acid,0.5,,64.16,measurement failed,358.0514883
+Nelfinavir,glycocholic_acid,0.25,,81.9,40.66392246,389.6605779
+Nelfinavir,taurocholic acid,4,,61.4,27.13787808,1960.552661
+Nelfinavir,taurocholic acid,2,,132.27,8.705112165,1882.863169
+Nelfinavir,taurocholic acid,1,,277.36,8.686345344,13.93788082
+Nelfinavir,taurocholic acid,0.5,,63.62,52.35622279,10.92012256
+Nelfinavir,taurocholic acid,0.25,,414.18,50.40106155,1.906708776
+Nelfinavir,prednisone,4,,66.77,22.08691321,13.00718566
+Nelfinavir,prednisone,2,,782.38,23.75160361,2083.014063
+Nelfinavir,prednisone,1,,150.31,22.0378449,1749.623052
+Nelfinavir,prednisone,0.5,,211.71,34.72205643,9.875077137
+Nelfinavir,prednisone,0.25,,117.6,19.04745046,199.0626411
+Nelfinavir,budesonide,4,,164.88,16.11799309,2.081060559
+Nelfinavir,budesonide,2,,339.12,15.3951387,12.0356621
+Nelfinavir,budesonide,1,,873.51,31.50956539,52.02134145
+Nelfinavir,budesonide,0.5,,298.07,13.20222036,2303.713641
+Nelfinavir,budesonide,0.25,,92.84,45.31148458,4.768621447
+Nelfinavir,ursodiol,4,,147.98,20.73120654,656.6842096
+Nelfinavir,ursodiol,2,,168.08,16.53901616,12.30695605
+Nelfinavir,ursodiol,1,,537.59,33.90992932,434.4308013
+Nelfinavir,ursodiol,0.5,,measurement failed,57.77545286,4.786005209
+Nelfinavir,ursodiol,0.25,,measurement failed,18.51433944,2399.074947
+Nelfinavir,EvansBlue,4,,148.71,20.33914224,2472.557672
+Nelfinavir,EvansBlue,2,,185.65,29.94736666,1961.123923
+Nelfinavir,EvansBlue,1,,143.95,36.30544354,678.9417402
+Nelfinavir,EvansBlue,0.5,,126.78,12.91768264,23.03008959
+Nelfinavir,EvansBlue,0.25,,87.24,27.20933546,2029.134253
+Nelfinavir,tannic_acid,4,,442.03,6.94220734,1283.203144
+Nelfinavir,tannic_acid,2,,611.29,20.54774604,3.724831358
+Nelfinavir,tannic_acid,1,,measurement failed,17.19995984,2970.793658
+Nelfinavir,tannic_acid,0.5,,967.24,35.72300459,13.15551231
+Nelfinavir,tannic_acid,0.25,,116.18,15.71617215,790.8682508
+Nelfinavir,candesartan_cilexetil,4,,198.59,32.24840516,836.0135455
+Nelfinavir,candesartan_cilexetil,2,,129.91,34.51059143,1151.58931
+Nelfinavir,candesartan_cilexetil,1,,179.1,32.19526294,2726.70111
+Nelfinavir,candesartan_cilexetil,0.5,,157.38,9.763774603,2763.884869
+Nelfinavir,candesartan_cilexetil,0.25,,379.32,24.47745337,13.68940137
+Nelfinavir,indomethacin,4,,283.15,55.69916235,1277.466086
+Nelfinavir,indomethacin,2,,347.97,58.69989075,3.385867367
+Nelfinavir,indomethacin,1,,798.17,28.91545803,2.030645451
+Nelfinavir,indomethacin,0.5,,measurement failed,33.61113698,2.338766861
+Nelfinavir,indomethacin,0.25,,measurement failed,29.39209546,2913.731503
+Nelfinavir,folic acid,4,,59.36,47.01931259,4.629891026
+Nelfinavir,folic acid,2,,40.85,46.62298183,1905.309692
+Nelfinavir,folic acid,1,,980.95,measurement failed,1199.05675
+Nelfinavir,folic acid,0.5,,926.14,17.58620062,7.370001792
+Nelfinavir,folic acid,0.25,,420.58,52.21100861,1656.244921
+Nelfinavir,neotame,4,,41.18,15.66727927,1.919536387
+Nelfinavir,neotame,2,,149.03,28.10136765,12.70480996
+Nelfinavir,neotame,1,,860.19,measurement failed,597.6252334
+Nelfinavir,neotame,0.5,,169.17,45.22218253,1684.045135
+Nelfinavir,neotame,0.25,,424.15,42.03641217,5.310298023
+Nelfinavir,octyl_gallate,4,,560.68,21.28468401,6.540846865
+Nelfinavir,octyl_gallate,2,,182.49,measurement failed,7.879434076
+Nelfinavir,octyl_gallate,1,,75.74,19.48635588,1981.920718
+Nelfinavir,octyl_gallate,0.5,,176.16,11.84259835,759.9678802
+Nelfinavir,octyl_gallate,0.25,,measurement failed,10.04009721,2.588361287
+Glimepiride,Glycyrrhizin,4,,356.74,11.53035675,2542.96141
+Glimepiride,Glycyrrhizin,2,,868.44,measurement failed,862.5923487
+Glimepiride,Glycyrrhizin,1,,101.63,53.70734974,6.74546978
+Glimepiride,Glycyrrhizin,0.5,,372.5,28.1932538,3.047919617
+Glimepiride,Glycyrrhizin,0.25,,607.25,measurement failed,5.518598114
+Glimepiride,congo_red,4,,787.9,58.31305067,1534.518682
+Glimepiride,congo_red,2,,914.51,35.50749506,12.89658661
+Glimepiride,congo_red,1,,180.29,47.02784365,2.789069943
+Glimepiride,congo_red,0.5,,606.44,59.45765231,2.23452585
+Glimepiride,congo_red,0.25,,558.84,29.082791,6.763539624
+Glimepiride,cholic_acid,4,,388.56,22.90796531,2.023819037
+Glimepiride,cholic_acid,2,,164.72,46.25202245,1.370838346
+Glimepiride,cholic_acid,1,,35.7,42.00911098,3.562942227
+Glimepiride,cholic_acid,0.5,,156.58,15.32559986,424.870636
+Glimepiride,cholic_acid,0.25,,390,39.74186319,7.017762266
+Glimepiride,glycocholic_acid,4,,measurement failed,24.06795441,7.641474668
+Glimepiride,glycocholic_acid,2,,412.53,51.34784993,2085.927088
+Glimepiride,glycocholic_acid,1,,290.36,42.9635466,12.63234823
+Glimepiride,glycocholic_acid,0.5,,346.27,23.94617435,9.93260988
+Glimepiride,glycocholic_acid,0.25,,45.66,5.871714847,1266.45518
+Glimepiride,taurocholic acid,4,,135.19,53.96393574,12.08140396
+Glimepiride,taurocholic acid,2,,855.82,measurement failed,49.75508225
+Glimepiride,taurocholic acid,1,,114.18,28.68265776,2046.790778
+Glimepiride,taurocholic acid,0.5,,930.91,32.66560796,805.9090695
+Glimepiride,taurocholic acid,0.25,,518.48,8.258184208,3.326108483
+Glimepiride,prednisone,4,,135.37,52.72796791,1476.418239
+Glimepiride,prednisone,2,,measurement failed,56.40171573,261.3945377
+Glimepiride,prednisone,1,,264.03,49.20319309,11.57931878
+Glimepiride,prednisone,0.5,,measurement failed,40.07544199,10.21007784
+Glimepiride,prednisone,0.25,,811.22,44.14124215,1778.146839
+Glimepiride,budesonide,4,,663.79,55.60090928,3.678307727
+Glimepiride,budesonide,2,,669.66,47.99647339,13.71153012
+Glimepiride,budesonide,1,,measurement failed,21.95357332,6.069455563
+Glimepiride,budesonide,0.5,,102.78,21.47094743,1204.518765
+Glimepiride,budesonide,0.25,,968.36,50.93388493,1706.826902
+Glimepiride,ursodiol,4,,69.74,55.14215903,12.76071663
+Glimepiride,ursodiol,2,,65.69,40.96159639,9.609811843
+Glimepiride,ursodiol,1,,154.73,17.49453979,2048.276016
+Glimepiride,ursodiol,0.5,,877.69,47.97161353,7.397745725
+Glimepiride,ursodiol,0.25,,515.96,38.03442488,2113.738772
+Glimepiride,EvansBlue,4,,192.41,53.05991379,1855.726099
+Glimepiride,EvansBlue,2,,measurement failed,21.9410636,2973.035522
+Glimepiride,EvansBlue,1,,375.08,52.53394794,12.72796325
+Glimepiride,EvansBlue,0.5,,734.55,48.0964995,1986.460137
+Glimepiride,EvansBlue,0.25,,measurement failed,18.14623573,2138.897551
+Glimepiride,tannic_acid,4,,460.76,39.74499778,124.131609
+Glimepiride,tannic_acid,2,,27.06,28.40676838,1928.756197
+Glimepiride,tannic_acid,1,,50.43,40.10122426,2176.616704
+Glimepiride,tannic_acid,0.5,,180.74,44.30494479,3.902348836
+Glimepiride,tannic_acid,0.25,,495.67,36.28726164,12.39287815
+Glimepiride,candesartan_cilexetil,4,,682.06,measurement failed,1937.062648
+Glimepiride,candesartan_cilexetil,2,,578.59,9.054437073,1298.374796
+Glimepiride,candesartan_cilexetil,1,,84.87,19.43078764,2128.43512
+Glimepiride,candesartan_cilexetil,0.5,,155.88,50.9643741,2703.074296
+Glimepiride,candesartan_cilexetil,0.25,,measurement failed,52.39752677,2086.83375
+Glimepiride,indomethacin,4,,634.26,55.82230233,404.1384981
+Glimepiride,indomethacin,2,,790.02,50.23011897,4.137819208
+Glimepiride,indomethacin,1,,540.44,measurement failed,2422.90252
+Glimepiride,indomethacin,0.5,,109.45,32.61955652,2380.78547
+Glimepiride,indomethacin,0.25,,measurement failed,56.21904223,4.959362759
+Glimepiride,folic acid,4,,101.29,41.54780327,2551.108117
+Glimepiride,folic acid,2,,535.27,21.75532465,1019.031381
+Glimepiride,folic acid,1,,25.71,23.32820641,2970.189375
+Glimepiride,folic acid,0.5,,193.72,23.86309162,12.2563965
+Glimepiride,folic acid,0.25,,115.32,10.6243538,665.0417833
+Glimepiride,neotame,4,,measurement failed,10.5823856,13.54359345
+Glimepiride,neotame,2,,221.17,23.60241305,2.02388674
+Glimepiride,neotame,1,,140.78,49.01248478,9.574946605
+Glimepiride,neotame,0.5,,166.01,36.09206942,1388.674932
+Glimepiride,neotame,0.25,,168.77,41.54216007,2155.144583
+Glimepiride,octyl_gallate,4,,567.12,52.180903,911.5426581
+Glimepiride,octyl_gallate,2,,902.18,measurement failed,7.907213401
+Glimepiride,octyl_gallate,1,,measurement failed,27.7861504,1271.805367
+Glimepiride,octyl_gallate,0.5,,770.96,37.73604323,6.796599172
+Glimepiride,octyl_gallate,0.25,,253.35,57.98882994,1.670568432
+ceritinib,Glycyrrhizin,4,,139,17.14995586,7.490569325
+ceritinib,Glycyrrhizin,2,,180.88,20.60541403,180.1620858
+ceritinib,Glycyrrhizin,1,,27.14,23.23652352,453.5942106
+ceritinib,Glycyrrhizin,0.5,,906.81,40.87901592,178.3234407
+ceritinib,Glycyrrhizin,0.25,,398.75,57.73383036,1284.795455
+ceritinib,congo_red,4,,150.87,33.79544796,1121.301459
+ceritinib,congo_red,2,,44.23,8.23127002,1633.31936
+ceritinib,congo_red,1,,195.09,51.1890666,11.55397749
+ceritinib,congo_red,0.5,,254.61,measurement failed,259.7798969
+ceritinib,congo_red,0.25,,143.56,53.0131696,5.311019113
+ceritinib,cholic_acid,4,,59.75,35.56649622,5.704153678
+ceritinib,cholic_acid,2,,542.3,59.05867426,10.67975517
+ceritinib,cholic_acid,1,,measurement failed,27.72764334,12.3224288
+ceritinib,cholic_acid,0.5,,844.65,12.76630492,2625.462059
+ceritinib,cholic_acid,0.25,,742.85,8.766963393,6.391282086
+ceritinib,glycocholic_acid,4,,140.27,57.68942604,203.7340234
+ceritinib,glycocholic_acid,2,,45.25,56.17348171,2868.583959
+ceritinib,glycocholic_acid,1,,188.54,44.63885468,2706.111496
+ceritinib,glycocholic_acid,0.5,,104.38,27.73100337,390.5429002
+ceritinib,glycocholic_acid,0.25,,771.75,11.42865775,2773.786965
+ceritinib,taurocholic acid,4,,190.81,measurement failed,1595.994841
+ceritinib,taurocholic acid,2,,157.27,59.48011435,5.076237994
+ceritinib,taurocholic acid,1,,103.21,30.76145181,2078.622428
+ceritinib,taurocholic acid,0.5,,399.2,11.28609221,6.031030487
+ceritinib,taurocholic acid,0.25,,180.83,15.70944323,12.64713924
+ceritinib,prednisone,4,,438.66,measurement failed,6.6395669
+ceritinib,prednisone,2,,95.68,24.89460721,2842.433815
+ceritinib,prednisone,1,,95.8,24.09100934,10.4145934
+ceritinib,prednisone,0.5,,142.35,22.62549591,2332.44294
+ceritinib,prednisone,0.25,,measurement failed,measurement failed,1581.969452
+ceritinib,budesonide,4,,369.49,52.20476508,4.786119525
+ceritinib,budesonide,2,,333.79,29.45437522,9.64943578
+ceritinib,budesonide,1,,186.97,7.121813834,10.74183061
+ceritinib,budesonide,0.5,,790.84,23.85916181,6.552736137
+ceritinib,budesonide,0.25,,115.98,53.55245215,2.332014417
+ceritinib,ursodiol,4,,790.57,19.59719049,2350.67765
+ceritinib,ursodiol,2,,475.61,48.88525072,12.04143082
+ceritinib,ursodiol,1,,333.84,measurement failed,697.2850554
+ceritinib,ursodiol,0.5,,76.68,measurement failed,1713.405839
+ceritinib,ursodiol,0.25,,149.2,measurement failed,13.75683262
+ceritinib,EvansBlue,4,,188.16,48.06594492,414.1588373
+ceritinib,EvansBlue,2,,861.88,34.26841343,5.761259896
+ceritinib,EvansBlue,1,,46.51,23.16340765,3.368056445
+ceritinib,EvansBlue,0.5,,705.85,41.82750267,7.887401319
+ceritinib,EvansBlue,0.25,,175.91,43.492201,12.91829902
+ceritinib,tannic_acid,4,,49.96,36.95073888,971.755077
+ceritinib,tannic_acid,2,,174.71,41.23562677,1019.326256
+ceritinib,tannic_acid,1,,825.93,25.82728411,9.500564792
+ceritinib,tannic_acid,0.5,,460.66,42.00805247,7.967561899
+ceritinib,tannic_acid,0.25,,303.35,40.49223797,3.128186791
+ceritinib,candesartan_cilexetil,4,,112.91,12.5839105,5.487552158
+ceritinib,candesartan_cilexetil,2,,measurement failed,55.62025461,123.5038233
+ceritinib,candesartan_cilexetil,1,,802.38,32.16607897,2388.884979
+ceritinib,candesartan_cilexetil,0.5,,371.85,32.80416985,165.188712
+ceritinib,candesartan_cilexetil,0.25,,985.63,14.46119878,13.6981719
+ceritinib,indomethacin,4,,624.26,47.4030789,550.5563742
+ceritinib,indomethacin,2,,measurement failed,8.207451046,1.190069969
+ceritinib,indomethacin,1,,771.57,37.20835548,506.1721456
+ceritinib,indomethacin,0.5,,23.05,28.31080447,13.34938199
+ceritinib,indomethacin,0.25,,190.34,54.14325328,931.7263158
+ceritinib,folic acid,4,,24.96,13.01020929,1.304057532
+ceritinib,folic acid,2,,755.79,18.52031963,5.198072639
+ceritinib,folic acid,1,,109.27,41.04980974,865.9570399
+ceritinib,folic acid,0.5,,107.54,40.01367165,6.212121516
+ceritinib,folic acid,0.25,,measurement failed,41.11378924,1785.503697
+ceritinib,neotame,4,,139.15,54.83197505,1905.594593
+ceritinib,neotame,2,,320.7,44.90680469,4.057461899
+ceritinib,neotame,1,,109.36,measurement failed,3.278539063
+ceritinib,neotame,0.5,,539.58,30.16205422,13.76232062
+ceritinib,neotame,0.25,,measurement failed,29.35210136,12.14960795
+ceritinib,octyl_gallate,4,,871.04,39.50938233,9.977172249
+ceritinib,octyl_gallate,2,,719.8,36.4493136,2054.729183
+ceritinib,octyl_gallate,1,,118,29.72203826,11.75902474
+ceritinib,octyl_gallate,0.5,,885.94,52.83843135,6.974082207
+ceritinib,octyl_gallate,0.25,,127.09,measurement failed,2041.811881
+entrectinib,Glycyrrhizin,4,,104.78,10.04320718,2642.709338
+entrectinib,Glycyrrhizin,2,,107.11,42.92767198,2953.201672
+entrectinib,Glycyrrhizin,1,,209.73,56.76261505,2656.704969
+entrectinib,Glycyrrhizin,0.5,,measurement failed,measurement failed,2517.641639
+entrectinib,Glycyrrhizin,0.25,,385.86,15.6249238,717.367281
+entrectinib,congo_red,4,,107.46,38.03342277,2906.550756
+entrectinib,congo_red,2,,37.38,31.53975342,2471.215538
+entrectinib,congo_red,1,,42.04,12.76400126,2642.058151
+entrectinib,congo_red,0.5,,106.92,36.59435978,37.19525268
+entrectinib,congo_red,0.25,,115.66,12.16241197,9.687438892
+entrectinib,cholic_acid,4,,148.5,57.0342965,11.00714831
+entrectinib,cholic_acid,2,,31.45,48.50755211,1772.841564
+entrectinib,cholic_acid,1,,156.28,41.34017216,2887.609029
+entrectinib,cholic_acid,0.5,,650.34,measurement failed,720.4583978
+entrectinib,cholic_acid,0.25,,366.34,47.71588012,117.8751985
+entrectinib,glycocholic_acid,4,,116.4,11.13858915,2.908476109
+entrectinib,glycocholic_acid,2,,measurement failed,58.14129935,823.173825
+entrectinib,glycocholic_acid,1,,376.85,42.08761297,7.322929329
+entrectinib,glycocholic_acid,0.5,,72.27,32.50254677,7.58774728
+entrectinib,glycocholic_acid,0.25,,measurement failed,34.13107469,158.740531
+entrectinib,taurocholic acid,4,,167.62,42.93789967,181.2408989
+entrectinib,taurocholic acid,2,,56.43,44.24185951,4.822046043
+entrectinib,taurocholic acid,1,,883.21,9.056350955,1017.875491
+entrectinib,taurocholic acid,0.5,,147.95,51.00260216,2156.970038
+entrectinib,taurocholic acid,0.25,,83.57,45.7462347,7.615990503
+entrectinib,prednisone,4,,376.74,13.76980797,13.64138885
+entrectinib,prednisone,2,,935.58,59.68805805,160.9177709
+entrectinib,prednisone,1,,measurement failed,45.74920628,2191.199263
+entrectinib,prednisone,0.5,,34.39,30.1675011,1140.284432
+entrectinib,prednisone,0.25,,713.88,47.78449755,11.28250836
+entrectinib,budesonide,4,,36.01,59.705501,13.82435122
+entrectinib,budesonide,2,,measurement failed,54.29993894,836.0292862
+entrectinib,budesonide,1,,924.89,56.83378459,2267.950456
+entrectinib,budesonide,0.5,,159.58,24.55986933,2.667936288
+entrectinib,budesonide,0.25,,42.38,47.60042364,8.551980175
+entrectinib,ursodiol,4,,72.17,51.49094091,530.8874575
+entrectinib,ursodiol,2,,428.1,51.79877744,10.96669947
+entrectinib,ursodiol,1,,559.22,39.15188697,4.626334703
+entrectinib,ursodiol,0.5,,135.65,52.4327136,2749.137127
+entrectinib,ursodiol,0.25,,145.07,59.33850163,1545.924138
+entrectinib,EvansBlue,4,,63.91,27.27306134,543.1791728
+entrectinib,EvansBlue,2,,78.69,30.27290528,2051.67821
+entrectinib,EvansBlue,1,,292,45.26501868,5.869944164
+entrectinib,EvansBlue,0.5,,717.05,48.03987239,10.31541808
+entrectinib,EvansBlue,0.25,,96.45,31.07557602,9.589622121
+entrectinib,tannic_acid,4,,178.23,49.16227671,9.031089116
+entrectinib,tannic_acid,2,,126.5,10.64527658,6.785407692
+entrectinib,tannic_acid,1,,295.66,42.30472356,2324.102057
+entrectinib,tannic_acid,0.5,,measurement failed,16.74379245,13.80345442
+entrectinib,tannic_acid,0.25,,682.83,47.52529337,7.585396124
+entrectinib,candesartan_cilexetil,4,,58.97,53.56022029,7.339721068
+entrectinib,candesartan_cilexetil,2,,439.9,35.23719605,1324.440067
+entrectinib,candesartan_cilexetil,1,,measurement failed,6.697973352,300.8052447
+entrectinib,candesartan_cilexetil,0.5,,59.7,56.34574332,2441.397603
+entrectinib,candesartan_cilexetil,0.25,,144.03,measurement failed,12.95391789
+entrectinib,indomethacin,4,,37.91,34.17658895,853.1412401
+entrectinib,indomethacin,2,,79.32,21.53059909,2232.787716
+entrectinib,indomethacin,1,,51.59,49.44646689,1738.524603
+entrectinib,indomethacin,0.5,,172.09,52.1186612,10.91122555
+entrectinib,indomethacin,0.25,,60.78,55.10458407,4.876123635
+entrectinib,folic acid,4,,102.36,43.1428553,6.07910357
+entrectinib,folic acid,2,,683.02,46.47346726,1274.845145
+entrectinib,folic acid,1,,154.82,13.35256641,9.292156799
+entrectinib,folic acid,0.5,,measurement failed,23.98737842,905.953026
+entrectinib,folic acid,0.25,,347.27,16.58561587,2.540058588
+entrectinib,neotame,4,,353.09,53.62224918,4.78475741
+entrectinib,neotame,2,,743.39,51.15985722,12.06654016
+entrectinib,neotame,1,,595.14,41.27621442,2.077087337
+entrectinib,neotame,0.5,,884.63,25.64188551,4.56033412
+entrectinib,neotame,0.25,,189.17,measurement failed,885.6683409
+entrectinib,octyl_gallate,4,,816.88,53.4656255,9.595998593
+entrectinib,octyl_gallate,2,,526.3,59.5621269,1960.931566
+entrectinib,octyl_gallate,1,,528.51,48.48376627,8.080205406
+entrectinib,octyl_gallate,0.5,,43.9,57.73439088,335.7268558
+entrectinib,octyl_gallate,0.25,,measurement failed,26.49540274,925.536511
