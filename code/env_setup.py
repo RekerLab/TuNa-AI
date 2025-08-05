@@ -71,4 +71,5 @@ def make_prediction(
 
     # Build model and predict
     model = SVC(probability=True, kernel='precomputed')
-    return model_build(model, 'kernel', train_kernel, y_train, test_kernel)
+    proba = model_build(model, 'kernel', train_kernel, y_train, test_kernel)[1][0]
+    return proba
