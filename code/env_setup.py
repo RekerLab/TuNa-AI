@@ -2,7 +2,7 @@
 import pickle
 import numpy as np
 from sklearn.svm import SVC
-from utils import *  # assumes you have describe_mol, tanimoto, rbf_kernel, matrices_operation, model_build
+from utils import *
 
 # === Load Training Data ===
 TRAIN_PKL_PATH = './TuNa-AI/data/train_info.pkl'
@@ -70,4 +70,5 @@ def make_prediction(
     test_kernel = matrices_operation([chemistry_test, test_matrix[-1]], option='multiplication')
 
     # Build model and predict
-    return model_build('SVC', 'kernel', train_kernel, y_train, test_kernel)
+    model = SVC(probability=True, kernel='precomputed')
+    return model_build(model, 'kernel', train_kernel, y_train, test_kernel)
