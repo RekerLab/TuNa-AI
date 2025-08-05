@@ -141,7 +141,7 @@ def model_build(model, model_type, X_train, y_train, X_test):
     X_train, X_test = sim2dis(X_train, 3), sim2dis(X_test, 3)
   model.fit(X_train, y_train)
   train_end = time.time()
-  proba = 1 - model.predict_proba(X_test)[:, 0] if 'GaussianProcessRegressor' not in model_name else model.predict(X_test)
+  proba = model.predict_proba(X_test)[:, 1] if 'GaussianProcessRegressor' not in model_name else model.predict(X_test)
   predict_end = time.time()
 
   return [model_name, proba, train_end-train_start, predict_end-train_end]
