@@ -97,6 +97,9 @@ def styled_text_input(placeholder, value=''):
         layout=widgets.Layout(height='60px')
     )
 
+# Title
+title = widgets.HTML("<h2>Free that Tuna! 🧪 Predict your nanoparticle formation with tunability </h2>")
+
 # Input widgets
 drug_smiles_input = styled_text_input('Enter drug SMILES')
 excp_smiles_input = styled_text_input('Enter excipient SMILES')
