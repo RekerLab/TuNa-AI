@@ -10,22 +10,30 @@ from e3fp.fingerprint.metrics.array_metrics import tanimoto
 import rdkit
 from rdkit import Chem
 from rdkit.Chem import AllChem
-from descriptastorus.descriptors import rdNormalizedDescriptors
+from descriptastorus.descriptors.DescriptorGenerator import MakeGenerator
 
+# Define feature post-processing function
+def feat_post_processing(input_list):
+  float32_max = np.finfo(np.float32).max
+  processed = []
+  for array in input_list:
+    array = np.where(np.isnan(array), np.float32(0.0), array)
+    array = np.where(array > float32_max, float32_max, array)
+    processed.append(array)
+  return np.array(processed)
+  
 # Molecule featurization
 def describe_mol(smiles):
   mol = Chem.MolFromSmiles(smiles)
   # morgan fingerprints
-  fp = AllChem.GetMorganFingerprintAsBitVect(mol, 4, nBits=2048) # radius=4, bits=2048
-  fp_list = []
-  fp_list.extend(fp.ToBitString())
-  fp_expl = []
-  fp_expl = [int(x) for x in fp_list]
+  fpgen = AllChem.GetMorganGenerator(radius=4, fpSize=2048)
+  fp = fpgen.GetFingerprintAsNumPy(mol)
   # normalized physicochemical (rdkit) descriptors
-  generator = rdNormalizedDescriptors.RDKit2DNormalized()
+  generator = MakeGenerator(('RDKit2DNormalized',))
   descriptor = generator.process(smiles)[1:]
+  descriptor = feat_post_processing(descriptor)
   # concatenation
-  representation = fp_expl + descriptor
+  representation = np.concatenate([fp, descriptor])
   return representation
 
 # Retrieve pre-calculated features if available
