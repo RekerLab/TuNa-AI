@@ -130,12 +130,13 @@ def sim2dis(similarity_matrix, reference_point):
   return distance_matrix
 
 # Build the model
-def model_build(model, model_type, X_train, y_train, X_test):
+def model_build(model, model_type, X_train, y_train, X_test, verbose=1):
   if model_type not in ['ctrl', 'kernel']:
     raise KeyError("Please select from 'ctrl' and 'kernel'. Double check your spelling.")
   else:
     model_name = f'{model_type}_{str(type(model).__name__)}'
-  print(f'Developing {model_name}...')
+  if verbose == 1:
+    print(f'Developing {model_name}...')
   train_start = time.time()
   if model_type == 'kernel' and 'KNeighborsClassifier' in model_name:
     X_train, X_test = sim2dis(X_train, 3), sim2dis(X_test, 3)
