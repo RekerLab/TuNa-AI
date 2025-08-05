@@ -98,7 +98,7 @@ def styled_text_input(placeholder, value=''):
     )
 
 # Title
-title = widgets.HTML("<h2>Free that Tuna! 🧪 Predict your nanoparticle formation with tunability </h2>")
+title = widgets.HTML("<h2>Free that Tuna 🐟! Predict your nanoparticle formation with tunability </h2>")
 
 # Input widgets
 drug_smiles_input = styled_text_input('Enter drug SMILES')
@@ -143,6 +143,7 @@ def on_button_clicked(b):
             display(HTML("<span style='font-size:16px; color:red'>Error: Mixing ratio must be a positive number.</span>"))
             return
 
+        display(HTML("<span style='font-size:16px; color:black'>Model running...</span>"))
         # Convert and predict
         mixing_ratio = float(mixing_ratio_str)
         try:
@@ -155,6 +156,7 @@ submit_button.on_click(on_button_clicked)
 
 # Assemble clean layout with large bold labels
 dashboard = widgets.VBox([
+    title, 
     widgets.HTML("<div style='font-size:16px; font-weight:bold'>Drug SMILES:</div>"),
     drug_smiles_input,
     widgets.HTML("<div style='font-size:16px; font-weight:bold'>Excipient SMILES:</div>"),
