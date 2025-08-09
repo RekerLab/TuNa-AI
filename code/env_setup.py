@@ -155,7 +155,7 @@ def on_button_clicked(b):
 submit_button.on_click(on_button_clicked)
 
 # Assemble clean layout with large bold labels
-dashboard = widgets.VBox([
+TuNa-AI = widgets.VBox([
     title, 
     widgets.HTML("<div style='font-size:16px; font-weight:bold'>Drug SMILES:</div>"),
     drug_smiles_input,
