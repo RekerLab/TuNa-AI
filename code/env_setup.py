@@ -38,13 +38,13 @@ def make_prediction(
 
     # Featurize new system
     try:
-        drug_feat  = describe_mol(drug_smiles)
+        drug_feat = describe_mol(drug_smiles)
     except:
         print('Invalid drug SMILES!')
         return
 
     try:
-        excp_feat  = describe_mol(excp_smiles)
+        excp_feat = describe_mol(excp_smiles)
     except:
         print('Invalid excipient SMILES!')
         return
@@ -52,13 +52,15 @@ def make_prediction(
     X_test = np.concatenate([drug_feat, excp_feat, [mixing_ratio]]).reshape(1, -1)
 
     # Feature indices
-    fp_index      = np.concatenate((np.arange(count_fp), np.arange(count_fp+count_rdkit, 2*count_fp+count_rdkit)))
-    rdkit_index   = np.concatenate((np.arange(count_fp, count_fp+count_rdkit), np.arange(2*count_fp+count_rdkit, 2*count_fp+2*count_rdkit)))
-    ratio_index   = np.array([-1])
+    fp_index = np.concatenate((np.arange(count_fp), np.arange(count_fp+count_rdkit, 2*count_fp+count_rdkit)))
+    rdkit_index = np.concatenate((np.arange(count_fp, count_fp+count_rdkit), np.arange(2*count_fp+count_rdkit, 2*count_fp+2*count_rdkit)))
+    ratio_index = np.array([-1])
 
     # Log2 ratio transformations
-    #train_ratio   = np.log2(X_train[:, ratio_index])
-    #test_ratio    = np.log2(X_test[:, ratio_index])
+    #train_ratio = np.log2(X_train[:, ratio_index])
+    train_ratio = X_train[:, ratio_index]
+    #test_ratio = np.log2(X_test[:, ratio_index])
+    test_ratio = X_test[:, ratio_index]
 
     # Kernel matrices for train and test
     train_matrix = [
