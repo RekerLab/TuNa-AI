@@ -24,6 +24,7 @@ The available data sources include:
 This folder includes core functions that underlie the analysis pipeline and executable examples for users to run:
 * Retrospective evaluation of machine learning and deep learning
 * Prospective prediction of new compounds and pairs
+* Real-time nanoparticle prediction through a [webserver](https://github.com/RekerLab/TuNa-AI/blob/main/code/TuNaOnline.md)
 
 ## License
 The copyrights of the software are owned by Duke University. As such, two licenses for this software are offered:
