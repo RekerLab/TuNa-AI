@@ -57,8 +57,8 @@ def make_prediction(
     ratio_index   = np.array([-1])
 
     # Log2 ratio transformations
-    train_ratio   = np.log2(X_train[:, ratio_index])
-    test_ratio    = np.log2(X_test[:, ratio_index])
+    #train_ratio   = np.log2(X_train[:, ratio_index])
+    #test_ratio    = np.log2(X_test[:, ratio_index])
 
     # Kernel matrices for train and test
     train_matrix = [
