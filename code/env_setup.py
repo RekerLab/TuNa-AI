@@ -10,6 +10,9 @@ with open(TRAIN_PKL_PATH, 'rb') as infile:
     X_train, y_train = pickle.load(infile)
 
 # === Core Prediction Function ===
+def transformation(x, k=3):
+    return np.exp(k * np.log(x))
+    
 def make_prediction(
     input_info,
     count_fp=2048,
@@ -58,9 +61,9 @@ def make_prediction(
 
     # Log2 ratio transformations
     #train_ratio = np.log2(X_train[:, ratio_index])
-    train_ratio = [2**i for i in X_train[:, ratio_index]]
+    train_ratio = [transformation(i) for i in X_train[:, ratio_index]]
     #test_ratio = np.log2(X_test[:, ratio_index])
-    test_ratio = [2**i for i in X_test[:, ratio_index]]
+    test_ratio = [transformation(i) for i in X_test[:, ratio_index]]
 
     # Kernel matrices for train and test
     train_matrix = [
