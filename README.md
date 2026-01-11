@@ -29,4 +29,10 @@ This folder includes core functions that underlie the analysis pipeline and exec
 ## License
 The copyrights of the software are owned by Duke University. As such, two licenses for this software are offered:
 1. An open-source license under the GPLv2 license for non-commercial academic use.
-2. A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions. 
+2. A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions.
+
+## Citation
+If you find this work or code useful, please cite our [ACS Nano paper](https://pubs.acs.org/doi/10.1021/acsnano.5c09066):
+Zilu Zhang, Yan Xiang, Joe Laforet Jr., Ivan Spasojevic, Ping Fan, Ava Heffernan, Christine E. Eyler, Kris C. Wood, Zachary C. Hartman, and Daniel Reker
+ACS Nano 2025 19 (37), 33288-33296
+DOI: 10.1021/acsnano.5c09066
