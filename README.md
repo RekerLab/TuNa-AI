@@ -1,5 +1,5 @@
 # TuNa-AI: A Hybrid Kernel Machine to Design Tunable Nanoparticles for Drug Delivery
-This study combines *kernel machine design*, *lab automation*, and *experimental characterization techniques* to develop an **Tu**nable **Na**noparticle platform guided by **AI** (**TuNa-AI**).
+[This study](https://pubs.acs.org/doi/10.1021/acsnano.5c09066) combines *kernel machine design*, *lab automation*, and *experimental characterization techniques* to develop an **Tu**nable **Na**noparticle platform guided by **AI** (**TuNa-AI**).
 
 - Introduced the concept of **tuning drug-excipient nanoparticles by adjusting stoichiometry** during synthesis.
 - Developed **an automated, high-throughput data generation workflow**.
@@ -32,7 +32,4 @@ The copyrights of the software are owned by Duke University. As such, two licens
 2. A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions.
 
 ## Citation
-If you find this work or code useful, please cite our [ACS Nano paper](https://pubs.acs.org/doi/10.1021/acsnano.5c09066):
-Zilu Zhang, Yan Xiang, Joe Laforet Jr., Ivan Spasojevic, Ping Fan, Ava Heffernan, Christine E. Eyler, Kris C. Wood, Zachary C. Hartman, and Daniel Reker
-ACS Nano 2025 19 (37), 33288-33296
-DOI: 10.1021/acsnano.5c09066
+If you find this work or code useful, please cite our [ACS Nano paper](https://pubs.acs.org/doi/10.1021/acsnano.5c09066).
